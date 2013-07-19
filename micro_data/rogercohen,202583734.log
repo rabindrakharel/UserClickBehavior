@@ -1,0 +1,13 @@
+['rogercohen', 202583734, 'impression', '18', 241349152L, datetime.datetime(2013, 5, 27, 15, 53, 16), 0.102597588800827, False, 'best']
+['rogercohen', 202583734, 'impression', '9', 241350830L, datetime.datetime(2013, 5, 27, 15, 54, 15), 0.154879172823223, False, 'best']
+['rogercohen', 202583734, 'impression', None, 241350830L, datetime.datetime(2013, 5, 27, 15, 54, 15), 0.154879172823223, False, 'best']
+['rogercohen', 202583734, 'impression', '9', 241350830L, datetime.datetime(2013, 5, 27, 15, 54, 17), 0.154879172823223, False, 'best']
+['rogercohen', 202583734, 'impression', None, 241350830L, datetime.datetime(2013, 5, 27, 15, 54, 17), 0.154879172823223, False, 'best']
+['rogercohen', 202583734, 'impression', '9', 241350830L, datetime.datetime(2013, 5, 27, 15, 54, 19), 0.154879172823223, False, 'best']
+['rogercohen', 202583734, 'impression', None, 241350830L, datetime.datetime(2013, 5, 27, 15, 54, 19), 0.154879172823223, False, 'best']
+['rogercohen', 202583734, 'impression', '20', 241348763L, datetime.datetime(2013, 5, 27, 15, 55, 44), 0.0849131999289289, False, 'best']
+['rogercohen', 202583734, 'impression', None, 241348763L, datetime.datetime(2013, 5, 27, 15, 55, 44), 0.0849131999289289, False, 'best']
+
+['rogercohen', 202583734, 'impression', '19', 241357881L, datetime.datetime(2013, 5, 27, 22, 3, 8), 0.0858327306111566, True, 'best']
+['rogercohen', 202583734, 'impression', '20', 241348763L, datetime.datetime(2013, 5, 27, 22, 3, 13), 0.0849131999289289, False, 'best']
+

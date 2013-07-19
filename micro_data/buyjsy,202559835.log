@@ -1,0 +1,10 @@
+['buyjsy', 202559835, 'impression', '1', 240853228L, datetime.datetime(2013, 5, 20, 18, 31, 13), 0.0822652828645027, False, 'time']
+
+['buyjsy', 202559835, 'impression', '2', 240853228L, datetime.datetime(2013, 5, 22, 13, 17, 11), 0.0822652828645027, False, 'time']
+['buyjsy', 202559835, 'impression', '1', 240934510L, datetime.datetime(2013, 5, 22, 13, 17, 11), 0.0809406506396428, True, 'time']
+['buyjsy', 202559835, 'view_full_application_via_name', '1', 240934510L, datetime.datetime(2013, 5, 22, 13, 17, 41), 0.0809406506396428, True, 'time']
+
+['buyjsy', 202559835, 'impression', '2', 240853228L, datetime.datetime(2013, 5, 22, 14, 24, 14), 0.0822652828645027, False, 'time']
+['buyjsy', 202559835, 'impression', '1', 240934510L, datetime.datetime(2013, 5, 22, 14, 24, 14), 0.0809406506396428, True, 'time']
+['buyjsy', 202559835, 'view_full_application_via_name', '1', 240934510L, datetime.datetime(2013, 5, 22, 14, 24, 17), 0.0809406506396428, True, 'time']
+

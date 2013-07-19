@@ -1,0 +1,21 @@
+['l_van_pottelsb', 202577061, 'impression', '2', 241191833L, datetime.datetime(2013, 5, 27, 9, 50, 25), 0.40401268437887, False, 'time']
+['l_van_pottelsb', 202577061, 'impression', '3', 241191733L, datetime.datetime(2013, 5, 27, 9, 50, 25), 0.0654308218538031, False, 'time']
+['l_van_pottelsb', 202577061, 'impression', '4', 241191589L, datetime.datetime(2013, 5, 27, 9, 50, 25), 0.311393711100366, False, 'time']
+['l_van_pottelsb', 202577061, 'impression', '1', 241192137L, datetime.datetime(2013, 5, 27, 9, 50, 25), 0.152579449317506, False, 'time']
+['l_van_pottelsb', 202577061, 'impression', '3', 241191733L, datetime.datetime(2013, 5, 27, 9, 50, 46), 0.0654308218538031, False, 'time']
+['l_van_pottelsb', 202577061, 'impression', '4', 241191589L, datetime.datetime(2013, 5, 27, 9, 50, 46), 0.311393711100366, False, 'time']
+['l_van_pottelsb', 202577061, 'impression', '2', 241191833L, datetime.datetime(2013, 5, 27, 9, 50, 46), 0.40401268437887, False, 'time']
+['l_van_pottelsb', 202577061, 'impression', '1', 241192137L, datetime.datetime(2013, 5, 27, 9, 50, 46), 0.152579449317506, False, 'time']
+
+['l_van_pottelsb', 202577061, 'impression', '2', 241191833L, datetime.datetime(2013, 5, 27, 12, 4, 15), 0.40401268437887, False, 'time']
+['l_van_pottelsb', 202577061, 'impression', '3', 241191733L, datetime.datetime(2013, 5, 27, 12, 4, 15), 0.0654308218538031, False, 'time']
+['l_van_pottelsb', 202577061, 'impression', '1', 241192137L, datetime.datetime(2013, 5, 27, 12, 4, 15), 0.152579449317506, False, 'time']
+['l_van_pottelsb', 202577061, 'impression', '4', 241191589L, datetime.datetime(2013, 5, 27, 12, 4, 15), 0.311393711100366, False, 'time']
+
+['l_van_pottelsb', 202577061, 'impression', '5', 241191589L, datetime.datetime(2013, 5, 28, 11, 40, 8), 0.311393711100366, False, 'time']
+['l_van_pottelsb', 202577061, 'impression', '4', 241191733L, datetime.datetime(2013, 5, 28, 11, 40, 8), 0.0654308218538031, False, 'time']
+['l_van_pottelsb', 202577061, 'impression', '2', 241192100L, datetime.datetime(2013, 5, 28, 11, 40, 8), 0.204956003123983, False, 'time']
+['l_van_pottelsb', 202577061, 'impression', '1', 241192137L, datetime.datetime(2013, 5, 28, 11, 40, 8), 0.152579449317506, False, 'time']
+['l_van_pottelsb', 202577061, 'impression', '3', 241191833L, datetime.datetime(2013, 5, 28, 11, 40, 8), 0.40401268437887, False, 'time']
+['l_van_pottelsb', 202577061, 'impression', '1', 241192137L, datetime.datetime(2013, 5, 28, 11, 40, 14), 0.152579449317506, False, 'time']
+

@@ -1,0 +1,5 @@
+['delaware11', 202566379, 'impression', '1', 240973900L, datetime.datetime(2013, 5, 22, 3, 43, 1), 0.0899388925395729, False, 'best']
+['delaware11', 202566379, 'impression', '2', 240973882L, datetime.datetime(2013, 5, 22, 3, 43, 1), 0.0650133722394704, True, 'best']
+['delaware11', 202566379, 'expand_tile', '2', 240973882L, datetime.datetime(2013, 5, 22, 3, 43, 3), 0.0650133722394704, True, 'best']
+['delaware11', 202566379, 'view_full_application_via_name', '2', 240973882L, datetime.datetime(2013, 5, 22, 3, 43, 4), 0.0650133722394704, True, 'best']
+

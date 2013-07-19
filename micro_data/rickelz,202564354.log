@@ -1,0 +1,5 @@
+['rickelz', 202564354, 'impression', '1', 240971228L, datetime.datetime(2013, 5, 22, 9, 6, 37), 0.465222050055509, False, 'time']
+['rickelz', 202564354, 'expand_tile', '1', 240971228L, datetime.datetime(2013, 5, 22, 9, 6, 53), 0.465222050055509, False, 'time']
+['rickelz', 202564354, 'send_message', '1', 240971228L, datetime.datetime(2013, 5, 22, 9, 6, 59), 0.465222050055509, False, 'time']
+['rickelz', 202564354, 'expand_tile', '1', 240971228L, datetime.datetime(2013, 5, 22, 9, 9, 47), 0.465222050055509, False, 'time']
+

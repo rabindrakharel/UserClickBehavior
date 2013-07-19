@@ -1,0 +1,8 @@
+['florent_p', 202546965, 'impression', '1', 240571353L, datetime.datetime(2013, 5, 16, 19, 41, 47), 0.361261107486501, False, 'time']
+['florent_p', 202546965, 'view_full_application_via_name', '1', 240571353L, datetime.datetime(2013, 5, 16, 19, 41, 49), 0.361261107486501, False, 'time']
+
+['florent_p', 202546965, 'impression', '1', 240571353L, datetime.datetime(2013, 5, 16, 20, 12, 45), 0.361261107486501, False, 'time']
+['florent_p', 202546965, 'expand_tile', '1', 240571353L, datetime.datetime(2013, 5, 16, 20, 12, 52), 0.361261107486501, False, 'time']
+['florent_p', 202546965, 'impression', '2', 240570513L, datetime.datetime(2013, 5, 16, 20, 26, 16), 0.322989140727825, False, 'time']
+['florent_p', 202546965, 'impression', '1', 240571353L, datetime.datetime(2013, 5, 16, 20, 26, 16), 0.361261107486501, False, 'time']
+

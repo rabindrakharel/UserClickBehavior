@@ -1,0 +1,11 @@
+['gboozell', 202537545, 'impression', '2', 240388729L, datetime.datetime(2013, 5, 14, 21, 46, 46), 0.291512014060303, False, 'best']
+['gboozell', 202537545, 'impression', '5', 240393355L, datetime.datetime(2013, 5, 14, 21, 46, 46), 0.157481769964098, False, 'best']
+['gboozell', 202537545, 'impression', '6', 240392990L, datetime.datetime(2013, 5, 14, 21, 46, 46), 0.0657085771371671, False, 'best']
+['gboozell', 202537545, 'impression', '1', 240385434L, datetime.datetime(2013, 5, 14, 21, 46, 46), 0.374694098035888, False, 'best']
+['gboozell', 202537545, 'impression', '3', 240391819L, datetime.datetime(2013, 5, 14, 21, 46, 46), 0.224378020127853, False, 'best']
+['gboozell', 202537545, 'impression', '15', 240386783L, datetime.datetime(2013, 5, 14, 21, 46, 46), 0.0, False, 'best']
+['gboozell', 202537545, 'impression', '18', 240392381L, datetime.datetime(2013, 5, 14, 21, 46, 46), 0.0681892502291754, False, 'best']
+['gboozell', 202537545, 'impression', '16', 240387311L, datetime.datetime(2013, 5, 14, 21, 46, 46), 0.0, False, 'best']
+['gboozell', 202537545, 'impression', '17', 240392376L, datetime.datetime(2013, 5, 14, 21, 46, 46), 0.0505633517217393, False, 'best']
+['gboozell', 202537545, 'impression', '4', 240390332L, datetime.datetime(2013, 5, 14, 21, 46, 46), 0.18969881350814, False, 'best']
+

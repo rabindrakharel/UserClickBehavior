@@ -1,0 +1,4 @@
+['alex_johan', 202574733, 'impression', '1', 241143149L, datetime.datetime(2013, 5, 24, 15, 23, 13), 0.0715097953233553, False, 'time']
+['alex_johan', 202574733, 'impression', '2', 241143071L, datetime.datetime(2013, 5, 24, 15, 23, 13), 0.0547720538158957, False, 'time']
+['alex_johan', 202574733, 'impression', '1', 241143149L, datetime.datetime(2013, 5, 24, 15, 23, 14), 0.0715097953233553, False, 'time']
+

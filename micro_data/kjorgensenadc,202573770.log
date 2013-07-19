@@ -1,0 +1,12 @@
+['kjorgensenadc', 202573770, 'impression', '1', 241124397L, datetime.datetime(2013, 5, 24, 15, 42, 22), 0.488227921361443, False, 'time']
+['kjorgensenadc', 202573770, 'impression', '1', 241124397L, datetime.datetime(2013, 5, 24, 15, 42, 30), 0.488227921361443, False, 'time']
+['kjorgensenadc', 202573770, 'view_full_application_via_name', '1', 241124397L, datetime.datetime(2013, 5, 24, 15, 42, 36), 0.488227921361443, False, 'time']
+['kjorgensenadc', 202573770, 'impression', '1', 241124397L, datetime.datetime(2013, 5, 24, 15, 42, 45), 0.488227921361443, False, 'time']
+
+['kjorgensenadc', 202573770, 'impression', '1', 241124397L, datetime.datetime(2013, 5, 24, 17, 6, 59), 0.488227921361443, False, 'time']
+
+['kjorgensenadc', 202573770, 'impression', '1', 241124397L, datetime.datetime(2013, 5, 24, 18, 0, 22), 0.488227921361443, False, 'time']
+
+['kjorgensenadc', 202573770, 'impression', '2', 241124397L, datetime.datetime(2013, 5, 28, 17, 16, 27), 0.488227921361443, False, 'time']
+['kjorgensenadc', 202573770, 'impression', '1', 241143690L, datetime.datetime(2013, 5, 28, 17, 16, 27), 0.408868164310487, False, 'time']
+

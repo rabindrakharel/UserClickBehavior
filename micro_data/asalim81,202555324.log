@@ -1,0 +1,7 @@
+['asalim81', 202555324, 'impression', '1', 240754609L, datetime.datetime(2013, 5, 19, 12, 16, 33), 0.109904263346893, False, 'best']
+['asalim81', 202555324, 'impression', '2', 240754991L, datetime.datetime(2013, 5, 19, 12, 16, 33), 0.0905539738435838, False, 'best']
+['asalim81', 202555324, 'impression', '3', 240755315L, datetime.datetime(2013, 5, 19, 12, 16, 33), 0.0755451458635528, False, 'best']
+['asalim81', 202555324, 'expand_tile', '1', 240754609L, datetime.datetime(2013, 5, 19, 12, 16, 41), 0.109904263346893, False, 'best']
+['asalim81', 202555324, 'expand_tile', '2', 240754991L, datetime.datetime(2013, 5, 19, 12, 17, 10), 0.0905539738435838, False, 'best']
+['asalim81', 202555324, 'expand_tile', '3', 240755315L, datetime.datetime(2013, 5, 19, 12, 17, 12), 0.0755451458635528, False, 'best']
+

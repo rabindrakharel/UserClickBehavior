@@ -1,0 +1,12 @@
+['daviddonihue', 202557101, 'impression', '2', 240789531L, datetime.datetime(2013, 5, 20, 3, 19, 6), 0.0880543532346918, False, 'time']
+['daviddonihue', 202557101, 'impression', '1', 240789554L, datetime.datetime(2013, 5, 20, 3, 19, 6), 0.0389456571590623, False, 'time']
+['daviddonihue', 202557101, 'impression', '3', 240789511L, datetime.datetime(2013, 5, 20, 3, 19, 6), 0.0764140860897053, False, 'time']
+['daviddonihue', 202557101, 'expand_tile', '3', 240789511L, datetime.datetime(2013, 5, 20, 3, 19, 32), 0.0764140860897053, False, 'time']
+['daviddonihue', 202557101, 'expand_tile', '2', 240789531L, datetime.datetime(2013, 5, 20, 3, 19, 58), 0.0880543532346918, False, 'time']
+['daviddonihue', 202557101, 'impression', '1', 240789554L, datetime.datetime(2013, 5, 20, 3, 20, 24), 0.0389456571590623, False, 'time']
+['daviddonihue', 202557101, 'send_message', '2', 240789531L, datetime.datetime(2013, 5, 20, 3, 31, 1), 0.0880543532346918, False, 'time']
+['daviddonihue', 202557101, 'expand_tile', '2', 240789531L, datetime.datetime(2013, 5, 20, 3, 43, 30), 0.0880543532346918, False, 'time']
+
+['daviddonihue', 202557101, 'impression', '2', 240789511L, datetime.datetime(2013, 5, 20, 6, 26, 5), 0.0764140860897053, False, 'time']
+['daviddonihue', 202557101, 'impression', '1', 240789531L, datetime.datetime(2013, 5, 20, 6, 26, 5), 0.0880543532346918, False, 'time']
+

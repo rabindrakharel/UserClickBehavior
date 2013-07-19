@@ -1,0 +1,7 @@
+['danielinperth', 202557534, 'impression', '2', 240820136L, datetime.datetime(2013, 5, 22, 8, 43, 16), 0.0503268772976865, False, 'best']
+['danielinperth', 202557534, 'impression', '1', 240817081L, datetime.datetime(2013, 5, 22, 8, 43, 16), 0.0877570497756018, False, 'best']
+['danielinperth', 202557534, 'view_full_application_via_name', '2', 240820136L, datetime.datetime(2013, 5, 22, 8, 43, 52), 0.0503268772976865, False, 'best']
+['danielinperth', 202557534, 'impression', '2', 240820136L, datetime.datetime(2013, 5, 22, 8, 59, 8), 0.0503268772976865, False, 'best']
+['danielinperth', 202557534, 'impression', '1', 240817081L, datetime.datetime(2013, 5, 22, 8, 59, 8), 0.0877570497756018, False, 'best']
+['danielinperth', 202557534, 'view_full_application_via_name', '2', 240820136L, datetime.datetime(2013, 5, 22, 8, 59, 13), 0.0503268772976865, False, 'best']
+

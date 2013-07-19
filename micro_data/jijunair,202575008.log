@@ -1,0 +1,14 @@
+['jijunair', 202575008, 'impression', '1', 241154500L, datetime.datetime(2013, 5, 24, 5, 0, 12), 0.26358388552754, False, 'best']
+['jijunair', 202575008, 'impression', '2', 241159254L, datetime.datetime(2013, 5, 24, 5, 0, 12), 0.153566143479758, False, 'best']
+['jijunair', 202575008, 'impression', '3', 241147265L, datetime.datetime(2013, 5, 24, 5, 0, 12), 0.128537941385617, False, 'best']
+['jijunair', 202575008, 'impression', '1', 241154500L, datetime.datetime(2013, 5, 24, 5, 1, 18), 0.26358388552754, False, 'best']
+['jijunair', 202575008, 'impression', '2', 241159254L, datetime.datetime(2013, 5, 24, 5, 1, 18), 0.153566143479758, False, 'best']
+['jijunair', 202575008, 'impression', '3', 241147265L, datetime.datetime(2013, 5, 24, 5, 1, 18), 0.128537941385617, False, 'best']
+['jijunair', 202575008, 'expand_tile', '2', 241159254L, datetime.datetime(2013, 5, 24, 5, 1, 28), 0.153566143479758, False, 'best']
+['jijunair', 202575008, 'expand_tile', '3', 241147265L, datetime.datetime(2013, 5, 24, 5, 2, 13), 0.128537941385617, False, 'best']
+['jijunair', 202575008, 'impression', '2', 241159254L, datetime.datetime(2013, 5, 24, 5, 25, 33), 0.153566143479758, False, 'best']
+
+['jijunair', 202575008, 'impression', '3', 241147265L, datetime.datetime(2013, 5, 24, 9, 3, 46), 0.128537941385617, False, 'best']
+['jijunair', 202575008, 'impression', '2', 241159254L, datetime.datetime(2013, 5, 24, 9, 3, 46), 0.153566143479758, False, 'best']
+['jijunair', 202575008, 'impression', '1', 241154500L, datetime.datetime(2013, 5, 24, 9, 3, 46), 0.26358388552754, False, 'best']
+

@@ -1,0 +1,7 @@
+['mark5020', 202566581, 'impression', None, 241000948L, datetime.datetime(2013, 5, 23, 9, 2, 51), 0.157005352338759, False, 'best']
+['mark5020', 202566581, 'impression', None, 241000948L, datetime.datetime(2013, 5, 23, 9, 2, 51), 0.157005352338759, False, 'best']
+['mark5020', 202566581, 'impression', '1', 241000948L, datetime.datetime(2013, 5, 23, 9, 2, 51), 0.157005352338759, False, 'best']
+['mark5020', 202566581, 'impression', '1', 241000948L, datetime.datetime(2013, 5, 23, 9, 2, 51), 0.157005352338759, False, 'best']
+
+['mark5020', 202566581, 'impression', '3', 240982779L, datetime.datetime(2013, 5, 23, 11, 43, 42), 0.127299818796674, False, 'best']
+

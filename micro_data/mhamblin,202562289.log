@@ -1,0 +1,37 @@
+['mhamblin', 202562289, 'impression', '1', 240907423L, datetime.datetime(2013, 5, 21, 18, 56, 22), 0.395268330306794, True, 'best']
+['mhamblin', 202562289, 'impression', '2', 240948961L, datetime.datetime(2013, 5, 21, 18, 56, 22), 0.179405300421221, False, 'best']
+['mhamblin', 202562289, 'expand_tile', '2', 240948961L, datetime.datetime(2013, 5, 21, 18, 56, 42), 0.179405300421221, False, 'best']
+['mhamblin', 202562289, 'collapse_tile', '2', 240948961L, datetime.datetime(2013, 5, 21, 18, 56, 46), 0.179405300421221, False, 'best']
+['mhamblin', 202562289, 'expand_tile', '2', 240948961L, datetime.datetime(2013, 5, 21, 18, 56, 47), 0.179405300421221, False, 'best']
+['mhamblin', 202562289, 'view_full_application_via_name', '2', 240948961L, datetime.datetime(2013, 5, 21, 18, 56, 58), 0.179405300421221, False, 'best']
+['mhamblin', 202562289, 'impression', '1', 240907423L, datetime.datetime(2013, 5, 21, 18, 57, 48), 0.395268330306794, True, 'best']
+['mhamblin', 202562289, 'impression', '2', 240948961L, datetime.datetime(2013, 5, 21, 18, 57, 48), 0.179405300421221, False, 'best']
+['mhamblin', 202562289, 'view_full_application_via_name', '1', 240907423L, datetime.datetime(2013, 5, 21, 18, 57, 50), 0.395268330306794, True, 'best']
+['mhamblin', 202562289, 'impression', '1', 240907423L, datetime.datetime(2013, 5, 21, 19, 0, 47), 0.395268330306794, True, 'best']
+['mhamblin', 202562289, 'impression', '2', 240948961L, datetime.datetime(2013, 5, 21, 19, 0, 47), 0.179405300421221, False, 'best']
+
+['mhamblin', 202562289, 'view_full_application_via_name', '2', 240948961L, datetime.datetime(2013, 5, 21, 21, 3, 35), 0.179405300421221, False, 'best']
+['mhamblin', 202562289, 'impression', '2', 240948961L, datetime.datetime(2013, 5, 21, 21, 4, 53), 0.179405300421221, False, 'best']
+['mhamblin', 202562289, 'impression', '1', 240907423L, datetime.datetime(2013, 5, 21, 21, 4, 53), 0.395268330306794, True, 'best']
+['mhamblin', 202562289, 'view_full_application_via_name', '1', 240907423L, datetime.datetime(2013, 5, 21, 21, 5, 7), 0.395268330306794, True, 'best']
+
+['mhamblin', 202562289, 'impression', '2', 240948961L, datetime.datetime(2013, 5, 21, 22, 27, 55), 0.179405300421221, False, 'best']
+['mhamblin', 202562289, 'impression', '1', 240907423L, datetime.datetime(2013, 5, 21, 22, 27, 55), 0.395268330306794, True, 'best']
+['mhamblin', 202562289, 'view_full_application_via_name', '1', 240907423L, datetime.datetime(2013, 5, 21, 22, 28, 2), 0.395268330306794, True, 'best']
+['mhamblin', 202562289, 'impression', '1', 240907423L, datetime.datetime(2013, 5, 21, 22, 57, 34), 0.395268330306794, True, 'best']
+['mhamblin', 202562289, 'impression', '2', 240948961L, datetime.datetime(2013, 5, 21, 22, 57, 34), 0.179405300421221, False, 'best']
+
+['mhamblin', 202562289, 'impression', '1', 240907423L, datetime.datetime(2013, 5, 22, 0, 4, 59), 0.395268330306794, True, 'best']
+['mhamblin', 202562289, 'impression', '2', 240948961L, datetime.datetime(2013, 5, 22, 0, 4, 59), 0.179405300421221, False, 'best']
+
+['mhamblin', 202562289, 'view_full_application_via_name', '1', 240907423L, datetime.datetime(2013, 5, 22, 2, 49, 59), 0.395268330306794, True, 'best']
+['mhamblin', 202562289, 'impression', '1', 240907423L, datetime.datetime(2013, 5, 22, 3, 10, 24), 0.395268330306794, True, 'best']
+['mhamblin', 202562289, 'impression', '2', 240948961L, datetime.datetime(2013, 5, 22, 3, 10, 24), 0.179405300421221, False, 'best']
+
+['mhamblin', 202562289, 'impression', '2', 240948961L, datetime.datetime(2013, 5, 29, 19, 59, 25), 0.179405300421221, False, 'best']
+['mhamblin', 202562289, 'impression', '1', 240907423L, datetime.datetime(2013, 5, 29, 19, 59, 25), 0.395268330306794, True, 'best']
+['mhamblin', 202562289, 'view_full_application_via_name', '1', 240907423L, datetime.datetime(2013, 5, 29, 19, 59, 28), 0.395268330306794, True, 'best']
+['mhamblin', 202562289, 'impression', '1', 240907423L, datetime.datetime(2013, 5, 29, 20, 28, 21), 0.395268330306794, True, 'best']
+['mhamblin', 202562289, 'impression', '2', 240948961L, datetime.datetime(2013, 5, 29, 20, 28, 21), 0.179405300421221, False, 'best']
+['mhamblin', 202562289, 'view_full_application_via_name', '1', 240907423L, datetime.datetime(2013, 5, 29, 20, 28, 22), 0.395268330306794, True, 'best']
+

@@ -1,0 +1,18 @@
+['tachachoux', 202548998, 'impression', '1', 240611475L, datetime.datetime(2013, 5, 17, 8, 54, 29), 0.710253932437348, False, 'time']
+['tachachoux', 202548998, 'impression', '2', 240611234L, datetime.datetime(2013, 5, 17, 8, 54, 29), 0.500483881651547, False, 'time']
+['tachachoux', 202548998, 'expand_tile', '2', 240611234L, datetime.datetime(2013, 5, 17, 8, 54, 40), 0.500483881651547, False, 'time']
+
+['tachachoux', 202548998, 'impression', '2', 240611234L, datetime.datetime(2013, 5, 17, 9, 26, 45), 0.500483881651547, False, 'time']
+['tachachoux', 202548998, 'impression', '1', 240611475L, datetime.datetime(2013, 5, 17, 9, 26, 45), 0.710253932437348, False, 'time']
+['tachachoux', 202548998, 'view_full_application_via_name', '1', 240611475L, datetime.datetime(2013, 5, 17, 9, 26, 50), 0.710253932437348, False, 'time']
+['tachachoux', 202548998, 'impression', '2', 240611234L, datetime.datetime(2013, 5, 17, 9, 27, 40), 0.500483881651547, False, 'time']
+['tachachoux', 202548998, 'impression', '1', 240611475L, datetime.datetime(2013, 5, 17, 9, 27, 40), 0.710253932437348, False, 'time']
+['tachachoux', 202548998, 'view_full_application_via_name', '2', 240611234L, datetime.datetime(2013, 5, 17, 9, 27, 43), 0.500483881651547, False, 'time']
+
+['tachachoux', 202548998, 'impression', '2', 240611475L, datetime.datetime(2013, 5, 17, 11, 28, 3), 0.710253932437348, False, 'time']
+['tachachoux', 202548998, 'impression', '1', 240620434L, datetime.datetime(2013, 5, 17, 11, 28, 3), 0.851386743509734, False, 'time']
+['tachachoux', 202548998, 'view_full_application_via_name', '1', 240620434L, datetime.datetime(2013, 5, 17, 11, 28, 9), 0.851386743509734, False, 'time']
+['tachachoux', 202548998, 'impression', '1', 240611475L, datetime.datetime(2013, 5, 17, 11, 28, 52), 0.710253932437348, False, 'time']
+['tachachoux', 202548998, 'impression', '1', 240611475L, datetime.datetime(2013, 5, 17, 11, 39, 35), 0.710253932437348, False, 'time']
+['tachachoux', 202548998, 'view_full_application_via_name', '1', 240611475L, datetime.datetime(2013, 5, 17, 11, 39, 37), 0.710253932437348, False, 'time']
+

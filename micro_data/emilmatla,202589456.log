@@ -1,0 +1,7 @@
+['emilmatla', 202589456, 'impression', '3', 241481415L, datetime.datetime(2013, 5, 28, 12, 16, 3), 0.262558437907544, False, 'best']
+['emilmatla', 202589456, 'impression', '2', 241482718L, datetime.datetime(2013, 5, 28, 12, 16, 3), 0.300177397471141, False, 'best']
+['emilmatla', 202589456, 'impression', '1', 241478645L, datetime.datetime(2013, 5, 28, 12, 16, 3), 0.486533507292632, True, 'best']
+['emilmatla', 202589456, 'expand_tile', '2', 241482718L, datetime.datetime(2013, 5, 28, 12, 16, 18), 0.300177397471141, False, 'best']
+['emilmatla', 202589456, 'expand_tile', '3', 241481415L, datetime.datetime(2013, 5, 28, 12, 16, 43), 0.262558437907544, False, 'best']
+['emilmatla', 202589456, 'view_full_application', '3', 241481415L, datetime.datetime(2013, 5, 28, 12, 16, 53), 0.262558437907544, False, 'best']
+

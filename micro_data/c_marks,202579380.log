@@ -1,0 +1,16 @@
+['c_marks', 202579380, 'impression', '2', 241244017L, datetime.datetime(2013, 5, 25, 12, 3, 4), 0.0776346173648543, False, 'best']
+['c_marks', 202579380, 'impression', '1', 241241083L, datetime.datetime(2013, 5, 25, 12, 3, 4), 0.21060907849807, False, 'best']
+['c_marks', 202579380, 'impression', '3', 241257427L, datetime.datetime(2013, 5, 25, 12, 3, 4), 0.0598458457570643, False, 'best']
+['c_marks', 202579380, 'view_full_application_via_name', '1', 241241083L, datetime.datetime(2013, 5, 25, 12, 4), 0.21060907849807, False, 'best']
+
+['c_marks', 202579380, 'impression', '2', 241267622L, datetime.datetime(2013, 5, 25, 14, 7, 9), 0.143178627159357, False, 'best']
+['c_marks', 202579380, 'impression', '3', 241244017L, datetime.datetime(2013, 5, 25, 14, 7, 9), 0.0776346173648543, False, 'best']
+['c_marks', 202579380, 'impression', '1', 241241083L, datetime.datetime(2013, 5, 25, 14, 7, 9), 0.21060907849807, False, 'best']
+['c_marks', 202579380, 'impression', '4', 241257427L, datetime.datetime(2013, 5, 25, 14, 7, 9), 0.0598458457570643, False, 'best']
+['c_marks', 202579380, 'expand_tile', '1', 241241083L, datetime.datetime(2013, 5, 25, 14, 7, 14), 0.21060907849807, False, 'best']
+['c_marks', 202579380, 'view_full_application_via_name', '3', 241244017L, datetime.datetime(2013, 5, 25, 14, 7, 47), 0.0776346173648543, False, 'best']
+['c_marks', 202579380, 'impression', '1', 241241083L, datetime.datetime(2013, 5, 25, 14, 11, 38), 0.21060907849807, False, 'best']
+['c_marks', 202579380, 'impression', '4', 241257427L, datetime.datetime(2013, 5, 25, 14, 11, 38), 0.0598458457570643, False, 'best']
+['c_marks', 202579380, 'impression', '2', 241267622L, datetime.datetime(2013, 5, 25, 14, 11, 38), 0.143178627159357, False, 'best']
+['c_marks', 202579380, 'impression', '3', 241244017L, datetime.datetime(2013, 5, 25, 14, 11, 38), 0.0776346173648543, False, 'best']
+

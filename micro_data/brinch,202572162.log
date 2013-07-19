@@ -1,0 +1,12 @@
+['brinch', 202572162, 'impression', '2', 241093189L, datetime.datetime(2013, 5, 23, 10, 16, 14), 0.0342408448549006, False, 'best']
+['brinch', 202572162, 'impression', '3', 241092755L, datetime.datetime(2013, 5, 23, 10, 16, 14), 0.0229158881159577, True, 'best']
+['brinch', 202572162, 'impression', '1', 241092464L, datetime.datetime(2013, 5, 23, 10, 16, 14), 0.285740219395966, False, 'best']
+['brinch', 202572162, 'view_full_application_via_name', '3', 241092755L, datetime.datetime(2013, 5, 23, 10, 16, 41), 0.0229158881159577, True, 'best']
+
+['brinch', 202572162, 'impression', '3', 241096786L, datetime.datetime(2013, 5, 23, 12, 29, 48), 0.0462049916255315, False, 'best']
+['brinch', 202572162, 'impression', '5', 241092755L, datetime.datetime(2013, 5, 23, 12, 29, 48), 0.0229158881159577, True, 'best']
+['brinch', 202572162, 'impression', '4', 241093189L, datetime.datetime(2013, 5, 23, 12, 29, 48), 0.0342408448549006, False, 'best']
+['brinch', 202572162, 'impression', '2', 241094900L, datetime.datetime(2013, 5, 23, 12, 29, 48), 0.186410696404758, False, 'best']
+['brinch', 202572162, 'impression', '1', 241092464L, datetime.datetime(2013, 5, 23, 12, 29, 48), 0.285740219395966, False, 'best']
+['brinch', 202572162, 'view_full_application_via_name', '5', 241092755L, datetime.datetime(2013, 5, 23, 12, 30, 5), 0.0229158881159577, True, 'best']
+

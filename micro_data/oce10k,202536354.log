@@ -1,0 +1,15 @@
+['oce10k', 202536354, 'impression', '1', 240392124L, datetime.datetime(2013, 5, 14, 22, 41, 26), 0.145510541628645, False, 'time']
+['oce10k', 202536354, 'expand_tile', '1', 240392124L, datetime.datetime(2013, 5, 14, 22, 41, 33), 0.145510541628645, False, 'time']
+
+['oce10k', 202536354, 'impression', '1', 240445686L, datetime.datetime(2013, 5, 15, 12, 21, 33), 0.118844654082143, False, 'time']
+
+['oce10k', 202536354, 'impression', '1', 240445686L, datetime.datetime(2013, 5, 15, 14, 46, 59), 0.118844654082143, False, 'time']
+
+['oce10k', 202536354, 'impression', '1', 240464708L, datetime.datetime(2013, 5, 15, 16, 11, 22), 0.155666920950808, False, 'time']
+['oce10k', 202536354, 'impression', '2', 240464183L, datetime.datetime(2013, 5, 15, 16, 11, 22), 0.0839280839598156, False, 'time']
+['oce10k', 202536354, 'impression', '3', 240445686L, datetime.datetime(2013, 5, 15, 16, 11, 22), 0.118844654082143, False, 'time']
+
+['oce10k', 202536354, 'impression', '2', 240464183L, datetime.datetime(2013, 5, 23, 12, 57, 9), 0.0839280839598156, False, 'time']
+['oce10k', 202536354, 'impression', '3', 240445686L, datetime.datetime(2013, 5, 23, 12, 57, 9), 0.118844654082143, False, 'time']
+['oce10k', 202536354, 'impression', '1', 240464708L, datetime.datetime(2013, 5, 23, 12, 57, 9), 0.155666920950808, False, 'time']
+

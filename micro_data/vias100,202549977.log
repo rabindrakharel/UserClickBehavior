@@ -1,0 +1,17 @@
+['vias100', 202549977, 'impression', '1', 240895087L, datetime.datetime(2013, 5, 21, 7, 43, 38), 0.480520624525745, False, 'time']
+
+['vias100', 202549977, 'impression', '2', 240895087L, datetime.datetime(2013, 5, 24, 10, 57, 5), 0.480520624525745, False, 'time']
+['vias100', 202549977, 'impression', '3', 240894690L, datetime.datetime(2013, 5, 24, 10, 57, 5), 0.438414067200074, False, 'time']
+['vias100', 202549977, 'impression', '1', 240895219L, datetime.datetime(2013, 5, 24, 10, 57, 5), 0.623407387166835, False, 'time']
+
+['vias100', 202549977, 'impression', '1', 240895219L, datetime.datetime(2013, 5, 27, 5, 0, 4), 0.623407387166835, False, 'time']
+['vias100', 202549977, 'impression', '3', 240894690L, datetime.datetime(2013, 5, 27, 5, 0, 4), 0.438414067200074, False, 'time']
+['vias100', 202549977, 'impression', '2', 240895087L, datetime.datetime(2013, 5, 27, 5, 0, 4), 0.480520624525745, False, 'time']
+
+['vias100', 202549977, 'impression', '3', 240894690L, datetime.datetime(2013, 5, 27, 9, 38, 27), 0.438414067200074, False, 'time']
+['vias100', 202549977, 'impression', '1', 240895219L, datetime.datetime(2013, 5, 27, 9, 38, 27), 0.623407387166835, False, 'time']
+['vias100', 202549977, 'impression', '2', 240895087L, datetime.datetime(2013, 5, 27, 9, 38, 27), 0.480520624525745, False, 'time']
+['vias100', 202549977, 'impression', '1', 240895219L, datetime.datetime(2013, 5, 27, 9, 39, 2), 0.623407387166835, False, 'time']
+['vias100', 202549977, 'impression', '3', 240894690L, datetime.datetime(2013, 5, 27, 9, 39, 2), 0.438414067200074, False, 'time']
+['vias100', 202549977, 'impression', '2', 240895087L, datetime.datetime(2013, 5, 27, 9, 39, 2), 0.480520624525745, False, 'time']
+

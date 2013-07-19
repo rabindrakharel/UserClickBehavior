@@ -1,0 +1,15 @@
+['salmame', 202583649, 'impression', '3', 241348636L, datetime.datetime(2013, 5, 27, 13, 28, 13), 0.0217766684306292, False, 'time']
+['salmame', 202583649, 'impression', '1', 241353727L, datetime.datetime(2013, 5, 27, 13, 28, 13), 0.0914637783717036, False, 'time']
+['salmame', 202583649, 'impression', '2', 241350411L, datetime.datetime(2013, 5, 27, 13, 28, 13), 0.0221079612866171, False, 'time']
+['salmame', 202583649, 'impression', '4', 241347188L, datetime.datetime(2013, 5, 27, 13, 28, 13), 0.022724886944475, False, 'time']
+['salmame', 202583649, 'expand_tile', '4', 241347188L, datetime.datetime(2013, 5, 27, 13, 29, 16), 0.022724886944475, False, 'time']
+['salmame', 202583649, 'expand_tile', '3', 241348636L, datetime.datetime(2013, 5, 27, 13, 29, 35), 0.0217766684306292, False, 'time']
+['salmame', 202583649, 'expand_tile', '2', 241350411L, datetime.datetime(2013, 5, 27, 13, 29, 47), 0.0221079612866171, False, 'time']
+['salmame', 202583649, 'expand_tile', '1', 241353727L, datetime.datetime(2013, 5, 27, 13, 29, 50), 0.0914637783717036, False, 'time']
+['salmame', 202583649, 'view_full_application_via_name', '1', 241353727L, datetime.datetime(2013, 5, 27, 13, 30, 17), 0.0914637783717036, False, 'time']
+
+['salmame', 202583649, 'impression', '3', 241348636L, datetime.datetime(2013, 5, 27, 18, 22, 37), 0.0217766684306292, False, 'time']
+['salmame', 202583649, 'impression', '1', 241353727L, datetime.datetime(2013, 5, 27, 18, 22, 37), 0.0914637783717036, False, 'time']
+['salmame', 202583649, 'impression', '4', 241347188L, datetime.datetime(2013, 5, 27, 18, 22, 37), 0.022724886944475, False, 'time']
+['salmame', 202583649, 'impression', '2', 241350411L, datetime.datetime(2013, 5, 27, 18, 22, 37), 0.0221079612866171, False, 'time']
+

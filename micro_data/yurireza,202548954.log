@@ -1,0 +1,10 @@
+['yurireza', 202548954, 'impression', '1', 240609512L, datetime.datetime(2013, 5, 18, 12, 44, 49), 0.458678625979133, False, 'best']
+['yurireza', 202548954, 'impression', '2', 240652775L, datetime.datetime(2013, 5, 18, 12, 44, 49), 0.432247753229642, False, 'best']
+
+['yurireza', 202548954, 'impression', '1', 240609512L, datetime.datetime(2013, 5, 20, 14, 22, 18), 0.458678625979133, False, 'best']
+['yurireza', 202548954, 'impression', '3', 240729854L, datetime.datetime(2013, 5, 20, 14, 22, 18), 0.405730621235143, False, 'best']
+['yurireza', 202548954, 'impression', '2', 240652775L, datetime.datetime(2013, 5, 20, 14, 22, 18), 0.432247753229642, False, 'best']
+['yurireza', 202548954, 'impression', '1', 240609512L, datetime.datetime(2013, 5, 20, 14, 27, 1), 0.458678625979133, False, 'best']
+['yurireza', 202548954, 'impression', '3', 240729854L, datetime.datetime(2013, 5, 20, 14, 27, 1), 0.405730621235143, False, 'best']
+['yurireza', 202548954, 'impression', '2', 240652775L, datetime.datetime(2013, 5, 20, 14, 27, 1), 0.432247753229642, False, 'best']
+

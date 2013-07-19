@@ -1,0 +1,21 @@
+['stefmustac', 202558405, 'impression', '2', 240823496L, datetime.datetime(2013, 5, 20, 11, 38, 39), 0.0463249094774046, False, 'best']
+['stefmustac', 202558405, 'impression', '1', 240823394L, datetime.datetime(2013, 5, 20, 11, 38, 39), 0.0646371723549675, False, 'best']
+['stefmustac', 202558405, 'expand_tile', '1', 240823394L, datetime.datetime(2013, 5, 20, 11, 38, 44), 0.0646371723549675, False, 'best']
+['stefmustac', 202558405, 'collapse_tile', '1', 240823394L, datetime.datetime(2013, 5, 20, 11, 39, 7), 0.0646371723549675, False, 'best']
+['stefmustac', 202558405, 'expand_tile', '2', 240823496L, datetime.datetime(2013, 5, 20, 11, 39, 12), 0.0463249094774046, False, 'best']
+['stefmustac', 202558405, 'view_full_application', '2', 240823496L, datetime.datetime(2013, 5, 20, 11, 39, 43), 0.0463249094774046, False, 'best']
+
+['stefmustac', 202558405, 'impression', '1', 240904256L, datetime.datetime(2013, 5, 23, 0, 59, 27), 0.163335964779178, False, 'best']
+['stefmustac', 202558405, 'impression', '2', 240870404L, datetime.datetime(2013, 5, 23, 0, 59, 27), 0.11095459713403, False, 'best']
+['stefmustac', 202558405, 'impression', '3', 240826830L, datetime.datetime(2013, 5, 23, 0, 59, 27), 0.110543817525616, False, 'best']
+['stefmustac', 202558405, 'impression', '5', 240823496L, datetime.datetime(2013, 5, 23, 0, 59, 27), 0.0463249094774046, False, 'best']
+['stefmustac', 202558405, 'impression', '4', 240823394L, datetime.datetime(2013, 5, 23, 0, 59, 27), 0.0646371723549675, False, 'best']
+
+['stefmustac', 202558405, 'impression', '4', 240823394L, datetime.datetime(2013, 5, 23, 2, 54, 9), 0.0646371723549675, False, 'best']
+['stefmustac', 202558405, 'impression', '5', 240823496L, datetime.datetime(2013, 5, 23, 2, 54, 9), 0.0463249094774046, False, 'best']
+['stefmustac', 202558405, 'impression', '1', 240904256L, datetime.datetime(2013, 5, 23, 2, 54, 9), 0.163335964779178, False, 'best']
+['stefmustac', 202558405, 'impression', '2', 240870404L, datetime.datetime(2013, 5, 23, 2, 54, 9), 0.11095459713403, False, 'best']
+['stefmustac', 202558405, 'impression', '3', 240826830L, datetime.datetime(2013, 5, 23, 2, 54, 9), 0.110543817525616, False, 'best']
+['stefmustac', 202558405, 'expand_tile', '1', 240904256L, datetime.datetime(2013, 5, 23, 2, 54, 31), 0.163335964779178, False, 'best']
+['stefmustac', 202558405, 'view_full_application', '1', 240904256L, datetime.datetime(2013, 5, 23, 2, 54, 34), 0.163335964779178, False, 'best']
+

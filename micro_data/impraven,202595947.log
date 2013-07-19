@@ -1,0 +1,14 @@
+['impraven', 202595947, 'impression', '2', 241612670L, datetime.datetime(2013, 5, 29, 20, 8, 4), 0.0388377478065811, False, 'best']
+['impraven', 202595947, 'impression', '1', 241611596L, datetime.datetime(2013, 5, 29, 20, 8, 4), 0.0418500430217642, False, 'best']
+['impraven', 202595947, 'impression', '3', 241612530L, datetime.datetime(2013, 5, 29, 20, 8, 4), 0.0354115882642746, False, 'best']
+['impraven', 202595947, 'expand_tile', '2', 241612670L, datetime.datetime(2013, 5, 29, 20, 8, 19), 0.0388377478065811, False, 'best']
+['impraven', 202595947, 'view_full_application', '2', 241612670L, datetime.datetime(2013, 5, 29, 20, 8, 45), 0.0388377478065811, False, 'best']
+['impraven', 202595947, 'impression', '3', 241612530L, datetime.datetime(2013, 5, 29, 20, 11, 1), 0.0354115882642746, False, 'best']
+['impraven', 202595947, 'impression', '1', 241611596L, datetime.datetime(2013, 5, 29, 20, 11, 1), 0.0418500430217642, False, 'best']
+['impraven', 202595947, 'impression', '2', 241612670L, datetime.datetime(2013, 5, 29, 20, 11, 1), 0.0388377478065811, False, 'best']
+
+['impraven', 202595947, 'impression', '1', 241611596L, datetime.datetime(2013, 5, 29, 21, 21, 34), 0.0418500430217642, False, 'best']
+['impraven', 202595947, 'impression', '2', 241612670L, datetime.datetime(2013, 5, 29, 21, 21, 34), 0.0388377478065811, False, 'best']
+['impraven', 202595947, 'impression', '4', 241617275L, datetime.datetime(2013, 5, 29, 21, 21, 34), 0.0236662503565075, False, 'best']
+['impraven', 202595947, 'impression', '3', 241612530L, datetime.datetime(2013, 5, 29, 21, 21, 34), 0.0354115882642746, False, 'best']
+

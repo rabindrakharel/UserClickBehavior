@@ -1,0 +1,29 @@
+['cakubo', 202550623, 'impression', '2', 240649743L, datetime.datetime(2013, 5, 20, 15, 55, 13), 0.152210581647288, False, 'time']
+['cakubo', 202550623, 'impression', '1', 240749349L, datetime.datetime(2013, 5, 20, 15, 55, 13), 0.0830805410653182, False, 'time']
+
+['cakubo', 202550623, 'impression', '2', 240649743L, datetime.datetime(2013, 5, 20, 16, 25, 14), 0.152210581647288, False, 'time']
+['cakubo', 202550623, 'impression', '1', 240749349L, datetime.datetime(2013, 5, 20, 16, 25, 14), 0.0830805410653182, False, 'time']
+['cakubo', 202550623, 'expand_tile', '2', 240649743L, datetime.datetime(2013, 5, 20, 16, 25, 23), 0.152210581647288, False, 'time']
+['cakubo', 202550623, 'view_full_application', '2', 240649743L, datetime.datetime(2013, 5, 20, 16, 25, 31), 0.152210581647288, False, 'time']
+
+['cakubo', 202550623, 'impression', '1', 240749349L, datetime.datetime(2013, 5, 20, 17, 3, 47), 0.0830805410653182, False, 'time']
+['cakubo', 202550623, 'impression', '2', 240649743L, datetime.datetime(2013, 5, 20, 17, 3, 47), 0.152210581647288, False, 'time']
+['cakubo', 202550623, 'expand_tile', '2', 240649743L, datetime.datetime(2013, 5, 20, 17, 3, 54), 0.152210581647288, False, 'time']
+['cakubo', 202550623, 'view_full_application', '2', 240649743L, datetime.datetime(2013, 5, 20, 17, 4), 0.152210581647288, False, 'time']
+
+['cakubo', 202550623, 'impression', '2', 240749349L, datetime.datetime(2013, 5, 20, 23, 24, 12), 0.0830805410653182, False, 'time']
+['cakubo', 202550623, 'impression', '1', 240855011L, datetime.datetime(2013, 5, 20, 23, 24, 12), 0.132074802773314, False, 'time']
+['cakubo', 202550623, 'impression', '3', 240649743L, datetime.datetime(2013, 5, 20, 23, 24, 12), 0.152210581647288, False, 'time']
+['cakubo', 202550623, 'impression', '1', 240855011L, datetime.datetime(2013, 5, 20, 23, 24, 40), 0.132074802773314, False, 'time']
+['cakubo', 202550623, 'impression', '2', 240749349L, datetime.datetime(2013, 5, 20, 23, 24, 40), 0.0830805410653182, False, 'time']
+['cakubo', 202550623, 'impression', '1', 240855011L, datetime.datetime(2013, 5, 20, 23, 28, 55), 0.132074802773314, False, 'time']
+['cakubo', 202550623, 'impression', '2', 240749349L, datetime.datetime(2013, 5, 20, 23, 28, 55), 0.0830805410653182, False, 'time']
+
+['cakubo', 202550623, 'impression', '1', 240855011L, datetime.datetime(2013, 5, 21, 15, 40, 59), 0.132074802773314, False, 'time']
+['cakubo', 202550623, 'impression', '2', 240749349L, datetime.datetime(2013, 5, 21, 15, 40, 59), 0.0830805410653182, False, 'time']
+['cakubo', 202550623, 'expand_tile', '1', 240855011L, datetime.datetime(2013, 5, 21, 15, 41, 11), 0.132074802773314, False, 'time']
+
+['cakubo', 202550623, 'impression', '2', 240749349L, datetime.datetime(2013, 5, 22, 22, 34, 14), 0.0830805410653182, False, 'time']
+['cakubo', 202550623, 'impression', '1', 240855011L, datetime.datetime(2013, 5, 22, 22, 34, 14), 0.132074802773314, False, 'time']
+['cakubo', 202550623, 'expand_tile', '1', 240855011L, datetime.datetime(2013, 5, 22, 22, 34, 24), 0.132074802773314, False, 'time']
+

@@ -1,0 +1,6 @@
+['tdavies_suncare', 202561191, 'impression', '2', 240873791L, datetime.datetime(2013, 5, 20, 23, 51, 23), 0.22676811292968, False, 'time']
+['tdavies_suncare', 202561191, 'impression', '2', 240874354L, datetime.datetime(2013, 5, 21, 0, 1, 35), 0.544631972845898, False, 'time']
+['tdavies_suncare', 202561191, 'impression', '2', 240874436L, datetime.datetime(2013, 5, 21, 0, 14, 19), 0.482605823576376, False, 'time']
+
+['tdavies_suncare', 202561191, 'impression', '3', 240875047L, datetime.datetime(2013, 5, 21, 0, 55, 43), 0.363165066286907, False, 'time']
+

@@ -1,0 +1,11 @@
+['sriu', 202534919, 'impression', '3', 240429851L, datetime.datetime(2013, 5, 23, 21, 0, 15), 0.0880725967565402, False, 'time']
+['sriu', 202534919, 'impression', '4', 240428314L, datetime.datetime(2013, 5, 23, 21, 0, 15), 0.054287580590156, False, 'time']
+['sriu', 202534919, 'impression', '2', 240440288L, datetime.datetime(2013, 5, 23, 21, 0, 15), 0.208951088160545, False, 'time']
+['sriu', 202534919, 'impression', '1', 240482359L, datetime.datetime(2013, 5, 23, 21, 0, 15), 0.52520431300852, False, 'time']
+['sriu', 202534919, 'shortlist', '4', 240428314L, datetime.datetime(2013, 5, 23, 21, 1, 12), 0.054287580590156, False, 'time']
+['sriu', 202534919, 'impression', '2', 240440288L, datetime.datetime(2013, 5, 23, 21, 2, 18), 0.208951088160545, False, 'time']
+['sriu', 202534919, 'impression', '4', 240428314L, datetime.datetime(2013, 5, 23, 21, 2, 18), 0.054287580590156, False, 'time']
+['sriu', 202534919, 'impression', '1', 240482359L, datetime.datetime(2013, 5, 23, 21, 2, 18), 0.52520431300852, False, 'time']
+['sriu', 202534919, 'impression', '3', 240429851L, datetime.datetime(2013, 5, 23, 21, 2, 18), 0.0880725967565402, False, 'time']
+['sriu', 202534919, 'view_full_application_via_name', '1', 240482359L, datetime.datetime(2013, 5, 23, 21, 2, 30), 0.52520431300852, False, 'time']
+

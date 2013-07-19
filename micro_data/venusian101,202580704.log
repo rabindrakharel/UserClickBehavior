@@ -1,0 +1,11 @@
+['venusian101', 202580704, 'impression', '4', 241277096L, datetime.datetime(2013, 5, 25, 16, 39, 6), 0.0134755988890599, False, 'best']
+['venusian101', 202580704, 'impression', '2', 241279435L, datetime.datetime(2013, 5, 25, 16, 39, 6), 0.0588335239716381, False, 'best']
+['venusian101', 202580704, 'impression', '1', 241281472L, datetime.datetime(2013, 5, 25, 16, 39, 6), 0.0914877838057377, False, 'best']
+['venusian101', 202580704, 'impression', '3', 241279169L, datetime.datetime(2013, 5, 25, 16, 39, 6), 0.0144237755460961, False, 'best']
+['venusian101', 202580704, 'expand_tile', '1', 241281472L, datetime.datetime(2013, 5, 25, 16, 39, 38), 0.0914877838057377, False, 'best']
+['venusian101', 202580704, 'view_full_application', '1', 241281472L, datetime.datetime(2013, 5, 25, 16, 39, 44), 0.0914877838057377, False, 'best']
+['venusian101', 202580704, 'impression', '1', 241281472L, datetime.datetime(2013, 5, 25, 16, 43, 6), 0.0914877838057377, False, 'best']
+['venusian101', 202580704, 'impression', '2', 241279435L, datetime.datetime(2013, 5, 25, 16, 43, 6), 0.0588335239716381, False, 'best']
+['venusian101', 202580704, 'impression', '4', 241277096L, datetime.datetime(2013, 5, 25, 16, 43, 6), 0.0134755988890599, False, 'best']
+['venusian101', 202580704, 'impression', '3', 241279169L, datetime.datetime(2013, 5, 25, 16, 43, 6), 0.0144237755460961, False, 'best']
+

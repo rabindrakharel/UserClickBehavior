@@ -1,0 +1,6 @@
+['andywenlock', 202592806, 'impression', '2', 241541732L, datetime.datetime(2013, 5, 29, 7, 48, 59), 0.133812955744404, False, 'time']
+['andywenlock', 202592806, 'impression', '1', 241543797L, datetime.datetime(2013, 5, 29, 7, 48, 59), 0.0643574515825005, False, 'time']
+
+['andywenlock', 202592806, 'impression', '2', 241543797L, datetime.datetime(2013, 5, 29, 23, 23, 41), 0.0643574515825005, False, 'time']
+['andywenlock', 202592806, 'impression', '1', 241564039L, datetime.datetime(2013, 5, 29, 23, 23, 41), 0.0738827545541204, False, 'time']
+

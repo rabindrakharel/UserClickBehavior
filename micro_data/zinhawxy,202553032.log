@@ -1,0 +1,17 @@
+['zinhawxy', 202553032, 'impression', '1', 240704424L, datetime.datetime(2013, 5, 18, 13, 43, 24), 0.0810007573209953, False, 'best']
+['zinhawxy', 202553032, 'expand_tile', '1', 240704424L, datetime.datetime(2013, 5, 18, 13, 43, 32), 0.0810007573209953, False, 'best']
+['zinhawxy', 202553032, 'impression', '1', 240704424L, datetime.datetime(2013, 5, 18, 13, 52, 38), 0.0810007573209953, False, 'best']
+['zinhawxy', 202553032, 'expand_tile', '1', 240704424L, datetime.datetime(2013, 5, 18, 13, 52, 44), 0.0810007573209953, False, 'best']
+['zinhawxy', 202553032, 'view_full_application', '1', 240704424L, datetime.datetime(2013, 5, 18, 13, 52, 46), 0.0810007573209953, False, 'best']
+
+['zinhawxy', 202553032, 'impression', '3', 240707788L, datetime.datetime(2013, 5, 19, 1, 43, 7), 0.0807396207098126, False, 'best']
+['zinhawxy', 202553032, 'impression', '1', 240711854L, datetime.datetime(2013, 5, 19, 1, 43, 7), 0.210271423407118, False, 'best']
+['zinhawxy', 202553032, 'impression', '2', 240704424L, datetime.datetime(2013, 5, 19, 1, 43, 7), 0.0810007573209953, False, 'best']
+['zinhawxy', 202553032, 'view_full_application_via_name', '1', 240711854L, datetime.datetime(2013, 5, 19, 1, 48, 22), 0.210271423407118, False, 'best']
+['zinhawxy', 202553032, 'impression', '3', 240707788L, datetime.datetime(2013, 5, 19, 1, 49, 2), 0.0807396207098126, False, 'best']
+['zinhawxy', 202553032, 'impression', '1', 240711854L, datetime.datetime(2013, 5, 19, 1, 49, 2), 0.210271423407118, False, 'best']
+['zinhawxy', 202553032, 'impression', '2', 240704424L, datetime.datetime(2013, 5, 19, 1, 49, 2), 0.0810007573209953, False, 'best']
+['zinhawxy', 202553032, 'view_full_application_via_name', '1', 240711854L, datetime.datetime(2013, 5, 19, 1, 49, 6), 0.210271423407118, False, 'best']
+['zinhawxy', 202553032, 'impression', '1', 240704424L, datetime.datetime(2013, 5, 19, 1, 49, 42), 0.0810007573209953, False, 'best']
+['zinhawxy', 202553032, 'impression', '2', 240707788L, datetime.datetime(2013, 5, 19, 1, 49, 42), 0.0807396207098126, False, 'best']
+

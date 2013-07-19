@@ -1,0 +1,10 @@
+['noots8', 202556688, 'impression', '1', 240782707L, datetime.datetime(2013, 5, 19, 23, 54, 27), 0.0109504719738536, True, 'best']
+
+['noots8', 202556688, 'impression', '1', 240782707L, datetime.datetime(2013, 5, 20, 0, 53, 27), 0.0109504719738536, True, 'best']
+['noots8', 202556688, 'impression', '2', 240785377L, datetime.datetime(2013, 5, 20, 0, 53, 27), 0.0107807463701915, False, 'best']
+['noots8', 202556688, 'impression', '1', 240782707L, datetime.datetime(2013, 5, 20, 1, 17, 57), 0.0109504719738536, True, 'best']
+['noots8', 202556688, 'impression', '2', 240785377L, datetime.datetime(2013, 5, 20, 1, 17, 57), 0.0107807463701915, False, 'best']
+['noots8', 202556688, 'view_full_application_via_name', '1', 240782707L, datetime.datetime(2013, 5, 20, 1, 18, 2), 0.0109504719738536, True, 'best']
+['noots8', 202556688, 'impression', '1', 240785377L, datetime.datetime(2013, 5, 20, 1, 26, 21), 0.0107807463701915, False, 'best']
+['noots8', 202556688, 'view_full_application_via_name', '1', 240785377L, datetime.datetime(2013, 5, 20, 1, 26, 25), 0.0107807463701915, False, 'best']
+

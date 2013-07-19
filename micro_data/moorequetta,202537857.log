@@ -1,0 +1,15 @@
+['moorequetta', 202537857, 'impression', '1', 240394653L, datetime.datetime(2013, 5, 14, 20, 54, 59), 0.116482766891866, False, 'time']
+['moorequetta', 202537857, 'impression', '2', 240390679L, datetime.datetime(2013, 5, 14, 20, 54, 59), 0.115093256698783, False, 'time']
+['moorequetta', 202537857, 'impression', '3', 240389065L, datetime.datetime(2013, 5, 14, 20, 54, 59), 0.0906754702629122, False, 'time']
+['moorequetta', 202537857, 'impression', '3', 240389065L, datetime.datetime(2013, 5, 14, 20, 55, 3), 0.0906754702629122, False, 'time']
+['moorequetta', 202537857, 'impression', '1', 240394653L, datetime.datetime(2013, 5, 14, 20, 55, 3), 0.116482766891866, False, 'time']
+['moorequetta', 202537857, 'impression', '2', 240390679L, datetime.datetime(2013, 5, 14, 20, 55, 3), 0.115093256698783, False, 'time']
+['moorequetta', 202537857, 'impression', '1', 240394653L, datetime.datetime(2013, 5, 14, 20, 55, 17), 0.116482766891866, False, 'time']
+['moorequetta', 202537857, 'impression', '3', 240389065L, datetime.datetime(2013, 5, 14, 20, 55, 17), 0.0906754702629122, False, 'time']
+['moorequetta', 202537857, 'impression', '2', 240390679L, datetime.datetime(2013, 5, 14, 20, 55, 17), 0.115093256698783, False, 'time']
+['moorequetta', 202537857, 'impression', '2', 240390679L, datetime.datetime(2013, 5, 14, 20, 55, 19), 0.115093256698783, False, 'time']
+['moorequetta', 202537857, 'impression', '3', 240389065L, datetime.datetime(2013, 5, 14, 20, 55, 19), 0.0906754702629122, False, 'time']
+['moorequetta', 202537857, 'impression', '1', 240394653L, datetime.datetime(2013, 5, 14, 20, 55, 19), 0.116482766891866, False, 'time']
+
+['moorequetta', 202537857, 'impression', '1', 240389065L, datetime.datetime(2013, 5, 15, 3, 19, 24), 0.0906754702629122, False, 'time']
+

@@ -1,0 +1,12 @@
+['rw121', 202564802, 'impression', '5', 240952533L, datetime.datetime(2013, 5, 21, 19, 29, 19), 0.0363041429488806, False, 'best']
+['rw121', 202564802, 'impression', '9', 240951847L, datetime.datetime(2013, 5, 21, 19, 29, 19), 0.0206970123299817, False, 'best']
+['rw121', 202564802, 'impression', '8', 240951818L, datetime.datetime(2013, 5, 21, 19, 29, 19), 0.0282057408457683, False, 'best']
+['rw121', 202564802, 'impression', '7', 240951733L, datetime.datetime(2013, 5, 21, 19, 29, 19), 0.0294584370703639, False, 'best']
+['rw121', 202564802, 'impression', '3', 240952118L, datetime.datetime(2013, 5, 21, 19, 29, 19), 0.0596311422930207, False, 'best']
+['rw121', 202564802, 'impression', '4', 240951909L, datetime.datetime(2013, 5, 21, 19, 29, 19), 0.0375044082351349, False, 'best']
+['rw121', 202564802, 'impression', '1', 240953212L, datetime.datetime(2013, 5, 21, 19, 29, 19), 0.0816776980296421, False, 'best']
+['rw121', 202564802, 'impression', '2', 240954083L, datetime.datetime(2013, 5, 21, 19, 29, 19), 0.059988929998852, False, 'best']
+['rw121', 202564802, 'impression', '6', 240952079L, datetime.datetime(2013, 5, 21, 19, 29, 19), 0.0325077040856407, False, 'best']
+['rw121', 202564802, 'expand_tile', '5', 240952533L, datetime.datetime(2013, 5, 21, 19, 29, 27), 0.0363041429488806, False, 'best']
+['rw121', 202564802, 'expand_tile', '6', 240952079L, datetime.datetime(2013, 5, 21, 19, 30, 26), 0.0325077040856407, False, 'best']
+

@@ -1,0 +1,12 @@
+['activa2013', 202586651, 'impression', '2', 241415795L, datetime.datetime(2013, 5, 27, 17, 38, 38), 0.0906278757591061, False, 'best']
+['activa2013', 202586651, 'impression', '3', 241415410L, datetime.datetime(2013, 5, 27, 17, 38, 38), 0.0504927846039762, False, 'best']
+['activa2013', 202586651, 'impression', '4', 241414707L, datetime.datetime(2013, 5, 27, 17, 38, 38), 0.0672058104218086, False, 'best']
+['activa2013', 202586651, 'impression', '1', 241417614L, datetime.datetime(2013, 5, 27, 17, 38, 38), 0.107679471807449, False, 'best']
+['activa2013', 202586651, 'impression', '1', 241417614L, datetime.datetime(2013, 5, 27, 17, 39, 35), 0.107679471807449, False, 'best']
+['activa2013', 202586651, 'impression', '2', 241415795L, datetime.datetime(2013, 5, 27, 17, 39, 41), 0.0906278757591061, False, 'best']
+['activa2013', 202586651, 'impression', '3', 241415410L, datetime.datetime(2013, 5, 27, 17, 39, 45), 0.0504927846039762, False, 'best']
+['activa2013', 202586651, 'impression', '4', 241414707L, datetime.datetime(2013, 5, 27, 17, 39, 53), 0.0672058104218086, False, 'best']
+
+['activa2013', 202586651, 'impression', '1', 241421032L, datetime.datetime(2013, 5, 27, 21, 40, 25), 0.0586892903873666, False, 'best']
+['activa2013', 202586651, 'view_full_application_via_name', '1', 241421032L, datetime.datetime(2013, 5, 27, 21, 40, 37), 0.0586892903873666, False, 'best']
+

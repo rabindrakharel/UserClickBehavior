@@ -1,0 +1,10 @@
+['bishkhatiwada', 202541160, 'impression', '1', 240455471L, datetime.datetime(2013, 5, 15, 13, 32, 27), 0.729464660845139, True, 'best']
+
+['bishkhatiwada', 202541160, 'impression', '3', 240455272L, datetime.datetime(2013, 5, 15, 17, 23, 48), 0.538538443005533, False, 'best']
+['bishkhatiwada', 202541160, 'impression', '5', 240457880L, datetime.datetime(2013, 5, 15, 17, 23, 48), 0.562780040589572, False, 'best']
+['bishkhatiwada', 202541160, 'impression', '7', 240460503L, datetime.datetime(2013, 5, 15, 17, 23, 48), 0.246643677936388, False, 'best']
+['bishkhatiwada', 202541160, 'impression', '6', 240458096L, datetime.datetime(2013, 5, 15, 17, 23, 48), 0.830485962434904, False, 'best']
+['bishkhatiwada', 202541160, 'impression', '2', 240455158L, datetime.datetime(2013, 5, 15, 17, 23, 48), 0.430080813647781, False, 'best']
+['bishkhatiwada', 202541160, 'impression', '1', 240455105L, datetime.datetime(2013, 5, 15, 17, 23, 48), 0.612458137886352, False, 'best']
+['bishkhatiwada', 202541160, 'impression', '4', 240455445L, datetime.datetime(2013, 5, 15, 17, 23, 48), 0.55090206555482, False, 'best']
+

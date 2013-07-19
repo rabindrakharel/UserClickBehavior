@@ -1,0 +1,11 @@
+['transpiral', 202582115, 'impression', '1', 241305866L, datetime.datetime(2013, 5, 26, 6, 32, 4), 0.145450950886902, True, 'best']
+['transpiral', 202582115, 'view_full_application_via_message', '1', 241305866L, datetime.datetime(2013, 5, 26, 6, 32, 7), 0.145450950886902, True, 'best']
+
+['transpiral', 202582115, 'impression', '1', 241306139L, datetime.datetime(2013, 5, 27, 17, 8, 32), 0.171499446395278, True, 'best']
+['transpiral', 202582115, 'impression', '1', 241306139L, datetime.datetime(2013, 5, 27, 17, 8, 32), 0.171499446395278, True, 'best']
+['transpiral', 202582115, 'impression', '3', 241305866L, datetime.datetime(2013, 5, 27, 17, 8, 32), 0.145450950886902, True, 'best']
+['transpiral', 202582115, 'impression', '2', 241305939L, datetime.datetime(2013, 5, 27, 17, 8, 32), 0.151607277388208, True, 'best']
+['transpiral', 202582115, 'impression', '1', 241306139L, datetime.datetime(2013, 5, 27, 17, 8, 35), 0.171499446395278, True, 'best']
+['transpiral', 202582115, 'impression', '1', 241306139L, datetime.datetime(2013, 5, 27, 17, 8, 36), 0.171499446395278, True, 'best']
+['transpiral', 202582115, 'view_full_application_via_name', '1', 241306139L, datetime.datetime(2013, 5, 27, 17, 8, 38), 0.171499446395278, True, 'best']
+

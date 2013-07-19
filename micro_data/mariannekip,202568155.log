@@ -1,0 +1,5 @@
+['mariannekip', 202568155, 'impression', '2', 241015462L, datetime.datetime(2013, 5, 23, 11, 8, 45), 0.011169451070964, True, 'best']
+['mariannekip', 202568155, 'impression', '3', 241015468L, datetime.datetime(2013, 5, 23, 11, 8, 45), 0.0111100140145698, False, 'best']
+['mariannekip', 202568155, 'impression', '4', 241015487L, datetime.datetime(2013, 5, 23, 11, 8, 45), 0.00409155399496671, True, 'best']
+['mariannekip', 202568155, 'impression', '1', 241015437L, datetime.datetime(2013, 5, 23, 11, 8, 45), 0.0173145977247965, False, 'best']
+

@@ -1,0 +1,12 @@
+['eirik_fuglestad', 202544797, 'impression', '2', 240527762L, datetime.datetime(2013, 5, 16, 11, 7, 14), 0.0282672128691454, False, 'best']
+['eirik_fuglestad', 202544797, 'impression', '5', 240530625L, datetime.datetime(2013, 5, 16, 11, 7, 14), 0.0113876322763254, False, 'best']
+['eirik_fuglestad', 202544797, 'impression', '1', 240527421L, datetime.datetime(2013, 5, 16, 11, 7, 14), 0.156442367153522, True, 'best']
+['eirik_fuglestad', 202544797, 'impression', '7', 240533186L, datetime.datetime(2013, 5, 16, 11, 7, 14), 0.0127453945095213, False, 'best']
+['eirik_fuglestad', 202544797, 'impression', '3', 240528536L, datetime.datetime(2013, 5, 16, 11, 7, 14), 0.0181734119900132, False, 'best']
+['eirik_fuglestad', 202544797, 'impression', '4', 240530526L, datetime.datetime(2013, 5, 16, 11, 7, 14), 0.00392878237198242, False, 'best']
+['eirik_fuglestad', 202544797, 'impression', '8', 240533797L, datetime.datetime(2013, 5, 16, 11, 7, 14), 0.0956567097010892, False, 'best']
+['eirik_fuglestad', 202544797, 'impression', '6', 240532516L, datetime.datetime(2013, 5, 16, 11, 7, 14), 0.030787745020867, False, 'best']
+['eirik_fuglestad', 202544797, 'shortlist', '1', 240527421L, datetime.datetime(2013, 5, 16, 11, 7, 31), 0.156442367153522, True, 'best']
+['eirik_fuglestad', 202544797, 'expand_tile', '1', 240527421L, datetime.datetime(2013, 5, 16, 11, 7, 33), 0.156442367153522, True, 'best']
+['eirik_fuglestad', 202544797, 'hire', '1', 240527421L, datetime.datetime(2013, 5, 16, 11, 8, 4), 0.156442367153522, True, 'best']
+

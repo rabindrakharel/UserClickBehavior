@@ -1,0 +1,13 @@
+['hanna0322', 202593537, 'impression', '1', 241564891L, datetime.datetime(2013, 5, 29, 9, 16, 1), 0.174421196598476, True, 'best']
+['hanna0322', 202593537, 'impression', '2', 241562977L, datetime.datetime(2013, 5, 29, 9, 16, 1), 0.109341210856828, False, 'best']
+['hanna0322', 202593537, 'expand_tile', '1', 241564891L, datetime.datetime(2013, 5, 29, 9, 16, 9), 0.174421196598476, True, 'best']
+['hanna0322', 202593537, 'expand_tile', '1', 241564891L, datetime.datetime(2013, 5, 29, 9, 16, 15), 0.174421196598476, True, 'best']
+['hanna0322', 202593537, 'view_full_application', '1', 241564891L, datetime.datetime(2013, 5, 29, 9, 16, 16), 0.174421196598476, True, 'best']
+['hanna0322', 202593537, 'impression', '1', 241564891L, datetime.datetime(2013, 5, 29, 9, 20, 32), 0.174421196598476, True, 'best']
+['hanna0322', 202593537, 'impression', '2', 241562977L, datetime.datetime(2013, 5, 29, 9, 20, 32), 0.109341210856828, False, 'best']
+
+['hanna0322', 202593537, 'impression', '3', 241567727L, datetime.datetime(2013, 5, 29, 17, 44, 12), 0.11679535005287, False, 'best']
+['hanna0322', 202593537, 'impression', '4', 241585604L, datetime.datetime(2013, 5, 29, 17, 44, 12), 0.0839047120323552, False, 'best']
+['hanna0322', 202593537, 'impression', '1', 241564891L, datetime.datetime(2013, 5, 29, 17, 44, 12), 0.174421196598476, True, 'best']
+['hanna0322', 202593537, 'impression', '2', 241559539L, datetime.datetime(2013, 5, 29, 17, 44, 12), 0.146583687753996, False, 'best']
+

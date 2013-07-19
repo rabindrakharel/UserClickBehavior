@@ -1,0 +1,13 @@
+['promotion2013', 202592756, 'impression', '2', 241563792L, datetime.datetime(2013, 5, 29, 10, 2, 7), 0.0186755082756181, False, 'time']
+['promotion2013', 202592756, 'impression', '7', 241544902L, datetime.datetime(2013, 5, 29, 10, 2, 7), 0.00611387936534292, False, 'time']
+['promotion2013', 202592756, 'impression', '6', 241545267L, datetime.datetime(2013, 5, 29, 10, 2, 7), 0.00553265655982592, False, 'time']
+['promotion2013', 202592756, 'impression', '4', 241546487L, datetime.datetime(2013, 5, 29, 10, 2, 7), 0.00951839906228628, False, 'time']
+['promotion2013', 202592756, 'impression', '9', 241541015L, datetime.datetime(2013, 5, 29, 10, 2, 7), 0.0113376312014154, False, 'time']
+['promotion2013', 202592756, 'impression', '12', 241540927L, datetime.datetime(2013, 5, 29, 10, 2, 7), 0.0139570914460755, False, 'time']
+['promotion2013', 202592756, 'impression', '5', 241545617L, datetime.datetime(2013, 5, 29, 10, 2, 7), 0.0138152219509319, False, 'time']
+['promotion2013', 202592756, 'impression', '3', 241553331L, datetime.datetime(2013, 5, 29, 10, 2, 7), 0.00146440359381034, False, 'time']
+['promotion2013', 202592756, 'impression', '1', 241568315L, datetime.datetime(2013, 5, 29, 10, 2, 7), 0.00193198179116585, False, 'time']
+['promotion2013', 202592756, 'impression', '11', 241540960L, datetime.datetime(2013, 5, 29, 10, 2, 7), 0.0119076154760762, False, 'time']
+['promotion2013', 202592756, 'impression', '10', 241541005L, datetime.datetime(2013, 5, 29, 10, 2, 7), 0.00335136884047234, False, 'time']
+['promotion2013', 202592756, 'impression', '8', 241544722L, datetime.datetime(2013, 5, 29, 10, 2, 7), 0.0133173706598825, False, 'time']
+

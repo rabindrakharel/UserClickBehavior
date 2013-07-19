@@ -1,0 +1,8 @@
+['arfa-ben', 202553838, 'impression', '1', 240725039L, datetime.datetime(2013, 5, 18, 19, 48, 56), 0.0197360541954888, False, 'best']
+['arfa-ben', 202553838, 'view_full_application_via_name', '1', 240725039L, datetime.datetime(2013, 5, 18, 19, 49), 0.0197360541954888, False, 'best']
+['arfa-ben', 202553838, 'impression', '1', 240725039L, datetime.datetime(2013, 5, 18, 19, 50, 7), 0.0197360541954888, False, 'best']
+['arfa-ben', 202553838, 'view_full_application_via_name', '1', 240725039L, datetime.datetime(2013, 5, 18, 19, 50, 8), 0.0197360541954888, False, 'best']
+
+['arfa-ben', 202553838, 'impression', '1', 240728756L, datetime.datetime(2013, 5, 18, 22, 23, 9), 0.0609742339857941, False, 'best']
+['arfa-ben', 202553838, 'impression', '2', 240725039L, datetime.datetime(2013, 5, 18, 22, 23, 9), 0.0197360541954888, False, 'best']
+

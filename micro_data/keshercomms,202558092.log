@@ -1,0 +1,27 @@
+['keshercomms', 202558092, 'impression', '1', 240819504L, datetime.datetime(2013, 5, 20, 20, 49, 48), 0.00245789091257205, False, 'time']
+['keshercomms', 202558092, 'impression', '2', 240817531L, datetime.datetime(2013, 5, 20, 20, 49, 48), 0.00121442293956272, False, 'time']
+['keshercomms', 202558092, 'view_full_application_via_name', '1', 240819504L, datetime.datetime(2013, 5, 20, 20, 50, 27), 0.00245789091257205, False, 'time']
+
+['keshercomms', 202558092, 'impression', '2', 240819504L, datetime.datetime(2013, 5, 21, 10, 6, 42), 0.00245789091257205, False, 'time']
+['keshercomms', 202558092, 'impression', '3', 240817531L, datetime.datetime(2013, 5, 21, 10, 6, 42), 0.00121442293956272, False, 'time']
+['keshercomms', 202558092, 'impression', '1', 240878231L, datetime.datetime(2013, 5, 21, 10, 6, 42), 0.0395278058803214, False, 'time']
+['keshercomms', 202558092, 'view_full_application_via_name', '1', 240878231L, datetime.datetime(2013, 5, 21, 10, 6, 55), 0.0395278058803214, False, 'time']
+
+['keshercomms', 202558092, 'impression', '3', 240878231L, datetime.datetime(2013, 5, 23, 11, 54, 59), 0.0395278058803214, False, 'time']
+['keshercomms', 202558092, 'impression', '1', 240971667L, datetime.datetime(2013, 5, 23, 11, 54, 59), 0.0132178462549647, False, 'time']
+['keshercomms', 202558092, 'impression', '5', 240817531L, datetime.datetime(2013, 5, 23, 11, 54, 59), 0.00121442293956272, False, 'time']
+['keshercomms', 202558092, 'impression', '2', 240929814L, datetime.datetime(2013, 5, 23, 11, 54, 59), 0.00825019101240931, False, 'time']
+['keshercomms', 202558092, 'impression', '4', 240819504L, datetime.datetime(2013, 5, 23, 11, 54, 59), 0.00245789091257205, False, 'time']
+['keshercomms', 202558092, 'view_full_application_via_name', '1', 240971667L, datetime.datetime(2013, 5, 23, 11, 55, 7), 0.0132178462549647, False, 'time']
+['keshercomms', 202558092, 'impression', '4', 240819504L, datetime.datetime(2013, 5, 23, 11, 59, 6), 0.00245789091257205, False, 'time']
+['keshercomms', 202558092, 'impression', '3', 240878231L, datetime.datetime(2013, 5, 23, 11, 59, 6), 0.0395278058803214, False, 'time']
+['keshercomms', 202558092, 'impression', '1', 240971667L, datetime.datetime(2013, 5, 23, 11, 59, 6), 0.0132178462549647, False, 'time']
+['keshercomms', 202558092, 'impression', '2', 240929814L, datetime.datetime(2013, 5, 23, 11, 59, 6), 0.00825019101240931, False, 'time']
+['keshercomms', 202558092, 'impression', '5', 240817531L, datetime.datetime(2013, 5, 23, 11, 59, 6), 0.00121442293956272, False, 'time']
+
+['keshercomms', 202558092, 'impression', '4', 240819504L, datetime.datetime(2013, 5, 23, 14, 20, 27), 0.00245789091257205, False, 'time']
+['keshercomms', 202558092, 'impression', '2', 240929814L, datetime.datetime(2013, 5, 23, 14, 20, 27), 0.00825019101240931, False, 'time']
+['keshercomms', 202558092, 'impression', '5', 240817531L, datetime.datetime(2013, 5, 23, 14, 20, 27), 0.00121442293956272, False, 'time']
+['keshercomms', 202558092, 'impression', '1', 240971667L, datetime.datetime(2013, 5, 23, 14, 20, 27), 0.0132178462549647, False, 'time']
+['keshercomms', 202558092, 'impression', '3', 240878231L, datetime.datetime(2013, 5, 23, 14, 20, 27), 0.0395278058803214, False, 'time']
+

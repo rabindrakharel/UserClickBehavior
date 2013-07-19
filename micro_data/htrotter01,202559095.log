@@ -1,0 +1,14 @@
+['htrotter01', 202559095, 'impression', '2', 240840640L, datetime.datetime(2013, 5, 20, 15, 20, 30), 0.162543070166426, False, 'best']
+['htrotter01', 202559095, 'impression', '1', 240841743L, datetime.datetime(2013, 5, 20, 15, 20, 30), 0.422784831517478, False, 'best']
+['htrotter01', 202559095, 'view_full_application_via_name', '1', 240841743L, datetime.datetime(2013, 5, 20, 15, 20, 36), 0.422784831517478, False, 'best']
+['htrotter01', 202559095, 'impression', '1', 240838585L, datetime.datetime(2013, 5, 20, 15, 21, 12), 0.424620950989086, True, 'best']
+['htrotter01', 202559095, 'impression', '3', 240840640L, datetime.datetime(2013, 5, 20, 15, 21, 12), 0.162543070166426, False, 'best']
+['htrotter01', 202559095, 'impression', '2', 240841743L, datetime.datetime(2013, 5, 20, 15, 21, 12), 0.422784831517478, False, 'best']
+['htrotter01', 202559095, 'view_full_application_via_message', '1', 240838585L, datetime.datetime(2013, 5, 20, 15, 21, 21), 0.424620950989086, True, 'best']
+
+['htrotter01', 202559095, 'impression', '2', 240843202L, datetime.datetime(2013, 5, 20, 16, 21, 32), 0.198866050718975, False, 'best']
+['htrotter01', 202559095, 'impression', '1', 240841743L, datetime.datetime(2013, 5, 20, 16, 21, 32), 0.422784831517478, False, 'best']
+['htrotter01', 202559095, 'impression', '4', 240840640L, datetime.datetime(2013, 5, 20, 16, 21, 32), 0.162543070166426, False, 'best']
+['htrotter01', 202559095, 'impression', '5', 240843377L, datetime.datetime(2013, 5, 20, 16, 21, 32), 0.107546018360772, False, 'best']
+['htrotter01', 202559095, 'impression', '3', 240845540L, datetime.datetime(2013, 5, 20, 16, 21, 32), 0.168024403571013, False, 'best']
+

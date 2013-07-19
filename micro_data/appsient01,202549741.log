@@ -1,0 +1,8 @@
+['appsient01', 202549741, 'impression', '1', 240673637L, datetime.datetime(2013, 5, 19, 12, 20, 26), 0.191763236162263, False, 'time']
+
+['appsient01', 202549741, 'impression', '3', 240756842L, datetime.datetime(2013, 5, 25, 10, 43, 24), 0.502214523445238, False, 'time']
+['appsient01', 202549741, 'impression', '1', 240757060L, datetime.datetime(2013, 5, 25, 10, 43, 24), 0.616057059153053, False, 'time']
+['appsient01', 202549741, 'impression', '2', 240756881L, datetime.datetime(2013, 5, 25, 10, 43, 24), 0.566786772243827, False, 'time']
+['appsient01', 202549741, 'impression', '5', 240673637L, datetime.datetime(2013, 5, 25, 10, 43, 24), 0.191763236162263, False, 'time']
+['appsient01', 202549741, 'impression', '4', 240756524L, datetime.datetime(2013, 5, 25, 10, 43, 24), 0.590413222490407, False, 'time']
+

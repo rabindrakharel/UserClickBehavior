@@ -1,0 +1,5 @@
+['mystero', 202548876, 'impression', '3', 240611949L, datetime.datetime(2013, 5, 18, 3, 34, 51), 0.135888386938974, False, 'time']
+['mystero', 202548876, 'impression', '2', 240612049L, datetime.datetime(2013, 5, 18, 3, 34, 51), 0.170700517343878, True, 'time']
+['mystero', 202548876, 'impression', '1', 240651250L, datetime.datetime(2013, 5, 18, 3, 34, 51), 0.292859775554747, False, 'time']
+['mystero', 202548876, 'impression', '4', 240611939L, datetime.datetime(2013, 5, 18, 3, 34, 51), 0.172134600722831, False, 'time']
+

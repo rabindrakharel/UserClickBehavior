@@ -1,0 +1,10 @@
+['sharpathlete', 202596482, 'impression', '2', 241619420L, datetime.datetime(2013, 5, 29, 21, 58, 6), 0.411477243253401, True, 'best']
+['sharpathlete', 202596482, 'impression', '3', 241619437L, datetime.datetime(2013, 5, 29, 21, 58, 6), 0.178401840035497, False, 'best']
+['sharpathlete', 202596482, 'impression', '4', 241619392L, datetime.datetime(2013, 5, 29, 21, 58, 6), 0.131367305540757, False, 'best']
+['sharpathlete', 202596482, 'impression', '1', 241619314L, datetime.datetime(2013, 5, 29, 21, 58, 6), 0.450965083846163, False, 'best']
+['sharpathlete', 202596482, 'view_full_application_via_name', '1', 241619314L, datetime.datetime(2013, 5, 29, 21, 58, 15), 0.450965083846163, False, 'best']
+['sharpathlete', 202596482, 'impression', '1', 241619314L, datetime.datetime(2013, 5, 29, 21, 58, 53), 0.450965083846163, False, 'best']
+['sharpathlete', 202596482, 'impression', '2', 241619420L, datetime.datetime(2013, 5, 29, 21, 58, 53), 0.411477243253401, True, 'best']
+['sharpathlete', 202596482, 'impression', '3', 241619437L, datetime.datetime(2013, 5, 29, 21, 58, 53), 0.178401840035497, False, 'best']
+['sharpathlete', 202596482, 'impression', '4', 241619392L, datetime.datetime(2013, 5, 29, 21, 58, 53), 0.131367305540757, False, 'best']
+

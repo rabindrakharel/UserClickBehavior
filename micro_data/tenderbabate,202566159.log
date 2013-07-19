@@ -1,0 +1,4 @@
+['tenderbabate', 202566159, 'impression', '3', 240970765L, datetime.datetime(2013, 5, 29, 1, 28, 59), 0.0538144890808089, True, 'time']
+['tenderbabate', 202566159, 'impression', '1', 240971056L, datetime.datetime(2013, 5, 29, 1, 28, 59), 0.155899879936254, True, 'time']
+['tenderbabate', 202566159, 'impression', '2', 240970948L, datetime.datetime(2013, 5, 29, 1, 28, 59), 0.162612502080902, True, 'time']
+

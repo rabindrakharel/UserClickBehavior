@@ -1,0 +1,4 @@
+['c_quintal', 202580907, 'impression', '2', 241281033L, datetime.datetime(2013, 5, 28, 10, 46, 29), 0.0191276565432539, True, 'time']
+['c_quintal', 202580907, 'impression', '1', 241281034L, datetime.datetime(2013, 5, 28, 10, 46, 29), 0.0149587926302625, False, 'time']
+['c_quintal', 202580907, 'view_full_application_via_name', '2', 241281033L, datetime.datetime(2013, 5, 28, 10, 46, 44), 0.0191276565432539, True, 'time']
+

@@ -1,0 +1,11 @@
+['utiliware', 202586963, 'impression', '3', 241422097L, datetime.datetime(2013, 5, 28, 4, 6, 48), 0.226041769782107, False, 'time']
+['utiliware', 202586963, 'impression', '2', 241434246L, datetime.datetime(2013, 5, 28, 4, 6, 48), 0.0496127059179472, False, 'time']
+['utiliware', 202586963, 'impression', '1', 241435621L, datetime.datetime(2013, 5, 28, 4, 6, 48), 0.0396032477153605, False, 'time']
+['utiliware', 202586963, 'impression', '3', 241422097L, datetime.datetime(2013, 5, 28, 4, 9, 48), 0.226041769782107, False, 'time']
+['utiliware', 202586963, 'impression', '2', 241434246L, datetime.datetime(2013, 5, 28, 4, 9, 48), 0.0496127059179472, False, 'time']
+['utiliware', 202586963, 'impression', '1', 241435621L, datetime.datetime(2013, 5, 28, 4, 9, 48), 0.0396032477153605, False, 'time']
+
+['utiliware', 202586963, 'impression', '1', 241435621L, datetime.datetime(2013, 5, 28, 5, 2, 34), 0.0396032477153605, False, 'time']
+['utiliware', 202586963, 'impression', '2', 241434246L, datetime.datetime(2013, 5, 28, 5, 2, 34), 0.0496127059179472, False, 'time']
+['utiliware', 202586963, 'impression', '3', 241422097L, datetime.datetime(2013, 5, 28, 5, 2, 34), 0.226041769782107, False, 'time']
+

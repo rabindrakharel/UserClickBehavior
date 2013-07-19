@@ -1,0 +1,17 @@
+['mmwd', 202566249, 'impression', '3', 240972040L, datetime.datetime(2013, 5, 27, 22, 30, 6), 0.0178833961630793, False, 'time']
+['mmwd', 202566249, 'impression', '2', 240972067L, datetime.datetime(2013, 5, 27, 22, 30, 6), 0.011571311468054, False, 'time']
+['mmwd', 202566249, 'impression', '4', 240972026L, datetime.datetime(2013, 5, 27, 22, 30, 6), 0.0171625382873072, True, 'time']
+['mmwd', 202566249, 'impression', '1', 240972093L, datetime.datetime(2013, 5, 27, 22, 30, 6), 0.047121751650434, False, 'time']
+['mmwd', 202566249, 'impression', '3', 240972040L, datetime.datetime(2013, 5, 27, 22, 31, 2), 0.0178833961630793, False, 'time']
+['mmwd', 202566249, 'impression', '2', 240972067L, datetime.datetime(2013, 5, 27, 22, 31, 2), 0.011571311468054, False, 'time']
+['mmwd', 202566249, 'impression', '4', 240972026L, datetime.datetime(2013, 5, 27, 22, 31, 2), 0.0171625382873072, True, 'time']
+['mmwd', 202566249, 'impression', '1', 240972093L, datetime.datetime(2013, 5, 27, 22, 31, 2), 0.047121751650434, False, 'time']
+['mmwd', 202566249, 'view_full_application_via_name', '1', 240972093L, datetime.datetime(2013, 5, 27, 22, 31, 4), 0.047121751650434, False, 'time']
+
+['mmwd', 202566249, 'impression', '3', 240972040L, datetime.datetime(2013, 5, 28, 22, 52, 36), 0.0178833961630793, False, 'time']
+['mmwd', 202566249, 'impression', '2', 240972067L, datetime.datetime(2013, 5, 28, 22, 52, 36), 0.011571311468054, False, 'time']
+['mmwd', 202566249, 'impression', '1', 240972093L, datetime.datetime(2013, 5, 28, 22, 52, 36), 0.047121751650434, False, 'time']
+['mmwd', 202566249, 'impression', '4', 240972026L, datetime.datetime(2013, 5, 28, 22, 52, 36), 0.0171625382873072, True, 'time']
+['mmwd', 202566249, 'expand_tile', '4', 240972026L, datetime.datetime(2013, 5, 28, 22, 52, 44), 0.0171625382873072, True, 'time']
+['mmwd', 202566249, 'hire', '4', 240972026L, datetime.datetime(2013, 5, 28, 22, 52, 50), 0.0171625382873072, True, 'time']
+

@@ -1,0 +1,25 @@
+['odeskdata15', 202586375, 'impression', '1', 241409417L, datetime.datetime(2013, 5, 27, 15, 25, 44), 0.0180471775863317, False, 'time']
+['odeskdata15', 202586375, 'impression', '1', 241409417L, datetime.datetime(2013, 5, 27, 15, 25, 51), 0.0180471775863317, False, 'time']
+['odeskdata15', 202586375, 'impression', '1', 241409417L, datetime.datetime(2013, 5, 27, 15, 25, 52), 0.0180471775863317, False, 'time']
+['odeskdata15', 202586375, 'impression', '1', 241409588L, datetime.datetime(2013, 5, 27, 15, 31), 0.0207693496869031, False, 'time']
+['odeskdata15', 202586375, 'view_full_application_via_name', '1', 241409588L, datetime.datetime(2013, 5, 27, 15, 31, 8), 0.0207693496869031, False, 'time']
+['odeskdata15', 202586375, 'impression', '1', 241409588L, datetime.datetime(2013, 5, 27, 15, 31, 22), 0.0207693496869031, False, 'time']
+
+['odeskdata15', 202586375, 'impression', '1', 241409588L, datetime.datetime(2013, 5, 27, 16, 50, 25), 0.0207693496869031, False, 'time']
+
+['odeskdata15', 202586375, 'impression', '1', 241431487L, datetime.datetime(2013, 5, 28, 12, 43, 1), 0.0206527611900675, False, 'time']
+['odeskdata15', 202586375, 'impression', '2', 241429503L, datetime.datetime(2013, 5, 28, 12, 43, 1), 0.0277328388985558, False, 'time']
+['odeskdata15', 202586375, 'impression', '4', 241409588L, datetime.datetime(2013, 5, 28, 12, 43, 1), 0.0207693496869031, False, 'time']
+['odeskdata15', 202586375, 'impression', '3', 241420029L, datetime.datetime(2013, 5, 28, 12, 43, 1), 0.0381093453206865, False, 'time']
+['odeskdata15', 202586375, 'impression', '3', 241420029L, datetime.datetime(2013, 5, 28, 12, 43, 21), 0.0381093453206865, False, 'time']
+['odeskdata15', 202586375, 'impression', '3', 241420029L, datetime.datetime(2013, 5, 28, 12, 43, 26), 0.0381093453206865, False, 'time']
+['odeskdata15', 202586375, 'view_full_application_via_name', '2', 241429503L, datetime.datetime(2013, 5, 28, 12, 43, 28), 0.0277328388985558, False, 'time']
+['odeskdata15', 202586375, 'impression', '3', 241409588L, datetime.datetime(2013, 5, 28, 12, 46, 9), 0.0207693496869031, False, 'time']
+['odeskdata15', 202586375, 'impression', '2', 241429503L, datetime.datetime(2013, 5, 28, 12, 46, 9), 0.0277328388985558, False, 'time']
+['odeskdata15', 202586375, 'impression', '1', 241431487L, datetime.datetime(2013, 5, 28, 12, 46, 9), 0.0206527611900675, False, 'time']
+['odeskdata15', 202586375, 'view_full_application_via_name', '1', 241431487L, datetime.datetime(2013, 5, 28, 12, 46, 14), 0.0206527611900675, False, 'time']
+
+['odeskdata15', 202586375, 'impression', '1', 241431487L, datetime.datetime(2013, 5, 29, 13, 45, 11), 0.0206527611900675, False, 'time']
+['odeskdata15', 202586375, 'impression', '2', 241429503L, datetime.datetime(2013, 5, 29, 13, 45, 11), 0.0277328388985558, False, 'time']
+['odeskdata15', 202586375, 'impression', '3', 241409588L, datetime.datetime(2013, 5, 29, 13, 45, 11), 0.0207693496869031, False, 'time']
+

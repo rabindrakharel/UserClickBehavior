@@ -1,0 +1,8 @@
+['trafficlab', 202568414, 'impression', '1', 241194372L, datetime.datetime(2013, 5, 29, 6, 26, 34), 0.311063207983842, False, 'time']
+['trafficlab', 202568414, 'impression', '3', 241022302L, datetime.datetime(2013, 5, 29, 6, 26, 34), 0.179877405028711, False, 'time']
+['trafficlab', 202568414, 'impression', '6', 241021683L, datetime.datetime(2013, 5, 29, 6, 26, 34), 0.331241443229003, False, 'time']
+['trafficlab', 202568414, 'impression', '2', 241022318L, datetime.datetime(2013, 5, 29, 6, 26, 34), 0.31404548226278, False, 'time']
+['trafficlab', 202568414, 'impression', '7', 241021544L, datetime.datetime(2013, 5, 29, 6, 26, 34), 0.42540996313257, False, 'time']
+['trafficlab', 202568414, 'impression', '4', 241022189L, datetime.datetime(2013, 5, 29, 6, 26, 34), 0.344377099946887, False, 'time']
+['trafficlab', 202568414, 'impression', '5', 241022075L, datetime.datetime(2013, 5, 29, 6, 26, 34), 0.316795944167251, False, 'time']
+

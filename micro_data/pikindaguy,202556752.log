@@ -1,0 +1,5 @@
+['pikindaguy', 202556752, 'impression', '1', 240844174L, datetime.datetime(2013, 5, 24, 5, 13, 31), 0.231679715038454, True, 'time']
+['pikindaguy', 202556752, 'impression', '2', 240783295L, datetime.datetime(2013, 5, 24, 5, 13, 31), 0.168074251003583, True, 'time']
+['pikindaguy', 202556752, 'view_full_application_via_name', '1', 240844174L, datetime.datetime(2013, 5, 24, 5, 13, 40), 0.231679715038454, True, 'time']
+['pikindaguy', 202556752, 'view_full_application_via_name', '2', 240783295L, datetime.datetime(2013, 5, 24, 5, 13, 42), 0.168074251003583, True, 'time']
+

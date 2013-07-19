@@ -1,0 +1,28 @@
+['coffeebean', 202534674, 'impression', '10', 240318730L, datetime.datetime(2013, 5, 14, 4, 36, 30), 0.0, False, 'best']
+['coffeebean', 202534674, 'impression', '9', 240318695L, datetime.datetime(2013, 5, 14, 4, 36, 30), 0.206004430822983, False, 'best']
+['coffeebean', 202534674, 'impression', '7', 240318695L, datetime.datetime(2013, 5, 14, 4, 36, 37), 0.206004430822983, False, 'best']
+['coffeebean', 202534674, 'impression', '8', 240318730L, datetime.datetime(2013, 5, 14, 4, 36, 37), 0.0, False, 'best']
+
+['coffeebean', 202534674, 'impression', '6', 240318695L, datetime.datetime(2013, 5, 14, 17, 1, 38), 0.206004430822983, False, 'best']
+['coffeebean', 202534674, 'impression', '7', 240318730L, datetime.datetime(2013, 5, 14, 17, 1, 38), 0.0, False, 'best']
+['coffeebean', 202534674, 'impression', '6', 240318730L, datetime.datetime(2013, 5, 14, 17, 2, 43), 0.0, False, 'best']
+['coffeebean', 202534674, 'impression', '5', 240318695L, datetime.datetime(2013, 5, 14, 17, 2, 43), 0.206004430822983, False, 'best']
+['coffeebean', 202534674, 'impression', '5', 240318695L, datetime.datetime(2013, 5, 14, 17, 3, 39), 0.206004430822983, False, 'best']
+['coffeebean', 202534674, 'impression', '6', 240318730L, datetime.datetime(2013, 5, 14, 17, 3, 39), 0.0, False, 'best']
+['coffeebean', 202534674, 'impression', '6', 240318730L, datetime.datetime(2013, 5, 14, 17, 7, 52), 0.0, False, 'best']
+['coffeebean', 202534674, 'impression', '5', 240318695L, datetime.datetime(2013, 5, 14, 17, 7, 52), 0.206004430822983, False, 'best']
+['coffeebean', 202534674, 'impression', '5', 240318695L, datetime.datetime(2013, 5, 14, 17, 12, 6), 0.206004430822983, False, 'best']
+['coffeebean', 202534674, 'impression', '6', 240318730L, datetime.datetime(2013, 5, 14, 17, 12, 6), 0.0, False, 'best']
+['coffeebean', 202534674, 'impression', '7', 240318730L, datetime.datetime(2013, 5, 14, 17, 12, 51), 0.0, False, 'best']
+['coffeebean', 202534674, 'impression', '6', 240318695L, datetime.datetime(2013, 5, 14, 17, 12, 51), 0.206004430822983, False, 'best']
+['coffeebean', 202534674, 'impression', '6', 240318695L, datetime.datetime(2013, 5, 14, 17, 15, 5), 0.206004430822983, False, 'best']
+['coffeebean', 202534674, 'impression', '7', 240318730L, datetime.datetime(2013, 5, 14, 17, 15, 5), 0.0, False, 'best']
+['coffeebean', 202534674, 'impression', '6', 240318730L, datetime.datetime(2013, 5, 14, 17, 15, 13), 0.0, False, 'best']
+['coffeebean', 202534674, 'impression', '5', 240318695L, datetime.datetime(2013, 5, 14, 17, 15, 13), 0.206004430822983, False, 'best']
+
+['coffeebean', 202534674, 'impression', '1', 240344089L, datetime.datetime(2013, 5, 16, 23, 7, 20), 0.0330843750117188, False, 'best']
+
+['coffeebean', 202534674, 'impression', '1', 240344089L, datetime.datetime(2013, 5, 27, 14, 10, 1), 0.0330843750117188, False, 'best']
+['coffeebean', 202534674, 'impression', '1', 240344089L, datetime.datetime(2013, 5, 27, 14, 10, 26), 0.0330843750117188, False, 'best']
+['coffeebean', 202534674, 'impression', '1', 240344089L, datetime.datetime(2013, 5, 27, 14, 10, 42), 0.0330843750117188, False, 'best']
+

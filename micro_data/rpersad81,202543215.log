@@ -1,0 +1,13 @@
+['rpersad81', 202543215, 'impression', '10', 240494795L, datetime.datetime(2013, 5, 18, 3, 55, 52), 0.119560818959277, False, 'best']
+['rpersad81', 202543215, 'impression', '5', 240494153L, datetime.datetime(2013, 5, 18, 3, 55, 52), 0.202832952996468, False, 'best']
+['rpersad81', 202543215, 'impression', '2', 240519339L, datetime.datetime(2013, 5, 18, 3, 55, 52), 0.338132950487686, False, 'best']
+['rpersad81', 202543215, 'impression', '1', 240496071L, datetime.datetime(2013, 5, 18, 3, 55, 52), 0.361173659678133, False, 'best']
+['rpersad81', 202543215, 'impression', '6', 240503900L, datetime.datetime(2013, 5, 18, 3, 55, 52), 0.18569740606944, False, 'best']
+['rpersad81', 202543215, 'impression', '8', 240497573L, datetime.datetime(2013, 5, 18, 3, 55, 52), 0.170339208648358, False, 'best']
+['rpersad81', 202543215, 'impression', '7', 240495653L, datetime.datetime(2013, 5, 18, 3, 55, 52), 0.174579201146762, False, 'best']
+['rpersad81', 202543215, 'impression', '9', 240497705L, datetime.datetime(2013, 5, 18, 3, 55, 52), 0.158920862143823, False, 'best']
+['rpersad81', 202543215, 'impression', '3', 240583470L, datetime.datetime(2013, 5, 18, 3, 55, 52), 0.224475696264849, False, 'best']
+['rpersad81', 202543215, 'impression', '4', 240510680L, datetime.datetime(2013, 5, 18, 3, 55, 52), 0.224002237031533, False, 'best']
+['rpersad81', 202543215, 'impression', '7', 240495653L, datetime.datetime(2013, 5, 18, 3, 57, 5), 0.174579201146762, False, 'best']
+['rpersad81', 202543215, 'impression', '6', 240503900L, datetime.datetime(2013, 5, 18, 3, 57, 9), 0.18569740606944, False, 'best']
+

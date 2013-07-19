@@ -1,0 +1,16 @@
+['nuti123', 202592113, 'impression', '5', 241538460L, datetime.datetime(2013, 5, 29, 13, 2, 5), 0.124320672101494, False, 'time']
+['nuti123', 202592113, 'impression', '7', 241530954L, datetime.datetime(2013, 5, 29, 13, 2, 5), 0.280320152465137, False, 'time']
+['nuti123', 202592113, 'impression', '2', 241549432L, datetime.datetime(2013, 5, 29, 13, 2, 5), 0.209585074203652, False, 'time']
+['nuti123', 202592113, 'impression', '4', 241542022L, datetime.datetime(2013, 5, 29, 13, 2, 5), 0.224228177429609, False, 'time']
+['nuti123', 202592113, 'impression', '6', 241531028L, datetime.datetime(2013, 5, 29, 13, 2, 5), 0.107456062038596, False, 'time']
+['nuti123', 202592113, 'impression', '1', 241561240L, datetime.datetime(2013, 5, 29, 13, 2, 5), 0.147305600087514, False, 'time']
+['nuti123', 202592113, 'impression', '3', 241548284L, datetime.datetime(2013, 5, 29, 13, 2, 5), 0.216329273157397, False, 'time']
+
+['nuti123', 202592113, 'impression', '6', 241531028L, datetime.datetime(2013, 5, 29, 18, 12, 55), 0.107456062038596, False, 'time']
+['nuti123', 202592113, 'impression', '1', 241561240L, datetime.datetime(2013, 5, 29, 18, 12, 55), 0.147305600087514, False, 'time']
+['nuti123', 202592113, 'impression', '2', 241549432L, datetime.datetime(2013, 5, 29, 18, 12, 55), 0.209585074203652, False, 'time']
+['nuti123', 202592113, 'impression', '4', 241542022L, datetime.datetime(2013, 5, 29, 18, 12, 55), 0.224228177429609, False, 'time']
+['nuti123', 202592113, 'impression', '3', 241548284L, datetime.datetime(2013, 5, 29, 18, 12, 55), 0.216329273157397, False, 'time']
+['nuti123', 202592113, 'impression', '7', 241530954L, datetime.datetime(2013, 5, 29, 18, 12, 55), 0.280320152465137, False, 'time']
+['nuti123', 202592113, 'impression', '5', 241538460L, datetime.datetime(2013, 5, 29, 18, 12, 55), 0.124320672101494, False, 'time']
+

@@ -1,0 +1,13 @@
+['sheleg', 202585490, 'impression', '1', 241386199L, datetime.datetime(2013, 5, 27, 10, 4, 51), 0.0165341539808506, False, 'time']
+
+['sheleg', 202585490, 'impression', '8', 241395288L, datetime.datetime(2013, 5, 29, 9, 44, 18), 0.0402524215192364, False, 'time']
+['sheleg', 202585490, 'impression', '5', 241406967L, datetime.datetime(2013, 5, 29, 9, 44, 18), 0.0494295507890531, False, 'time']
+['sheleg', 202585490, 'impression', '6', 241401597L, datetime.datetime(2013, 5, 29, 9, 44, 18), 0.0483229939221016, False, 'time']
+['sheleg', 202585490, 'impression', '1', 241517375L, datetime.datetime(2013, 5, 29, 9, 44, 18), 0.0231119122436475, False, 'time']
+['sheleg', 202585490, 'impression', '3', 241418936L, datetime.datetime(2013, 5, 29, 9, 44, 18), 0.00885104035458229, False, 'time']
+['sheleg', 202585490, 'impression', '7', 241396016L, datetime.datetime(2013, 5, 29, 9, 44, 18), 0.0100431135630302, False, 'time']
+['sheleg', 202585490, 'impression', '2', 241503654L, datetime.datetime(2013, 5, 29, 9, 44, 18), 0.0430185576511499, False, 'time']
+['sheleg', 202585490, 'impression', '4', 241415189L, datetime.datetime(2013, 5, 29, 9, 44, 18), 0.0732239662547357, False, 'time']
+['sheleg', 202585490, 'impression', '9', 241386199L, datetime.datetime(2013, 5, 29, 9, 44, 18), 0.0165341539808506, False, 'time']
+['sheleg', 202585490, 'view_full_application_via_name', '5', 241406967L, datetime.datetime(2013, 5, 29, 9, 44, 47), 0.0494295507890531, False, 'time']
+

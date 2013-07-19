@@ -1,0 +1,32 @@
+['jaisanbran', 202587890, 'impression', '5', 241452012L, datetime.datetime(2013, 5, 28, 17, 43, 4), 0.020739795640203, False, 'best']
+['jaisanbran', 202587890, 'impression', '4', 241475955L, datetime.datetime(2013, 5, 28, 17, 43, 4), 0.0511512828924712, False, 'best']
+['jaisanbran', 202587890, 'impression', '2', 241481710L, datetime.datetime(2013, 5, 28, 17, 43, 4), 0.111470295073759, False, 'best']
+['jaisanbran', 202587890, 'impression', '3', 241437806L, datetime.datetime(2013, 5, 28, 17, 43, 4), 0.085745428128454, False, 'best']
+['jaisanbran', 202587890, 'impression', '1', 241452812L, datetime.datetime(2013, 5, 28, 17, 43, 4), 0.125280134056946, False, 'best']
+
+['jaisanbran', 202587890, 'impression', '3', 241437806L, datetime.datetime(2013, 5, 28, 18, 29, 11), 0.085745428128454, False, 'best']
+['jaisanbran', 202587890, 'impression', '2', 241481710L, datetime.datetime(2013, 5, 28, 18, 29, 11), 0.111470295073759, False, 'best']
+['jaisanbran', 202587890, 'impression', '5', 241452012L, datetime.datetime(2013, 5, 28, 18, 29, 11), 0.020739795640203, False, 'best']
+['jaisanbran', 202587890, 'impression', '1', 241452812L, datetime.datetime(2013, 5, 28, 18, 29, 11), 0.125280134056946, False, 'best']
+['jaisanbran', 202587890, 'impression', '4', 241475955L, datetime.datetime(2013, 5, 28, 18, 29, 11), 0.0511512828924712, False, 'best']
+['jaisanbran', 202587890, 'expand_tile', '1', 241452812L, datetime.datetime(2013, 5, 28, 18, 29, 15), 0.125280134056946, False, 'best']
+['jaisanbran', 202587890, 'collapse_tile', '1', 241452812L, datetime.datetime(2013, 5, 28, 18, 29, 29), 0.125280134056946, False, 'best']
+['jaisanbran', 202587890, 'expand_tile', '1', 241452812L, datetime.datetime(2013, 5, 28, 18, 29, 30), 0.125280134056946, False, 'best']
+['jaisanbran', 202587890, 'view_full_application', '1', 241452812L, datetime.datetime(2013, 5, 28, 18, 29, 34), 0.125280134056946, False, 'best']
+
+['jaisanbran', 202587890, 'impression', '2', 241481710L, datetime.datetime(2013, 5, 28, 20, 29, 50), 0.111470295073759, False, 'best']
+['jaisanbran', 202587890, 'impression', '3', 241475955L, datetime.datetime(2013, 5, 28, 20, 29, 50), 0.0511512828924712, False, 'best']
+['jaisanbran', 202587890, 'impression', '1', 241452812L, datetime.datetime(2013, 5, 28, 20, 29, 50), 0.125280134056946, False, 'best']
+
+['jaisanbran', 202587890, 'impression', '2', 241481710L, datetime.datetime(2013, 5, 29, 16, 6, 5), 0.111470295073759, False, 'best']
+['jaisanbran', 202587890, 'impression', '1', 241452812L, datetime.datetime(2013, 5, 29, 16, 6, 5), 0.125280134056946, False, 'best']
+['jaisanbran', 202587890, 'impression', '3', 241475955L, datetime.datetime(2013, 5, 29, 16, 6, 5), 0.0511512828924712, False, 'best']
+
+['jaisanbran', 202587890, 'impression', '3', 241475955L, datetime.datetime(2013, 5, 29, 20, 53, 16), 0.0511512828924712, False, 'best']
+['jaisanbran', 202587890, 'impression', '2', 241481710L, datetime.datetime(2013, 5, 29, 20, 53, 16), 0.111470295073759, False, 'best']
+['jaisanbran', 202587890, 'impression', '1', 241452812L, datetime.datetime(2013, 5, 29, 20, 53, 16), 0.125280134056946, False, 'best']
+['jaisanbran', 202587890, 'view_full_application_via_name', '1', 241452812L, datetime.datetime(2013, 5, 29, 20, 53, 21), 0.125280134056946, False, 'best']
+['jaisanbran', 202587890, 'impression', '3', 241475955L, datetime.datetime(2013, 5, 29, 21, 21, 28), 0.0511512828924712, False, 'best']
+['jaisanbran', 202587890, 'impression', '2', 241481710L, datetime.datetime(2013, 5, 29, 21, 21, 28), 0.111470295073759, False, 'best']
+['jaisanbran', 202587890, 'impression', '1', 241452812L, datetime.datetime(2013, 5, 29, 21, 21, 28), 0.125280134056946, False, 'best']
+

@@ -1,0 +1,10 @@
+['exaltdeign', 202584390, 'impression', '1', 241359459L, datetime.datetime(2013, 5, 27, 2, 25, 12), 0.256680965879695, False, 'best']
+
+['exaltdeign', 202584390, 'impression', '2', 241359459L, datetime.datetime(2013, 5, 27, 3, 6, 15), 0.256680965879695, False, 'best']
+['exaltdeign', 202584390, 'impression', '1', 241360987L, datetime.datetime(2013, 5, 27, 3, 6, 15), 0.412284994542089, False, 'best']
+['exaltdeign', 202584390, 'impression', '3', 241359989L, datetime.datetime(2013, 5, 27, 3, 6, 15), 0.251942752936536, False, 'best']
+['exaltdeign', 202584390, 'expand_tile', '3', 241359989L, datetime.datetime(2013, 5, 27, 3, 6, 52), 0.251942752936536, False, 'best']
+['exaltdeign', 202584390, 'impression', '3', 241359989L, datetime.datetime(2013, 5, 27, 3, 8, 39), 0.251942752936536, False, 'best']
+['exaltdeign', 202584390, 'impression', '2', 241359459L, datetime.datetime(2013, 5, 27, 3, 8, 39), 0.256680965879695, False, 'best']
+['exaltdeign', 202584390, 'impression', '1', 241360987L, datetime.datetime(2013, 5, 27, 3, 8, 39), 0.412284994542089, False, 'best']
+

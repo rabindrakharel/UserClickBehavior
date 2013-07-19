@@ -1,0 +1,14 @@
+['delducamario', 202564334, 'impression', '1', 240948824L, datetime.datetime(2013, 5, 21, 18, 11), 0.297500331570596, False, 'time']
+['delducamario', 202564334, 'impression', '3', 240946251L, datetime.datetime(2013, 5, 21, 18, 11), 0.315827415390721, False, 'time']
+['delducamario', 202564334, 'impression', '2', 240947823L, datetime.datetime(2013, 5, 21, 18, 11), 0.227281603997026, False, 'time']
+['delducamario', 202564334, 'expand_tile', '3', 240946251L, datetime.datetime(2013, 5, 21, 18, 11, 18), 0.315827415390721, False, 'time']
+['delducamario', 202564334, 'expand_tile', '2', 240947823L, datetime.datetime(2013, 5, 21, 18, 11, 25), 0.227281603997026, False, 'time']
+['delducamario', 202564334, 'expand_tile', '1', 240948824L, datetime.datetime(2013, 5, 21, 18, 11, 35), 0.297500331570596, False, 'time']
+
+['delducamario', 202564334, 'impression', '1', 240948824L, datetime.datetime(2013, 5, 21, 22, 3, 56), 0.297500331570596, False, 'time']
+['delducamario', 202564334, 'impression', '3', 240946251L, datetime.datetime(2013, 5, 21, 22, 3, 56), 0.315827415390721, False, 'time']
+['delducamario', 202564334, 'impression', '2', 240947823L, datetime.datetime(2013, 5, 21, 22, 3, 56), 0.227281603997026, False, 'time']
+['delducamario', 202564334, 'impression', '2', 240947823L, datetime.datetime(2013, 5, 21, 22, 4, 8), 0.227281603997026, False, 'time']
+['delducamario', 202564334, 'expand_tile', '1', 240948824L, datetime.datetime(2013, 5, 21, 22, 4, 9), 0.297500331570596, False, 'time']
+['delducamario', 202564334, 'expand_tile', '3', 240946251L, datetime.datetime(2013, 5, 21, 22, 4, 16), 0.315827415390721, False, 'time']
+

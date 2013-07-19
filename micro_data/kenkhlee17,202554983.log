@@ -1,0 +1,5 @@
+['kenkhlee17', 202554983, 'impression', '3', 240745942L, datetime.datetime(2013, 5, 20, 3, 57, 16), 0.0218978818654185, False, 'time']
+['kenkhlee17', 202554983, 'impression', '2', 240752345L, datetime.datetime(2013, 5, 20, 3, 57, 16), 0.0275513352102337, False, 'time']
+['kenkhlee17', 202554983, 'impression', '1', 240765302L, datetime.datetime(2013, 5, 20, 3, 57, 16), 0.0951012145454351, False, 'time']
+['kenkhlee17', 202554983, 'view_full_application_via_name', '2', 240752345L, datetime.datetime(2013, 5, 20, 3, 57, 23), 0.0275513352102337, False, 'time']
+

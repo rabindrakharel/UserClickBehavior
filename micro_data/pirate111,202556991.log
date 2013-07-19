@@ -1,0 +1,6 @@
+['pirate111', 202556991, 'impression', '1', 240787286L, datetime.datetime(2013, 5, 20, 1, 45, 41), 0.41771932610887, False, 'best']
+['pirate111', 202556991, 'expand_tile', '1', 240787286L, datetime.datetime(2013, 5, 20, 1, 46, 1), 0.41771932610887, False, 'best']
+['pirate111', 202556991, 'impression', '3', 240788044L, datetime.datetime(2013, 5, 20, 1, 58, 34), 0.138893507181236, False, 'best']
+['pirate111', 202556991, 'impression', '2', 240788045L, datetime.datetime(2013, 5, 20, 1, 58, 34), 0.286772957349998, False, 'best']
+['pirate111', 202556991, 'impression', '1', 240787286L, datetime.datetime(2013, 5, 20, 1, 58, 34), 0.41771932610887, False, 'best']
+

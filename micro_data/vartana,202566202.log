@@ -1,0 +1,6 @@
+['vartana', 202566202, 'impression', '1', 240971202L, datetime.datetime(2013, 5, 22, 2, 4, 21), 0.236156011964491, False, 'time']
+['vartana', 202566202, 'impression', '1', 240971202L, datetime.datetime(2013, 5, 22, 2, 6, 2), 0.236156011964491, False, 'time']
+['vartana', 202566202, 'impression', '1', 240971202L, datetime.datetime(2013, 5, 22, 2, 7, 45), 0.236156011964491, False, 'time']
+['vartana', 202566202, 'impression', '1', 240971202L, datetime.datetime(2013, 5, 22, 2, 9, 27), 0.236156011964491, False, 'time']
+['vartana', 202566202, 'view_full_application_via_name', '1', 240971202L, datetime.datetime(2013, 5, 22, 2, 9, 35), 0.236156011964491, False, 'time']
+

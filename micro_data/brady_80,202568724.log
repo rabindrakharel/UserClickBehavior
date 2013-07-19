@@ -1,0 +1,15 @@
+['brady_80', 202568724, 'impression', '1', 241027093L, datetime.datetime(2013, 5, 23, 10, 6, 41), 0.192870834552594, False, 'best']
+['brady_80', 202568724, 'impression', '3', 241026620L, datetime.datetime(2013, 5, 23, 10, 6, 41), 0.0909093547940507, False, 'best']
+['brady_80', 202568724, 'impression', '4', 241025843L, datetime.datetime(2013, 5, 23, 10, 6, 41), 0.0878434074539337, False, 'best']
+['brady_80', 202568724, 'impression', '2', 241025672L, datetime.datetime(2013, 5, 23, 10, 6, 41), 0.133714043560366, False, 'best']
+['brady_80', 202568724, 'impression', '1', 241027093L, datetime.datetime(2013, 5, 23, 10, 7, 7), 0.192870834552594, False, 'best']
+
+['brady_80', 202568724, 'impression', '3', 241026620L, datetime.datetime(2013, 5, 24, 11, 1, 47), 0.0909093547940507, False, 'best']
+['brady_80', 202568724, 'impression', '2', 241025672L, datetime.datetime(2013, 5, 24, 11, 1, 47), 0.133714043560366, False, 'best']
+['brady_80', 202568724, 'impression', '4', 241025843L, datetime.datetime(2013, 5, 24, 11, 1, 47), 0.0878434074539337, False, 'best']
+['brady_80', 202568724, 'impression', '1', 241027093L, datetime.datetime(2013, 5, 24, 11, 1, 47), 0.192870834552594, False, 'best']
+['brady_80', 202568724, 'view_full_application_via_name', '1', 241027093L, datetime.datetime(2013, 5, 24, 11, 1, 51), 0.192870834552594, False, 'best']
+['brady_80', 202568724, 'view_full_application_via_name', '2', 241025672L, datetime.datetime(2013, 5, 24, 11, 1, 52), 0.133714043560366, False, 'best']
+['brady_80', 202568724, 'view_full_application_via_name', '3', 241026620L, datetime.datetime(2013, 5, 24, 11, 1, 54), 0.0909093547940507, False, 'best']
+['brady_80', 202568724, 'view_full_application_via_name', '4', 241025843L, datetime.datetime(2013, 5, 24, 11, 1, 57), 0.0878434074539337, False, 'best']
+

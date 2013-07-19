@@ -1,0 +1,4 @@
+['daniellaw22', 202547832, 'impression', '2', 240583673L, datetime.datetime(2013, 5, 17, 2, 47, 1), 0.0591856783122414, False, 'time']
+['daniellaw22', 202547832, 'impression', '1', 240584823L, datetime.datetime(2013, 5, 17, 2, 47, 1), 0.315987819046701, True, 'time']
+['daniellaw22', 202547832, 'view_full_application_via_name', '1', 240584823L, datetime.datetime(2013, 5, 17, 2, 47, 13), 0.315987819046701, True, 'time']
+

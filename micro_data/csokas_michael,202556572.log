@@ -1,0 +1,10 @@
+['csokas_michael', 202556572, 'impression', '4', 240810271L, datetime.datetime(2013, 5, 20, 14, 28, 33), 0.0744245562856551, False, 'best']
+['csokas_michael', 202556572, 'impression', '3', 240819135L, datetime.datetime(2013, 5, 20, 14, 28, 33), 0.132785207157277, False, 'best']
+['csokas_michael', 202556572, 'impression', '5', 240784821L, datetime.datetime(2013, 5, 20, 14, 28, 33), 0.0202524751988782, False, 'best']
+['csokas_michael', 202556572, 'impression', '2', 240780910L, datetime.datetime(2013, 5, 20, 14, 28, 33), 0.133853512142571, False, 'best']
+['csokas_michael', 202556572, 'impression', '1', 240787479L, datetime.datetime(2013, 5, 20, 14, 28, 33), 0.194594759341176, False, 'best']
+
+['csokas_michael', 202556572, 'impression', '1', 240819135L, datetime.datetime(2013, 5, 21, 19, 15, 59), 0.132785207157277, False, 'best']
+['csokas_michael', 202556572, 'impression', '3', 240784821L, datetime.datetime(2013, 5, 21, 19, 15, 59), 0.0202524751988782, False, 'best']
+['csokas_michael', 202556572, 'impression', '2', 240810271L, datetime.datetime(2013, 5, 21, 19, 15, 59), 0.0744245562856551, False, 'best']
+

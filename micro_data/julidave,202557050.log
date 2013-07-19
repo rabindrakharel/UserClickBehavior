@@ -1,0 +1,8 @@
+['julidave', 202557050, 'impression', '1', 240795518L, datetime.datetime(2013, 5, 21, 7, 0, 46), 0.324551782755794, False, 'best']
+['julidave', 202557050, 'impression', '2', 240810329L, datetime.datetime(2013, 5, 21, 7, 0, 46), 0.131913656545025, False, 'best']
+['julidave', 202557050, 'expand_tile', '1', 240795518L, datetime.datetime(2013, 5, 21, 7, 1, 12), 0.324551782755794, False, 'best']
+['julidave', 202557050, 'collapse_tile', '1', 240795518L, datetime.datetime(2013, 5, 21, 7, 1, 14), 0.324551782755794, False, 'best']
+
+['julidave', 202557050, 'impression', '1', 240795518L, datetime.datetime(2013, 5, 21, 20, 48, 6), 0.324551782755794, False, 'best']
+['julidave', 202557050, 'impression', '2', 240810329L, datetime.datetime(2013, 5, 21, 20, 48, 6), 0.131913656545025, False, 'best']
+

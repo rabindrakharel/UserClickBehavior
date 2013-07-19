@@ -1,0 +1,20 @@
+['vzatulovsky', 202547652, 'impression', '2', 240580653L, datetime.datetime(2013, 5, 16, 23, 23, 53), 0.0618962251502286, False, 'time']
+['vzatulovsky', 202547652, 'impression', '3', 240580575L, datetime.datetime(2013, 5, 16, 23, 23, 53), 0.291592709934756, False, 'time']
+['vzatulovsky', 202547652, 'impression', '1', 240580715L, datetime.datetime(2013, 5, 16, 23, 23, 53), 0.0516058619758962, False, 'time']
+['vzatulovsky', 202547652, 'view_full_application_via_name', '1', 240580715L, datetime.datetime(2013, 5, 16, 23, 24, 3), 0.0516058619758962, False, 'time']
+
+['vzatulovsky', 202547652, 'impression', '2', 240581160L, datetime.datetime(2013, 5, 17, 0, 49, 36), 0.0837588822253268, False, 'time']
+['vzatulovsky', 202547652, 'impression', '1', 240582442L, datetime.datetime(2013, 5, 17, 0, 49, 36), 0.105722948209665, False, 'time']
+['vzatulovsky', 202547652, 'impression', '3', 240581151L, datetime.datetime(2013, 5, 17, 0, 49, 36), 0.0771357639100739, False, 'time']
+['vzatulovsky', 202547652, 'impression', '4', 240580982L, datetime.datetime(2013, 5, 17, 0, 49, 36), 0.0356772870529807, False, 'time']
+
+['vzatulovsky', 202547652, 'impression', '8', 240580297L, datetime.datetime(2013, 5, 24, 20, 8, 33), 0.281824636094169, False, 'time']
+['vzatulovsky', 202547652, 'impression', '4', 240581453L, datetime.datetime(2013, 5, 24, 20, 8, 33), 0.156798687882998, False, 'time']
+['vzatulovsky', 202547652, 'impression', '1', 240581684L, datetime.datetime(2013, 5, 24, 20, 8, 33), 0.121074995762502, False, 'time']
+['vzatulovsky', 202547652, 'impression', '5', 240581400L, datetime.datetime(2013, 5, 24, 20, 8, 33), 0.191597585441059, False, 'time']
+['vzatulovsky', 202547652, 'impression', '2', 240581640L, datetime.datetime(2013, 5, 24, 20, 8, 33), 0.0943731573693144, False, 'time']
+['vzatulovsky', 202547652, 'impression', '6', 240581160L, datetime.datetime(2013, 5, 24, 20, 8, 33), 0.0837588822253268, False, 'time']
+['vzatulovsky', 202547652, 'impression', '7', 240580982L, datetime.datetime(2013, 5, 24, 20, 8, 33), 0.0356772870529807, False, 'time']
+['vzatulovsky', 202547652, 'impression', '3', 240581612L, datetime.datetime(2013, 5, 24, 20, 8, 33), 0.29727973667611, False, 'time']
+['vzatulovsky', 202547652, 'view_full_application_via_name', '1', 240581684L, datetime.datetime(2013, 5, 24, 20, 8, 36), 0.121074995762502, False, 'time']
+

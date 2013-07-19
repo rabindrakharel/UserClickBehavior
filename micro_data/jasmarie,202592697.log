@@ -1,0 +1,5 @@
+['jasmarie', 202592697, 'impression', '1', 241541479L, datetime.datetime(2013, 5, 29, 3, 22, 31), 0.0456974212593026, True, 'time']
+['jasmarie', 202592697, 'impression', '1', 241541479L, datetime.datetime(2013, 5, 29, 3, 22, 33), 0.0456974212593026, True, 'time']
+['jasmarie', 202592697, 'expand_tile', '1', 241541479L, datetime.datetime(2013, 5, 29, 3, 22, 36), 0.0456974212593026, True, 'time']
+['jasmarie', 202592697, 'hire', '1', 241541479L, datetime.datetime(2013, 5, 29, 3, 22, 54), 0.0456974212593026, True, 'time']
+

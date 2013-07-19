@@ -1,0 +1,12 @@
+['paultarq', 202554400, 'impression', '1', 240750908L, datetime.datetime(2013, 5, 19, 14, 13, 42), 0.442290500782632, False, 'best']
+['paultarq', 202554400, 'impression', '5', 240735266L, datetime.datetime(2013, 5, 19, 14, 13, 42), 0.051376000635469, False, 'best']
+['paultarq', 202554400, 'impression', '2', 240734784L, datetime.datetime(2013, 5, 19, 14, 13, 42), 0.112890577556309, False, 'best']
+['paultarq', 202554400, 'impression', '3', 240733406L, datetime.datetime(2013, 5, 19, 14, 13, 42), 0.109019085964875, False, 'best']
+['paultarq', 202554400, 'impression', '4', 240733034L, datetime.datetime(2013, 5, 19, 14, 13, 42), 0.101280790831261, False, 'best']
+['paultarq', 202554400, 'expand_tile', '1', 240750908L, datetime.datetime(2013, 5, 19, 14, 13, 51), 0.442290500782632, False, 'best']
+['paultarq', 202554400, 'expand_tile', '2', 240734784L, datetime.datetime(2013, 5, 19, 14, 14, 4), 0.112890577556309, False, 'best']
+['paultarq', 202554400, 'expand_tile', '3', 240733406L, datetime.datetime(2013, 5, 19, 14, 14, 12), 0.109019085964875, False, 'best']
+['paultarq', 202554400, 'expand_tile', '5', 240735266L, datetime.datetime(2013, 5, 19, 14, 14, 28), 0.051376000635469, False, 'best']
+['paultarq', 202554400, 'send_message', '1', 240750908L, datetime.datetime(2013, 5, 19, 14, 15, 1), 0.442290500782632, False, 'best']
+['paultarq', 202554400, 'expand_tile', '1', 240750908L, datetime.datetime(2013, 5, 19, 14, 24, 27), 0.442290500782632, False, 'best']
+

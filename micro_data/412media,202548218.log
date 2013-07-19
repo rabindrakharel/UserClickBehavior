@@ -1,0 +1,4 @@
+['412media', 202548218, 'impression', '2', 240589501L, datetime.datetime(2013, 5, 17, 3, 11, 43), 0.131996536234829, False, 'time']
+['412media', 202548218, 'impression', '1', 240589579L, datetime.datetime(2013, 5, 17, 3, 11, 43), 0.183740381844763, False, 'time']
+['412media', 202548218, 'impression', '3', 240589418L, datetime.datetime(2013, 5, 17, 3, 11, 43), 0.365998133988382, False, 'time']
+

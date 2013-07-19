@@ -1,0 +1,14 @@
+['kerriho', 202585092, 'impression', '2', 241379949L, datetime.datetime(2013, 5, 27, 23, 40, 25), 0.077323412799822, False, 'time']
+['kerriho', 202585092, 'impression', '1', 241394702L, datetime.datetime(2013, 5, 27, 23, 40, 25), 0.435323926794744, False, 'time']
+['kerriho', 202585092, 'expand_tile', '1', 241394702L, datetime.datetime(2013, 5, 27, 23, 40, 27), 0.435323926794744, False, 'time']
+['kerriho', 202585092, 'shortlist', '1', 241394702L, datetime.datetime(2013, 5, 27, 23, 40, 47), 0.435323926794744, False, 'time']
+['kerriho', 202585092, 'expand_tile', '1', 241394702L, datetime.datetime(2013, 5, 27, 23, 40, 47), 0.435323926794744, False, 'time']
+['kerriho', 202585092, 'expand_tile', '2', 241379949L, datetime.datetime(2013, 5, 27, 23, 40, 51), 0.077323412799822, False, 'time']
+['kerriho', 202585092, 'impression', '2', 241379949L, datetime.datetime(2013, 5, 27, 23, 41, 4), 0.077323412799822, False, 'time']
+['kerriho', 202585092, 'expand_tile', '2', 241379949L, datetime.datetime(2013, 5, 27, 23, 41, 22), 0.077323412799822, False, 'time']
+
+['kerriho', 202585092, 'impression', '1', 241394702L, datetime.datetime(2013, 5, 28, 0, 28, 59), 0.435323926794744, False, 'time']
+['kerriho', 202585092, 'expand_tile', '1', 241394702L, datetime.datetime(2013, 5, 28, 0, 29, 5), 0.435323926794744, False, 'time']
+
+['kerriho', 202585092, 'impression', '1', 241394702L, datetime.datetime(2013, 5, 28, 7, 2, 24), 0.435323926794744, False, 'time']
+

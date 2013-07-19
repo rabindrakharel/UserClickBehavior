@@ -1,0 +1,10 @@
+['cwaeurope', 202567723, 'impression', '1', 241008925L, datetime.datetime(2013, 5, 22, 11, 30, 45), 0.446547739940452, False, 'time']
+['cwaeurope', 202567723, 'impression', '2', 241005559L, datetime.datetime(2013, 5, 22, 11, 30, 45), 0.797876182243029, False, 'time']
+['cwaeurope', 202567723, 'impression', '1', 241008925L, datetime.datetime(2013, 5, 22, 11, 30, 56), 0.446547739940452, False, 'time']
+['cwaeurope', 202567723, 'impression', '1', 241005559L, datetime.datetime(2013, 5, 22, 11, 36, 4), 0.797876182243029, False, 'time']
+['cwaeurope', 202567723, 'impression', '1', 241005559L, datetime.datetime(2013, 5, 22, 11, 36, 9), 0.797876182243029, False, 'time']
+
+['cwaeurope', 202567723, 'impression', '1', 241008264L, datetime.datetime(2013, 5, 23, 11, 46, 14), 0.461705140831587, False, 'time']
+['cwaeurope', 202567723, 'impression', '2', 241005934L, datetime.datetime(2013, 5, 23, 11, 46, 14), 0.796914412098931, False, 'time']
+['cwaeurope', 202567723, 'view_full_application_via_name', '2', 241005934L, datetime.datetime(2013, 5, 23, 11, 46, 18), 0.796914412098931, False, 'time']
+

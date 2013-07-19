@@ -1,0 +1,4 @@
+['comebacknader', 202565969, 'impression', '2', 240968816L, datetime.datetime(2013, 5, 22, 0, 23, 56), 0.111534542469096, False, 'time']
+['comebacknader', 202565969, 'impression', '1', 240969025L, datetime.datetime(2013, 5, 22, 0, 23, 56), 0.190739204036077, False, 'time']
+['comebacknader', 202565969, 'expand_tile', '2', 240968816L, datetime.datetime(2013, 5, 22, 0, 24, 6), 0.111534542469096, False, 'time']
+

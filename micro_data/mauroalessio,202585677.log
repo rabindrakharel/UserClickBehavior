@@ -1,0 +1,6 @@
+['mauroalessio', 202585677, 'impression', '1', 241390030L, datetime.datetime(2013, 5, 28, 21, 9, 5), 0.646999400881649, False, 'best']
+['mauroalessio', 202585677, 'impression', '2', 241389997L, datetime.datetime(2013, 5, 28, 21, 9, 5), 0.300950086400612, False, 'best']
+['mauroalessio', 202585677, 'impression', '3', 241390024L, datetime.datetime(2013, 5, 28, 21, 9, 5), 0.0486526912876098, False, 'best']
+['mauroalessio', 202585677, 'impression', '1', 241390030L, datetime.datetime(2013, 5, 28, 21, 9, 9), 0.646999400881649, False, 'best']
+['mauroalessio', 202585677, 'impression', '1', 241390030L, datetime.datetime(2013, 5, 28, 21, 9, 10), 0.646999400881649, False, 'best']
+

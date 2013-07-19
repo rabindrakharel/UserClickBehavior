@@ -1,0 +1,5 @@
+['mikoh0', 202585318, 'impression', '4', 241382079L, datetime.datetime(2013, 5, 27, 8, 30, 23), 0.0281258655521337, False, 'time']
+['mikoh0', 202585318, 'impression', '2', 241382238L, datetime.datetime(2013, 5, 27, 8, 30, 23), 0.0747650928870227, False, 'time']
+['mikoh0', 202585318, 'impression', '3', 241382232L, datetime.datetime(2013, 5, 27, 8, 30, 23), 0.0608806259817044, False, 'time']
+['mikoh0', 202585318, 'impression', '1', 241382444L, datetime.datetime(2013, 5, 27, 8, 30, 23), 0.137619031080537, False, 'time']
+

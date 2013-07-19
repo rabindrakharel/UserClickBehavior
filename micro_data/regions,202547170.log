@@ -1,0 +1,9 @@
+['regions', 202547170, 'impression', '1', 240574394L, datetime.datetime(2013, 5, 16, 20, 42, 21), 0.0835008046137057, False, 'time']
+['regions', 202547170, 'view_full_application_via_name', '1', 240574394L, datetime.datetime(2013, 5, 16, 20, 42, 37), 0.0835008046137057, False, 'time']
+['regions', 202547170, 'view_full_application_via_name', '1', 240574608L, datetime.datetime(2013, 5, 16, 20, 51, 29), 0.0644429147329103, False, 'time']
+['regions', 202547170, 'expand_tile', '1', 240574608L, datetime.datetime(2013, 5, 16, 20, 51, 38), 0.0644429147329103, False, 'time']
+['regions', 202547170, 'view_full_application_via_name', '1', 240574608L, datetime.datetime(2013, 5, 16, 20, 51, 39), 0.0644429147329103, False, 'time']
+
+['regions', 202547170, 'impression', '1', 240574608L, datetime.datetime(2013, 5, 17, 2, 30, 57), 0.0644429147329103, False, 'time']
+['regions', 202547170, 'impression', '2', 240574394L, datetime.datetime(2013, 5, 17, 2, 30, 57), 0.0835008046137057, False, 'time']
+

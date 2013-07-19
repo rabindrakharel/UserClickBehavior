@@ -1,0 +1,4 @@
+['appman2012', 202561622, 'impression', '1', 240879411L, datetime.datetime(2013, 5, 27, 15, 43, 26), 0.450439566146612, True, 'best']
+['appman2012', 202561622, 'expand_tile', '1', 240879411L, datetime.datetime(2013, 5, 27, 15, 43, 31), 0.450439566146612, True, 'best']
+['appman2012', 202561622, 'view_full_application', '1', 240879411L, datetime.datetime(2013, 5, 27, 15, 43, 45), 0.450439566146612, True, 'best']
+

@@ -1,0 +1,26 @@
+['falconchelsea', 202554333, 'impression', '1', 240778141L, datetime.datetime(2013, 5, 20, 1, 48, 39), 0.0706524845157375, False, 'time']
+['falconchelsea', 202554333, 'impression', '3', 240731633L, datetime.datetime(2013, 5, 20, 1, 48, 39), 0.0230376452938171, False, 'time']
+['falconchelsea', 202554333, 'impression', '2', 240735135L, datetime.datetime(2013, 5, 20, 1, 48, 39), 0.0328274266301862, False, 'time']
+['falconchelsea', 202554333, 'view_full_application_via_name', '1', 240778141L, datetime.datetime(2013, 5, 20, 1, 48, 44), 0.0706524845157375, False, 'time']
+
+['falconchelsea', 202554333, 'impression', '3', 240731633L, datetime.datetime(2013, 5, 20, 2, 36, 17), 0.0230376452938171, False, 'time']
+['falconchelsea', 202554333, 'impression', '1', 240778141L, datetime.datetime(2013, 5, 20, 2, 36, 17), 0.0706524845157375, False, 'time']
+['falconchelsea', 202554333, 'impression', '2', 240735135L, datetime.datetime(2013, 5, 20, 2, 36, 17), 0.0328274266301862, False, 'time']
+['falconchelsea', 202554333, 'view_full_application_via_name', '2', 240735135L, datetime.datetime(2013, 5, 20, 2, 36, 21), 0.0328274266301862, False, 'time']
+
+['falconchelsea', 202554333, 'impression', '3', 240731633L, datetime.datetime(2013, 5, 27, 4, 50, 14), 0.0230376452938171, False, 'time']
+['falconchelsea', 202554333, 'impression', '2', 240735135L, datetime.datetime(2013, 5, 27, 4, 50, 14), 0.0328274266301862, False, 'time']
+['falconchelsea', 202554333, 'impression', '4', 240731599L, datetime.datetime(2013, 5, 27, 4, 50, 14), 0.0204761482545929, False, 'time']
+['falconchelsea', 202554333, 'impression', '1', 240778141L, datetime.datetime(2013, 5, 27, 4, 50, 14), 0.0706524845157375, False, 'time']
+['falconchelsea', 202554333, 'impression', '1', 240778141L, datetime.datetime(2013, 5, 27, 4, 50, 28), 0.0706524845157375, False, 'time']
+['falconchelsea', 202554333, 'impression', '4', 240731599L, datetime.datetime(2013, 5, 27, 4, 50, 28), 0.0204761482545929, False, 'time']
+['falconchelsea', 202554333, 'impression', '2', 240735135L, datetime.datetime(2013, 5, 27, 4, 50, 28), 0.0328274266301862, False, 'time']
+['falconchelsea', 202554333, 'impression', '3', 240731633L, datetime.datetime(2013, 5, 27, 4, 50, 28), 0.0230376452938171, False, 'time']
+
+['falconchelsea', 202554333, 'impression', '4', 240731633L, datetime.datetime(2013, 5, 27, 16, 25, 20), 0.0230376452938171, False, 'time']
+['falconchelsea', 202554333, 'impression', '3', 240735135L, datetime.datetime(2013, 5, 27, 16, 25, 20), 0.0328274266301862, False, 'time']
+['falconchelsea', 202554333, 'impression', '5', 240731599L, datetime.datetime(2013, 5, 27, 16, 25, 20), 0.0204761482545929, False, 'time']
+['falconchelsea', 202554333, 'impression', '2', 240778141L, datetime.datetime(2013, 5, 27, 16, 25, 20), 0.0706524845157375, False, 'time']
+['falconchelsea', 202554333, 'impression', '1', 241367757L, datetime.datetime(2013, 5, 27, 16, 25, 20), 0.0143777958238515, False, 'time']
+['falconchelsea', 202554333, 'view_full_application_via_message', '1', 241367757L, datetime.datetime(2013, 5, 27, 16, 25, 26), 0.0143777958238515, False, 'time']
+

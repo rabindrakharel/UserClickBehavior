@@ -95,6 +95,20 @@ for(int i=0;i<horWidth/70;i++)
 <%}%>
 
 
+<%
+for(int i=0;i<horWidth/500;i++)
+{
+%>        <g fill="none" stroke="black" stroke-width="0.5">
+    <%
+    double rand=Math.random();
+    %>
+    <path stroke-dasharray="10,10" d="M<%=offsetX+i*900*rand%> <%=offsetY%> <%=offsetX+i*900*rand%> <%=offsetY+graphHeight%>" />
+  </g>
+</text>
+    
+<%}%>
+   
+
   </svg>
   </div>
  </div>

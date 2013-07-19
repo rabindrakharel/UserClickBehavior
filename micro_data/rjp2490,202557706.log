@@ -1,0 +1,5 @@
+['rjp2490', 202557706, 'impression', '1', 240803404L, datetime.datetime(2013, 5, 20, 9, 2, 27), 0.0290317789043952, False, 'best']
+['rjp2490', 202557706, 'impression', '1', 240803404L, datetime.datetime(2013, 5, 20, 9, 2, 39), 0.0290317789043952, False, 'best']
+['rjp2490', 202557706, 'shortlist', '1', 240803404L, datetime.datetime(2013, 5, 20, 9, 2, 42), 0.0290317789043952, False, 'best']
+['rjp2490', 202557706, 'view_full_application_via_name', '1', 240803404L, datetime.datetime(2013, 5, 20, 9, 2, 47), 0.0290317789043952, False, 'best']
+

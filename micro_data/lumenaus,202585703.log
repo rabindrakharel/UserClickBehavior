@@ -1,0 +1,13 @@
+['lumenaus', 202585703, 'impression', '12', 241397661L, datetime.datetime(2013, 5, 28, 4, 3, 46), 0.104598217529823, False, 'best']
+['lumenaus', 202585703, 'impression', '11', 241397685L, datetime.datetime(2013, 5, 28, 4, 3, 46), 0.164378946494667, False, 'best']
+['lumenaus', 202585703, 'impression', '8', 241406079L, datetime.datetime(2013, 5, 28, 4, 3, 46), 0.203985437737298, False, 'best']
+['lumenaus', 202585703, 'impression', '3', 241436963L, datetime.datetime(2013, 5, 28, 4, 3, 46), 0.384078216820234, False, 'best']
+['lumenaus', 202585703, 'impression', '10', 241392494L, datetime.datetime(2013, 5, 28, 4, 3, 46), 0.186432959813321, False, 'best']
+['lumenaus', 202585703, 'impression', '5', 241400987L, datetime.datetime(2013, 5, 28, 4, 3, 46), 0.332968756408388, False, 'best']
+['lumenaus', 202585703, 'impression', '4', 241435598L, datetime.datetime(2013, 5, 28, 4, 3, 46), 0.377465599694041, False, 'best']
+['lumenaus', 202585703, 'impression', '6', 241421561L, datetime.datetime(2013, 5, 28, 4, 3, 46), 0.300319748417945, False, 'best']
+['lumenaus', 202585703, 'impression', '9', 241398435L, datetime.datetime(2013, 5, 28, 4, 3, 46), 0.193286162732863, False, 'best']
+['lumenaus', 202585703, 'impression', '2', 241411691L, datetime.datetime(2013, 5, 28, 4, 3, 46), 0.423248934286516, False, 'best']
+['lumenaus', 202585703, 'impression', '7', 241425565L, datetime.datetime(2013, 5, 28, 4, 3, 46), 0.230815336985317, False, 'best']
+['lumenaus', 202585703, 'impression', '1', 241425112L, datetime.datetime(2013, 5, 28, 4, 3, 46), 0.495843505453683, False, 'best']
+

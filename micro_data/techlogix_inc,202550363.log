@@ -1,0 +1,9 @@
+['techlogix_inc', 202550363, 'impression', '1', 240649398L, datetime.datetime(2013, 5, 18, 2, 49, 13), 0.286350602564224, False, 'best']
+['techlogix_inc', 202550363, 'impression', '2', 240641777L, datetime.datetime(2013, 5, 18, 2, 49, 13), 0.148006347454846, False, 'best']
+['techlogix_inc', 202550363, 'view_full_application_via_name', '1', 240649398L, datetime.datetime(2013, 5, 18, 2, 49, 16), 0.286350602564224, False, 'best']
+
+['techlogix_inc', 202550363, 'impression', '1', 240705375L, datetime.datetime(2013, 5, 18, 14, 52, 8), 0.29913016596411, False, 'best']
+['techlogix_inc', 202550363, 'impression', '2', 240649398L, datetime.datetime(2013, 5, 18, 14, 52, 8), 0.286350602564224, False, 'best']
+['techlogix_inc', 202550363, 'impression', '3', 240641777L, datetime.datetime(2013, 5, 18, 14, 52, 8), 0.148006347454846, False, 'best']
+['techlogix_inc', 202550363, 'view_full_application_via_name', '1', 240705375L, datetime.datetime(2013, 5, 18, 14, 52, 38), 0.29913016596411, False, 'best']
+

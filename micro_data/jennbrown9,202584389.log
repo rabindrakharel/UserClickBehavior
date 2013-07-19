@@ -1,0 +1,28 @@
+['jennbrown9', 202584389, 'impression', '4', 241359292L, datetime.datetime(2013, 5, 27, 3, 27, 25), 0.263726645235133, False, 'time']
+['jennbrown9', 202584389, 'impression', '1', 241361918L, datetime.datetime(2013, 5, 27, 3, 27, 25), 0.716083285705021, True, 'time']
+['jennbrown9', 202584389, 'impression', '3', 241360317L, datetime.datetime(2013, 5, 27, 3, 27, 25), 0.708134227068556, False, 'time']
+['jennbrown9', 202584389, 'impression', '6', 241358800L, datetime.datetime(2013, 5, 27, 3, 27, 25), 0.0553294138877731, False, 'time']
+['jennbrown9', 202584389, 'impression', '2', 241361486L, datetime.datetime(2013, 5, 27, 3, 27, 25), 0.216280620918852, False, 'time']
+['jennbrown9', 202584389, 'impression', '5', 241358876L, datetime.datetime(2013, 5, 27, 3, 27, 25), 0.262084212723531, False, 'time']
+['jennbrown9', 202584389, 'view_full_application_via_name', '1', 241361918L, datetime.datetime(2013, 5, 27, 3, 28, 3), 0.716083285705021, True, 'time']
+
+['jennbrown9', 202584389, 'impression', '4', 241360317L, datetime.datetime(2013, 5, 27, 13, 42, 5), 0.708134227068556, False, 'time']
+['jennbrown9', 202584389, 'impression', '6', 241358800L, datetime.datetime(2013, 5, 27, 13, 42, 5), 0.0553294138877731, False, 'time']
+['jennbrown9', 202584389, 'impression', '5', 241358876L, datetime.datetime(2013, 5, 27, 13, 42, 5), 0.262084212723531, False, 'time']
+['jennbrown9', 202584389, 'impression', '3', 241361486L, datetime.datetime(2013, 5, 27, 13, 42, 5), 0.216280620918852, False, 'time']
+['jennbrown9', 202584389, 'impression', '1', 241399997L, datetime.datetime(2013, 5, 27, 13, 42, 5), 0.332372330220303, False, 'time']
+['jennbrown9', 202584389, 'impression', '2', 241370265L, datetime.datetime(2013, 5, 27, 13, 42, 5), 0.484844782874928, False, 'time']
+
+['jennbrown9', 202584389, 'impression', '4', 241360317L, datetime.datetime(2013, 5, 28, 3, 15, 6), 0.708134227068556, False, 'time']
+['jennbrown9', 202584389, 'impression', '2', 241370265L, datetime.datetime(2013, 5, 28, 3, 15, 6), 0.484844782874928, False, 'time']
+['jennbrown9', 202584389, 'impression', '5', 241358876L, datetime.datetime(2013, 5, 28, 3, 15, 6), 0.262084212723531, False, 'time']
+['jennbrown9', 202584389, 'impression', '3', 241361486L, datetime.datetime(2013, 5, 28, 3, 15, 6), 0.216280620918852, False, 'time']
+['jennbrown9', 202584389, 'impression', '1', 241399997L, datetime.datetime(2013, 5, 28, 3, 15, 6), 0.332372330220303, False, 'time']
+
+['jennbrown9', 202584389, 'impression', '4', 241360317L, datetime.datetime(2013, 5, 28, 4, 14, 20), 0.708134227068556, False, 'time']
+['jennbrown9', 202584389, 'impression', '3', 241361486L, datetime.datetime(2013, 5, 28, 4, 14, 20), 0.216280620918852, False, 'time']
+['jennbrown9', 202584389, 'impression', '5', 241358876L, datetime.datetime(2013, 5, 28, 4, 14, 20), 0.262084212723531, False, 'time']
+['jennbrown9', 202584389, 'impression', '1', 241399997L, datetime.datetime(2013, 5, 28, 4, 14, 20), 0.332372330220303, False, 'time']
+['jennbrown9', 202584389, 'impression', '2', 241370265L, datetime.datetime(2013, 5, 28, 4, 14, 20), 0.484844782874928, False, 'time']
+['jennbrown9', 202584389, 'impression', '1', 241399997L, datetime.datetime(2013, 5, 28, 4, 15, 18), 0.332372330220303, False, 'time']
+

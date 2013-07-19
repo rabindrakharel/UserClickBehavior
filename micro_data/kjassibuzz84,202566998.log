@@ -1,0 +1,23 @@
+['kjassibuzz84', 202566998, 'impression', '2', 240988609L, datetime.datetime(2013, 5, 22, 6, 17, 18), 0.0406464887339612, False, 'time']
+['kjassibuzz84', 202566998, 'impression', '1', 240988617L, datetime.datetime(2013, 5, 22, 6, 17, 18), 0.0153179659492838, False, 'time']
+['kjassibuzz84', 202566998, 'impression', '2', 240988609L, datetime.datetime(2013, 5, 22, 6, 18, 3), 0.0406464887339612, False, 'time']
+['kjassibuzz84', 202566998, 'impression', '1', 240988617L, datetime.datetime(2013, 5, 22, 6, 18, 3), 0.0153179659492838, False, 'time']
+['kjassibuzz84', 202566998, 'view_full_application', '1', 240988617L, datetime.datetime(2013, 5, 22, 6, 18, 34), 0.0153179659492838, False, 'time']
+
+['kjassibuzz84', 202566998, 'impression', '1', 241004037L, datetime.datetime(2013, 5, 22, 10, 37, 37), 0.0678710721136074, False, 'time']
+['kjassibuzz84', 202566998, 'impression', '2', 240988609L, datetime.datetime(2013, 5, 22, 10, 37, 37), 0.0406464887339612, False, 'time']
+['kjassibuzz84', 202566998, 'expand_tile', '1', 241004037L, datetime.datetime(2013, 5, 22, 10, 37, 39), 0.0678710721136074, False, 'time']
+['kjassibuzz84', 202566998, 'view_full_application', '1', 241004037L, datetime.datetime(2013, 5, 22, 10, 37, 42), 0.0678710721136074, False, 'time']
+
+['kjassibuzz84', 202566998, 'impression', '2', 240988609L, datetime.datetime(2013, 5, 22, 11, 58, 27), 0.0406464887339612, False, 'time']
+['kjassibuzz84', 202566998, 'impression', '1', 241004037L, datetime.datetime(2013, 5, 22, 11, 58, 27), 0.0678710721136074, False, 'time']
+['kjassibuzz84', 202566998, 'expand_tile', '1', 241004037L, datetime.datetime(2013, 5, 22, 11, 58, 31), 0.0678710721136074, False, 'time']
+['kjassibuzz84', 202566998, 'collapse_tile', '1', 241004037L, datetime.datetime(2013, 5, 22, 11, 58, 34), 0.0678710721136074, False, 'time']
+['kjassibuzz84', 202566998, 'expand_tile', '1', 241004037L, datetime.datetime(2013, 5, 22, 11, 58, 36), 0.0678710721136074, False, 'time']
+['kjassibuzz84', 202566998, 'view_full_application', '1', 241004037L, datetime.datetime(2013, 5, 22, 11, 58, 38), 0.0678710721136074, False, 'time']
+
+['kjassibuzz84', 202566998, 'impression', '2', 240988609L, datetime.datetime(2013, 5, 28, 7, 42, 37), 0.0406464887339612, False, 'time']
+['kjassibuzz84', 202566998, 'impression', '1', 241004037L, datetime.datetime(2013, 5, 28, 7, 42, 37), 0.0678710721136074, False, 'time']
+['kjassibuzz84', 202566998, 'expand_tile', '2', 240988609L, datetime.datetime(2013, 5, 28, 7, 42, 42), 0.0406464887339612, False, 'time']
+['kjassibuzz84', 202566998, 'view_full_application', '2', 240988609L, datetime.datetime(2013, 5, 28, 7, 42, 46), 0.0406464887339612, False, 'time']
+

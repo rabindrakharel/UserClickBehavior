@@ -1,0 +1,28 @@
+['jack314199', 202594321, 'impression', '1', 241578417L, datetime.datetime(2013, 5, 29, 12, 14, 36), 0.643565096321167, True, 'time']
+['jack314199', 202594321, 'impression', '2', 241578189L, datetime.datetime(2013, 5, 29, 12, 14, 36), 0.377558241814862, False, 'time']
+['jack314199', 202594321, 'view_full_application_via_name', '2', 241578189L, datetime.datetime(2013, 5, 29, 12, 15, 45), 0.377558241814862, False, 'time']
+['jack314199', 202594321, 'impression', '1', 241578417L, datetime.datetime(2013, 5, 29, 12, 15, 59), 0.643565096321167, True, 'time']
+['jack314199', 202594321, 'impression', '2', 241578189L, datetime.datetime(2013, 5, 29, 12, 15, 59), 0.377558241814862, False, 'time']
+['jack314199', 202594321, 'impression', '1', 241578417L, datetime.datetime(2013, 5, 29, 12, 17, 7), 0.643565096321167, True, 'time']
+['jack314199', 202594321, 'impression', '2', 241578189L, datetime.datetime(2013, 5, 29, 12, 17, 7), 0.377558241814862, False, 'time']
+['jack314199', 202594321, 'impression', '2', 241578189L, datetime.datetime(2013, 5, 29, 12, 22, 42), 0.377558241814862, False, 'time']
+['jack314199', 202594321, 'impression', '1', 241578417L, datetime.datetime(2013, 5, 29, 12, 22, 42), 0.643565096321167, True, 'time']
+['jack314199', 202594321, 'view_full_application_via_name', '1', 241578417L, datetime.datetime(2013, 5, 29, 12, 22, 53), 0.643565096321167, True, 'time']
+['jack314199', 202594321, 'impression', '2', 241578189L, datetime.datetime(2013, 5, 29, 12, 28, 22), 0.377558241814862, False, 'time']
+['jack314199', 202594321, 'impression', '1', 241578417L, datetime.datetime(2013, 5, 29, 12, 28, 22), 0.643565096321167, True, 'time']
+
+['jack314199', 202594321, 'impression', '2', 241578189L, datetime.datetime(2013, 5, 29, 13, 2, 11), 0.377558241814862, False, 'time']
+['jack314199', 202594321, 'impression', '1', 241578417L, datetime.datetime(2013, 5, 29, 13, 2, 11), 0.643565096321167, True, 'time']
+
+['jack314199', 202594321, 'impression', '2', 241578189L, datetime.datetime(2013, 5, 29, 13, 40, 43), 0.377558241814862, False, 'time']
+['jack314199', 202594321, 'impression', '1', 241578417L, datetime.datetime(2013, 5, 29, 13, 40, 43), 0.643565096321167, True, 'time']
+
+['jack314199', 202594321, 'impression', '3', 241578189L, datetime.datetime(2013, 5, 29, 15, 26, 2), 0.377558241814862, False, 'time']
+['jack314199', 202594321, 'impression', '2', 241578417L, datetime.datetime(2013, 5, 29, 15, 26, 2), 0.643565096321167, True, 'time']
+['jack314199', 202594321, 'impression', '1', 241587189L, datetime.datetime(2013, 5, 29, 15, 26, 2), 0.501421853713601, False, 'time']
+
+['jack314199', 202594321, 'impression', '1', 241587189L, datetime.datetime(2013, 5, 29, 16, 43, 14), 0.501421853713601, False, 'time']
+['jack314199', 202594321, 'impression', '3', 241578189L, datetime.datetime(2013, 5, 29, 16, 43, 14), 0.377558241814862, False, 'time']
+['jack314199', 202594321, 'impression', '2', 241578417L, datetime.datetime(2013, 5, 29, 16, 43, 14), 0.643565096321167, True, 'time']
+['jack314199', 202594321, 'view_full_application_via_name', '2', 241578417L, datetime.datetime(2013, 5, 29, 16, 43, 18), 0.643565096321167, True, 'time']
+

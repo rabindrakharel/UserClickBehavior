@@ -1,0 +1,23 @@
+['danilogustavo', 202550218, 'impression', '1', 240660643L, datetime.datetime(2013, 5, 17, 23, 40, 33), 0.410469597498216, True, 'time']
+['danilogustavo', 202550218, 'expand_tile', '1', 240660643L, datetime.datetime(2013, 5, 17, 23, 40, 53), 0.410469597498216, True, 'time']
+['danilogustavo', 202550218, 'impression', '1', 240660643L, datetime.datetime(2013, 5, 17, 23, 41, 39), 0.410469597498216, True, 'time']
+['danilogustavo', 202550218, 'expand_tile', '1', 240660643L, datetime.datetime(2013, 5, 17, 23, 41, 42), 0.410469597498216, True, 'time']
+['danilogustavo', 202550218, 'collapse_tile', '1', 240660643L, datetime.datetime(2013, 5, 17, 23, 41, 44), 0.410469597498216, True, 'time']
+['danilogustavo', 202550218, 'expand_tile', '1', 240660643L, datetime.datetime(2013, 5, 17, 23, 41, 45), 0.410469597498216, True, 'time']
+['danilogustavo', 202550218, 'hire', '1', 240660643L, datetime.datetime(2013, 5, 17, 23, 41, 51), 0.410469597498216, True, 'time']
+
+['danilogustavo', 202550218, 'impression', '1', 240649718L, datetime.datetime(2013, 5, 18, 10, 24, 3), 0.319562168201766, False, 'time']
+
+['danilogustavo', 202550218, 'impression', '1', 240649718L, datetime.datetime(2013, 5, 18, 23, 26, 45), 0.319562168201766, False, 'time']
+['danilogustavo', 202550218, 'impression', '1', 240649718L, datetime.datetime(2013, 5, 18, 23, 31, 7), 0.319562168201766, False, 'time']
+
+['danilogustavo', 202550218, 'impression', '1', 240649718L, datetime.datetime(2013, 5, 19, 3, 44, 53), 0.319562168201766, False, 'time']
+
+['danilogustavo', 202550218, 'impression', '1', 240649718L, datetime.datetime(2013, 5, 20, 21, 50, 11), 0.319562168201766, False, 'time']
+
+['danilogustavo', 202550218, 'impression', '1', 240649718L, datetime.datetime(2013, 5, 22, 4, 54, 52), 0.319562168201766, False, 'time']
+
+['danilogustavo', 202550218, 'impression', '2', 240649718L, datetime.datetime(2013, 5, 23, 2, 53), 0.319562168201766, False, 'time']
+['danilogustavo', 202550218, 'impression', '1', 241011478L, datetime.datetime(2013, 5, 23, 2, 53), 0.278993812076885, False, 'time']
+['danilogustavo', 202550218, 'view_full_application_via_name', '1', 241011478L, datetime.datetime(2013, 5, 23, 2, 53, 31), 0.278993812076885, False, 'time']
+

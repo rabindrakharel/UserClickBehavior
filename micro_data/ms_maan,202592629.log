@@ -1,0 +1,7 @@
+['ms_maan', 202592629, 'impression', '1', 241549961L, datetime.datetime(2013, 5, 29, 5, 56, 17), 0.00710181337270306, False, 'time']
+['ms_maan', 202592629, 'shortlist', '1', 241549961L, datetime.datetime(2013, 5, 29, 5, 56, 19), 0.00710181337270306, False, 'time']
+['ms_maan', 202592629, 'impression', '1', 241549961L, datetime.datetime(2013, 5, 29, 5, 56, 48), 0.00710181337270306, False, 'time']
+['ms_maan', 202592629, 'impression', None, 241549961L, datetime.datetime(2013, 5, 29, 5, 56, 48), 0.00710181337270306, False, 'time']
+['ms_maan', 202592629, 'impression', '1', 241549961L, datetime.datetime(2013, 5, 29, 6, 3, 55), 0.00710181337270306, False, 'time']
+['ms_maan', 202592629, 'impression', None, 241549961L, datetime.datetime(2013, 5, 29, 6, 3, 55), 0.00710181337270306, False, 'time']
+

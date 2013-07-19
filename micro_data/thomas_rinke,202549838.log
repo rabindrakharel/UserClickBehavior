@@ -1,0 +1,5 @@
+['thomas_rinke', 202549838, 'impression', '2', 240633107L, datetime.datetime(2013, 5, 24, 12, 13, 1), 0.0812222114736434, False, 'best']
+['thomas_rinke', 202549838, 'impression', '1', 240633206L, datetime.datetime(2013, 5, 24, 12, 13, 1), 0.0956633600866705, False, 'best']
+['thomas_rinke', 202549838, 'impression', '3', 240633154L, datetime.datetime(2013, 5, 24, 12, 13, 1), 0.0719586977580761, True, 'best']
+['thomas_rinke', 202549838, 'view_full_application_via_name', '3', 240633154L, datetime.datetime(2013, 5, 24, 12, 13, 6), 0.0719586977580761, True, 'best']
+

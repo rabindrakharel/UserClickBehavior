@@ -1,0 +1,12 @@
+['7write', 202595516, 'impression', '1', 241603555L, datetime.datetime(2013, 5, 29, 17, 39, 13), 0.213528682920132, False, 'time']
+['7write', 202595516, 'impression', '2', 241603157L, datetime.datetime(2013, 5, 29, 17, 39, 13), 0.0665497601019711, False, 'time']
+['7write', 202595516, 'impression', '5', 241602234L, datetime.datetime(2013, 5, 29, 17, 39, 13), 0.261324812999731, False, 'time']
+['7write', 202595516, 'impression', '4', 241602352L, datetime.datetime(2013, 5, 29, 17, 39, 13), 0.265921991955867, False, 'time']
+['7write', 202595516, 'impression', '3', 241603034L, datetime.datetime(2013, 5, 29, 17, 39, 13), 0.359338652592852, False, 'time']
+['7write', 202595516, 'expand_tile', '5', 241602234L, datetime.datetime(2013, 5, 29, 17, 39, 46), 0.261324812999731, False, 'time']
+['7write', 202595516, 'impression', '4', 241602352L, datetime.datetime(2013, 5, 29, 17, 40), 0.265921991955867, False, 'time']
+['7write', 202595516, 'impression', '4', 241602352L, datetime.datetime(2013, 5, 29, 17, 40, 2), 0.265921991955867, False, 'time']
+['7write', 202595516, 'expand_tile', '5', 241602234L, datetime.datetime(2013, 5, 29, 17, 40, 2), 0.261324812999731, False, 'time']
+['7write', 202595516, 'impression', '5', 241602234L, datetime.datetime(2013, 5, 29, 17, 40, 2), 0.261324812999731, False, 'time']
+['7write', 202595516, 'impression', '5', 241602234L, datetime.datetime(2013, 5, 29, 17, 40, 2), 0.261324812999731, False, 'time']
+

@@ -1,0 +1,17 @@
+['ahujamanish', 202572491, 'impression', '2', 241098354L, datetime.datetime(2013, 5, 23, 12, 45, 13), 0.0302501106447735, False, 'time']
+['ahujamanish', 202572491, 'impression', '1', 241098975L, datetime.datetime(2013, 5, 23, 12, 45, 13), 0.048600910832368, False, 'time']
+['ahujamanish', 202572491, 'impression', '3', 241097196L, datetime.datetime(2013, 5, 23, 12, 45, 13), 0.0511053685033736, False, 'time']
+['ahujamanish', 202572491, 'view_full_application_via_message', '3', 241097196L, datetime.datetime(2013, 5, 23, 12, 50, 49), 0.0511053685033736, False, 'time']
+
+['ahujamanish', 202572491, 'impression', '3', 241097196L, datetime.datetime(2013, 5, 23, 20, 36, 37), 0.0511053685033736, False, 'time']
+['ahujamanish', 202572491, 'impression', '1', 241098354L, datetime.datetime(2013, 5, 23, 20, 36, 37), 0.0302501106447735, False, 'time']
+['ahujamanish', 202572491, 'impression', '2', 241097279L, datetime.datetime(2013, 5, 23, 20, 36, 37), 0.0775179676004475, False, 'time']
+['ahujamanish', 202572491, 'hide', '2', 241097279L, datetime.datetime(2013, 5, 23, 20, 36, 43), 0.0775179676004475, False, 'time']
+
+['ahujamanish', 202572491, 'impression', '2', 241097279L, datetime.datetime(2013, 5, 28, 10, 50, 22), 0.0775179676004475, False, 'time']
+['ahujamanish', 202572491, 'impression', '3', 241097196L, datetime.datetime(2013, 5, 28, 10, 50, 22), 0.0511053685033736, False, 'time']
+['ahujamanish', 202572491, 'impression', '1', 241477915L, datetime.datetime(2013, 5, 28, 10, 50, 22), 0.203238364894495, False, 'time']
+['ahujamanish', 202572491, 'shortlist', '1', 241477915L, datetime.datetime(2013, 5, 28, 10, 50, 34), 0.203238364894495, False, 'time']
+['ahujamanish', 202572491, 'expand_tile', '1', 241477915L, datetime.datetime(2013, 5, 28, 10, 50, 43), 0.203238364894495, False, 'time']
+['ahujamanish', 202572491, 'hire', '1', 241477915L, datetime.datetime(2013, 5, 28, 10, 50, 45), 0.203238364894495, False, 'time']
+

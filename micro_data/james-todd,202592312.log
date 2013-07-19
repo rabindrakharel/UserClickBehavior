@@ -1,0 +1,13 @@
+['james-todd', 202592312, 'impression', '1', 241534119L, datetime.datetime(2013, 5, 29, 1, 11, 36), 0.177087482300638, False, 'best']
+['james-todd', 202592312, 'impression', '2', 241535146L, datetime.datetime(2013, 5, 29, 1, 11, 36), 0.0825752080911636, False, 'best']
+
+['james-todd', 202592312, 'impression', '1', 241534119L, datetime.datetime(2013, 5, 29, 1, 55, 32), 0.177087482300638, False, 'best']
+['james-todd', 202592312, 'impression', '2', 241535146L, datetime.datetime(2013, 5, 29, 1, 55, 32), 0.0825752080911636, False, 'best']
+['james-todd', 202592312, 'view_full_application_via_name', '1', 241534119L, datetime.datetime(2013, 5, 29, 1, 55, 35), 0.177087482300638, False, 'best']
+['james-todd', 202592312, 'impression', '1', 241534119L, datetime.datetime(2013, 5, 29, 1, 56), 0.177087482300638, False, 'best']
+['james-todd', 202592312, 'impression', '2', 241535146L, datetime.datetime(2013, 5, 29, 1, 56), 0.0825752080911636, False, 'best']
+['james-todd', 202592312, 'view_full_application_via_name', '2', 241535146L, datetime.datetime(2013, 5, 29, 1, 56, 2), 0.0825752080911636, False, 'best']
+['james-todd', 202592312, 'impression', '1', 241534119L, datetime.datetime(2013, 5, 29, 1, 56, 29), 0.177087482300638, False, 'best']
+['james-todd', 202592312, 'impression', '1', 241534119L, datetime.datetime(2013, 5, 29, 1, 57, 47), 0.177087482300638, False, 'best']
+['james-todd', 202592312, 'impression', '1', 241534119L, datetime.datetime(2013, 5, 29, 1, 58, 31), 0.177087482300638, False, 'best']
+

@@ -1,0 +1,16 @@
+['chrisstuart', 202536166, 'impression', '1', 240459688L, datetime.datetime(2013, 5, 20, 9, 34, 36), 0.156714813426441, False, 'time']
+['chrisstuart', 202536166, 'impression', '2', 240392144L, datetime.datetime(2013, 5, 20, 9, 34, 36), 0.148810410008672, False, 'time']
+['chrisstuart', 202536166, 'expand_tile', '1', 240459688L, datetime.datetime(2013, 5, 20, 9, 34, 58), 0.156714813426441, False, 'time']
+
+['chrisstuart', 202536166, 'impression', '1', 240459688L, datetime.datetime(2013, 5, 22, 8, 52, 7), 0.156714813426441, False, 'time']
+['chrisstuart', 202536166, 'impression', '2', 240392144L, datetime.datetime(2013, 5, 22, 8, 52, 7), 0.148810410008672, False, 'time']
+['chrisstuart', 202536166, 'impression', '2', 240392144L, datetime.datetime(2013, 5, 22, 8, 52, 33), 0.148810410008672, False, 'time']
+['chrisstuart', 202536166, 'impression', '1', 240459688L, datetime.datetime(2013, 5, 22, 8, 52, 33), 0.156714813426441, False, 'time']
+['chrisstuart', 202536166, 'impression', '2', 240392144L, datetime.datetime(2013, 5, 22, 8, 54, 27), 0.148810410008672, False, 'time']
+['chrisstuart', 202536166, 'impression', '1', 240459688L, datetime.datetime(2013, 5, 22, 8, 54, 27), 0.156714813426441, False, 'time']
+['chrisstuart', 202536166, 'expand_tile', '1', 240459688L, datetime.datetime(2013, 5, 22, 8, 54, 34), 0.156714813426441, False, 'time']
+
+['chrisstuart', 202536166, 'impression', '2', 240392144L, datetime.datetime(2013, 5, 24, 13, 11, 9), 0.148810410008672, False, 'time']
+['chrisstuart', 202536166, 'impression', '1', 240459688L, datetime.datetime(2013, 5, 24, 13, 11, 9), 0.156714813426441, False, 'time']
+['chrisstuart', 202536166, 'expand_tile', '2', 240392144L, datetime.datetime(2013, 5, 24, 13, 11, 39), 0.148810410008672, False, 'time']
+

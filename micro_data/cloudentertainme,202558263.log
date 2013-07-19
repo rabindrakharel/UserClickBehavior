@@ -1,0 +1,30 @@
+['cloudentertainme', 202558263, 'impression', '1', 240821008L, datetime.datetime(2013, 5, 20, 10, 47, 30), 0.298140157024277, False, 'time']
+['cloudentertainme', 202558263, 'expand_tile', '1', 240821008L, datetime.datetime(2013, 5, 20, 10, 47, 45), 0.298140157024277, False, 'time']
+
+['cloudentertainme', 202558263, 'impression', '2', 240821008L, datetime.datetime(2013, 5, 20, 12, 23, 55), 0.298140157024277, False, 'time']
+['cloudentertainme', 202558263, 'impression', '1', 240825819L, datetime.datetime(2013, 5, 20, 12, 23, 55), 0.0856487236557335, False, 'time']
+['cloudentertainme', 202558263, 'expand_tile', '1', 240825819L, datetime.datetime(2013, 5, 20, 12, 24, 1), 0.0856487236557335, False, 'time']
+['cloudentertainme', 202558263, 'expand_tile', '2', 240821008L, datetime.datetime(2013, 5, 20, 12, 24, 20), 0.298140157024277, False, 'time']
+['cloudentertainme', 202558263, 'impression', '1', 240825819L, datetime.datetime(2013, 5, 20, 12, 24, 26), 0.0856487236557335, False, 'time']
+['cloudentertainme', 202558263, 'expand_tile', '1', 240825819L, datetime.datetime(2013, 5, 20, 12, 24, 34), 0.0856487236557335, False, 'time']
+['cloudentertainme', 202558263, 'impression', '2', 240821008L, datetime.datetime(2013, 5, 20, 12, 24, 35), 0.298140157024277, False, 'time']
+
+['cloudentertainme', 202558263, 'impression', '1', 240867185L, datetime.datetime(2013, 5, 20, 23, 9, 44), 0.226986037885056, False, 'time']
+['cloudentertainme', 202558263, 'expand_tile', '1', 240867185L, datetime.datetime(2013, 5, 20, 23, 9, 54), 0.226986037885056, False, 'time']
+
+['cloudentertainme', 202558263, 'impression', '2', 240867185L, datetime.datetime(2013, 5, 21, 18, 53, 22), 0.226986037885056, False, 'time']
+['cloudentertainme', 202558263, 'impression', '1', 240920313L, datetime.datetime(2013, 5, 21, 18, 53, 22), 0.458202261026112, False, 'time']
+['cloudentertainme', 202558263, 'expand_tile', '1', 240920313L, datetime.datetime(2013, 5, 21, 18, 53, 26), 0.458202261026112, False, 'time']
+['cloudentertainme', 202558263, 'view_full_application', '1', 240920313L, datetime.datetime(2013, 5, 21, 18, 53, 45), 0.458202261026112, False, 'time']
+['cloudentertainme', 202558263, 'impression', '2', 240867185L, datetime.datetime(2013, 5, 21, 18, 55, 7), 0.226986037885056, False, 'time']
+['cloudentertainme', 202558263, 'impression', '1', 240920313L, datetime.datetime(2013, 5, 21, 18, 55, 7), 0.458202261026112, False, 'time']
+['cloudentertainme', 202558263, 'expand_tile', '2', 240867185L, datetime.datetime(2013, 5, 21, 18, 55, 12), 0.226986037885056, False, 'time']
+['cloudentertainme', 202558263, 'view_full_application', '2', 240867185L, datetime.datetime(2013, 5, 21, 18, 55, 14), 0.226986037885056, False, 'time']
+['cloudentertainme', 202558263, 'impression', '2', 240867185L, datetime.datetime(2013, 5, 21, 18, 55, 36), 0.226986037885056, False, 'time']
+['cloudentertainme', 202558263, 'impression', '1', 240920313L, datetime.datetime(2013, 5, 21, 18, 55, 36), 0.458202261026112, False, 'time']
+['cloudentertainme', 202558263, 'expand_tile', '1', 240920313L, datetime.datetime(2013, 5, 21, 18, 55, 38), 0.458202261026112, False, 'time']
+['cloudentertainme', 202558263, 'view_full_application', '1', 240920313L, datetime.datetime(2013, 5, 21, 18, 55, 39), 0.458202261026112, False, 'time']
+
+['cloudentertainme', 202558263, 'impression', '2', 240867185L, datetime.datetime(2013, 5, 22, 12, 0, 41), 0.226986037885056, False, 'time']
+['cloudentertainme', 202558263, 'impression', '1', 240920313L, datetime.datetime(2013, 5, 22, 12, 0, 41), 0.458202261026112, False, 'time']
+

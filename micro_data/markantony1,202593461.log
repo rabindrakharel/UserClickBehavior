@@ -1,0 +1,6 @@
+['markantony1', 202593461, 'impression', '1', 241556543L, datetime.datetime(2013, 5, 29, 6, 57, 40), 0.0499033471768963, False, 'best']
+['markantony1', 202593461, 'view_full_application_via_name', '1', 241556543L, datetime.datetime(2013, 5, 29, 6, 57, 48), 0.0499033471768963, False, 'best']
+['markantony1', 202593461, 'impression', '1', 241556703L, datetime.datetime(2013, 5, 29, 7, 2, 29), 0.100108214447487, False, 'best']
+['markantony1', 202593461, 'impression', '3', 241556543L, datetime.datetime(2013, 5, 29, 7, 2, 29), 0.0499033471768963, False, 'best']
+['markantony1', 202593461, 'impression', '2', 241556695L, datetime.datetime(2013, 5, 29, 7, 2, 29), 0.0571267251113878, False, 'best']
+

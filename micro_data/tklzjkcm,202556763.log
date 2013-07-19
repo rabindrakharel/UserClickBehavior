@@ -1,0 +1,5 @@
+['tklzjkcm', 202556763, 'impression', '1', 240785433L, datetime.datetime(2013, 5, 20, 1, 7, 41), 0.54948788954149, True, 'best']
+['tklzjkcm', 202556763, 'expand_tile', '1', 240785433L, datetime.datetime(2013, 5, 20, 1, 7, 44), 0.54948788954149, True, 'best']
+['tklzjkcm', 202556763, 'impression', '1', 240785433L, datetime.datetime(2013, 5, 20, 1, 7, 46), 0.54948788954149, True, 'best']
+['tklzjkcm', 202556763, 'send_message', '1', 240785433L, datetime.datetime(2013, 5, 20, 1, 7, 48), 0.54948788954149, True, 'best']
+

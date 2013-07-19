@@ -1,0 +1,7 @@
+['april_conrad', 202563900, 'impression', '3', 240935228L, datetime.datetime(2013, 5, 21, 17, 59, 52), 0.201710981579125, False, 'time']
+['april_conrad', 202563900, 'impression', '5', 240934786L, datetime.datetime(2013, 5, 21, 17, 59, 52), 0.325769152465514, False, 'time']
+['april_conrad', 202563900, 'impression', '4', 240935085L, datetime.datetime(2013, 5, 21, 17, 59, 52), 0.152109233837052, False, 'time']
+['april_conrad', 202563900, 'impression', '1', 240939184L, datetime.datetime(2013, 5, 21, 17, 59, 52), 0.0926928734706033, False, 'time']
+['april_conrad', 202563900, 'impression', '2', 240939091L, datetime.datetime(2013, 5, 21, 17, 59, 52), 0.542449469146636, False, 'time']
+['april_conrad', 202563900, 'expand_tile', '1', 240939184L, datetime.datetime(2013, 5, 21, 17, 59, 58), 0.0926928734706033, False, 'time']
+

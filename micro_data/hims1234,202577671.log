@@ -1,0 +1,9 @@
+['hims1234', 202577671, 'impression', '1', 241205792L, datetime.datetime(2013, 5, 24, 16, 6, 29), 0.0678165463512018, False, 'time']
+['hims1234', 202577671, 'impression', '2', 241205060L, datetime.datetime(2013, 5, 24, 16, 6, 29), 0.0427432084988544, False, 'time']
+['hims1234', 202577671, 'impression', '1', 241205792L, datetime.datetime(2013, 5, 24, 16, 6, 41), 0.0678165463512018, False, 'time']
+
+['hims1234', 202577671, 'impression', '2', 241267892L, datetime.datetime(2013, 5, 28, 6, 19, 23), 0.101654733398041, False, 'time']
+['hims1234', 202577671, 'impression', '3', 241205792L, datetime.datetime(2013, 5, 28, 6, 19, 23), 0.0678165463512018, False, 'time']
+['hims1234', 202577671, 'impression', '1', 241321962L, datetime.datetime(2013, 5, 28, 6, 19, 23), 0.0597395565534528, False, 'time']
+['hims1234', 202577671, 'impression', '4', 241205060L, datetime.datetime(2013, 5, 28, 6, 19, 23), 0.0427432084988544, False, 'time']
+

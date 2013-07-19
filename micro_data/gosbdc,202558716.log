@@ -1,0 +1,4 @@
+['gosbdc', 202558716, 'impression', '1', 240831002L, datetime.datetime(2013, 5, 20, 16, 24, 31), 0.392535344353339, True, 'time']
+['gosbdc', 202558716, 'expand_tile', '1', 240831002L, datetime.datetime(2013, 5, 20, 16, 24, 39), 0.392535344353339, True, 'time']
+['gosbdc', 202558716, 'hire', '1', 240831002L, datetime.datetime(2013, 5, 20, 16, 24, 42), 0.392535344353339, True, 'time']
+

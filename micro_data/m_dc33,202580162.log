@@ -1,0 +1,13 @@
+['m_dc33', 202580162, 'impression', '1', 241265570L, datetime.datetime(2013, 5, 25, 13, 35, 37), 0.00277111260040812, False, 'time']
+['m_dc33', 202580162, 'impression', '2', 241264478L, datetime.datetime(2013, 5, 25, 13, 35, 37), 0.00293961260988169, False, 'time']
+['m_dc33', 202580162, 'impression', '2', 241264478L, datetime.datetime(2013, 5, 25, 13, 35, 49), 0.00293961260988169, False, 'time']
+['m_dc33', 202580162, 'impression', '1', 241265570L, datetime.datetime(2013, 5, 25, 13, 35, 59), 0.00277111260040812, False, 'time']
+['m_dc33', 202580162, 'impression', '2', 241264478L, datetime.datetime(2013, 5, 25, 13, 36, 45), 0.00293961260988169, False, 'time']
+['m_dc33', 202580162, 'impression', '1', 241265570L, datetime.datetime(2013, 5, 25, 13, 36, 45), 0.00277111260040812, False, 'time']
+['m_dc33', 202580162, 'impression', '2', 241264478L, datetime.datetime(2013, 5, 25, 13, 36, 52), 0.00293961260988169, False, 'time']
+
+['m_dc33', 202580162, 'impression', '3', 241265570L, datetime.datetime(2013, 5, 25, 21, 33, 15), 0.00277111260040812, False, 'time']
+['m_dc33', 202580162, 'impression', '4', 241264478L, datetime.datetime(2013, 5, 25, 21, 33, 15), 0.00293961260988169, False, 'time']
+['m_dc33', 202580162, 'impression', '2', 241279360L, datetime.datetime(2013, 5, 25, 21, 33, 15), 0.00321628922718593, False, 'time']
+['m_dc33', 202580162, 'impression', '1', 241295691L, datetime.datetime(2013, 5, 25, 21, 33, 15), 0.00658087497889641, False, 'time']
+

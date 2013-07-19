@@ -1,0 +1,4 @@
+['textivia', 202586460, 'impression', '2', 241409435L, datetime.datetime(2013, 5, 27, 15, 25, 42), 0.11048198539747, False, 'best']
+['textivia', 202586460, 'impression', '1', 241409213L, datetime.datetime(2013, 5, 27, 15, 25, 42), 0.136057138366978, False, 'best']
+['textivia', 202586460, 'impression', '2', 241409435L, datetime.datetime(2013, 5, 27, 15, 25, 48), 0.11048198539747, False, 'best']
+

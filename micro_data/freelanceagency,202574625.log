@@ -1,0 +1,15 @@
+['freelanceagency', 202574625, 'impression', '1', 241142089L, datetime.datetime(2013, 5, 23, 20, 47, 45), 0.249469059311152, False, 'best']
+['freelanceagency', 202574625, 'impression', '2', 241141948L, datetime.datetime(2013, 5, 23, 20, 47, 45), 0.198837223662954, False, 'best']
+['freelanceagency', 202574625, 'view_full_application_via_name', '1', 241142089L, datetime.datetime(2013, 5, 23, 20, 47, 57), 0.249469059311152, False, 'best']
+['freelanceagency', 202574625, 'impression', '1', 241142089L, datetime.datetime(2013, 5, 23, 20, 54, 58), 0.249469059311152, False, 'best']
+['freelanceagency', 202574625, 'impression', '2', 241141948L, datetime.datetime(2013, 5, 23, 20, 54, 58), 0.198837223662954, False, 'best']
+['freelanceagency', 202574625, 'impression', '2', 241141948L, datetime.datetime(2013, 5, 23, 20, 55, 13), 0.198837223662954, False, 'best']
+['freelanceagency', 202574625, 'impression', '1', 241142089L, datetime.datetime(2013, 5, 23, 20, 55, 13), 0.249469059311152, False, 'best']
+['freelanceagency', 202574625, 'view_full_application_via_name', '2', 241141948L, datetime.datetime(2013, 5, 23, 20, 55, 15), 0.198837223662954, False, 'best']
+
+['freelanceagency', 202574625, 'impression', '2', 241141948L, datetime.datetime(2013, 5, 23, 21, 26, 54), 0.198837223662954, False, 'best']
+['freelanceagency', 202574625, 'impression', '1', 241142089L, datetime.datetime(2013, 5, 23, 21, 26, 54), 0.249469059311152, False, 'best']
+['freelanceagency', 202574625, 'impression', '1', 241142089L, datetime.datetime(2013, 5, 23, 21, 50, 54), 0.249469059311152, False, 'best']
+['freelanceagency', 202574625, 'impression', '3', 241145006L, datetime.datetime(2013, 5, 23, 21, 50, 54), 0.0639240018851776, False, 'best']
+['freelanceagency', 202574625, 'impression', '2', 241141948L, datetime.datetime(2013, 5, 23, 21, 50, 54), 0.198837223662954, False, 'best']
+

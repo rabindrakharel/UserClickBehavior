@@ -1,0 +1,5 @@
+['noots8', 202584590, 'impression', '2', 241363648L, datetime.datetime(2013, 5, 27, 9, 39, 28), 0.125183571000254, False, 'best']
+['noots8', 202584590, 'impression', '1', 241363124L, datetime.datetime(2013, 5, 27, 9, 39, 28), 0.170188401279972, False, 'best']
+['noots8', 202584590, 'impression', '3', 241372794L, datetime.datetime(2013, 5, 27, 9, 39, 28), 0.0490673440142199, False, 'best']
+['noots8', 202584590, 'impression', '4', 241363111L, datetime.datetime(2013, 5, 27, 9, 39, 28), 0.0248856124908376, False, 'best']
+

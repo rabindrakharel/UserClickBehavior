@@ -1,0 +1,21 @@
+['lrkallaur', 202570139, 'impression', '1', 241051262L, datetime.datetime(2013, 5, 22, 21, 42, 54), 0.258186056540665, True, 'best']
+['lrkallaur', 202570139, 'impression', '2', 241051049L, datetime.datetime(2013, 5, 22, 21, 42, 54), 0.24546861116934, False, 'best']
+['lrkallaur', 202570139, 'impression', '1', 241051262L, datetime.datetime(2013, 5, 22, 21, 42, 57), 0.258186056540665, True, 'best']
+['lrkallaur', 202570139, 'impression', '1', 241051262L, datetime.datetime(2013, 5, 22, 21, 43), 0.258186056540665, True, 'best']
+['lrkallaur', 202570139, 'view_full_application_via_name', '1', 241051262L, datetime.datetime(2013, 5, 22, 21, 43, 3), 0.258186056540665, True, 'best']
+
+['lrkallaur', 202570139, 'impression', '2', 241051049L, datetime.datetime(2013, 5, 22, 22, 25, 53), 0.24546861116934, False, 'best']
+['lrkallaur', 202570139, 'impression', '1', 241051262L, datetime.datetime(2013, 5, 22, 22, 25, 53), 0.258186056540665, True, 'best']
+['lrkallaur', 202570139, 'view_full_application_via_message', '2', 241051049L, datetime.datetime(2013, 5, 22, 22, 25, 57), 0.24546861116934, False, 'best']
+['lrkallaur', 202570139, 'impression', '1', 241051262L, datetime.datetime(2013, 5, 22, 22, 26, 42), 0.258186056540665, True, 'best']
+['lrkallaur', 202570139, 'impression', '2', 241051049L, datetime.datetime(2013, 5, 22, 22, 26, 42), 0.24546861116934, False, 'best']
+['lrkallaur', 202570139, 'view_full_application_via_message', '2', 241051049L, datetime.datetime(2013, 5, 22, 22, 26, 48), 0.24546861116934, False, 'best']
+['lrkallaur', 202570139, 'impression', '1', 241051262L, datetime.datetime(2013, 5, 22, 22, 27, 36), 0.258186056540665, True, 'best']
+['lrkallaur', 202570139, 'impression', '1', 241051262L, datetime.datetime(2013, 5, 22, 22, 37, 3), 0.258186056540665, True, 'best']
+['lrkallaur', 202570139, 'view_full_application_via_name', '1', 241051262L, datetime.datetime(2013, 5, 22, 22, 37, 5), 0.258186056540665, True, 'best']
+
+['lrkallaur', 202570139, 'impression', '1', 241050919L, datetime.datetime(2013, 5, 23, 10, 28, 24), 0.190301070334709, False, 'best']
+['lrkallaur', 202570139, 'impression', '2', 241050975L, datetime.datetime(2013, 5, 23, 10, 28, 24), 0.150461233852255, False, 'best']
+['lrkallaur', 202570139, 'impression', '2', 241050975L, datetime.datetime(2013, 5, 23, 10, 28, 36), 0.150461233852255, False, 'best']
+['lrkallaur', 202570139, 'impression', '1', 241050919L, datetime.datetime(2013, 5, 23, 10, 28, 36), 0.190301070334709, False, 'best']
+

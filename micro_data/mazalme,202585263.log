@@ -1,0 +1,10 @@
+['mazalme', 202585263, 'impression', '4', 241385335L, datetime.datetime(2013, 5, 27, 10, 15, 14), 0.146481488137193, False, 'time']
+['mazalme', 202585263, 'impression', '2', 241389405L, datetime.datetime(2013, 5, 27, 10, 15, 14), 0.0998692165903784, False, 'time']
+['mazalme', 202585263, 'impression', '1', 241389508L, datetime.datetime(2013, 5, 27, 10, 15, 14), 0.0367742932968217, False, 'time']
+['mazalme', 202585263, 'impression', '6', 241381825L, datetime.datetime(2013, 5, 27, 10, 15, 14), 0.145443294273451, False, 'time']
+['mazalme', 202585263, 'impression', '7', 241381032L, datetime.datetime(2013, 5, 27, 10, 15, 14), 0.0568732443697677, False, 'time']
+['mazalme', 202585263, 'impression', '8', 241380709L, datetime.datetime(2013, 5, 27, 10, 15, 14), 0.181616724652691, False, 'time']
+['mazalme', 202585263, 'impression', '3', 241385891L, datetime.datetime(2013, 5, 27, 10, 15, 14), 0.0786429943569847, False, 'time']
+['mazalme', 202585263, 'impression', '9', 241379337L, datetime.datetime(2013, 5, 27, 10, 15, 14), 0.200968620189354, False, 'time']
+['mazalme', 202585263, 'impression', '5', 241384669L, datetime.datetime(2013, 5, 27, 10, 15, 14), 0.124302389976583, False, 'time']
+

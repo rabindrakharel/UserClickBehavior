@@ -1,0 +1,19 @@
+['gopalkrishna64', 202582652, 'impression', '1', 241321836L, datetime.datetime(2013, 5, 26, 11, 30, 9), 0.113089589255758, False, 'time']
+['gopalkrishna64', 202582652, 'impression', '1', 241321836L, datetime.datetime(2013, 5, 26, 11, 30, 35), 0.113089589255758, False, 'time']
+['gopalkrishna64', 202582652, 'view_full_application_via_name', '1', 241321836L, datetime.datetime(2013, 5, 26, 11, 30, 43), 0.113089589255758, False, 'time']
+['gopalkrishna64', 202582652, 'impression', '1', 241321836L, datetime.datetime(2013, 5, 26, 11, 31, 14), 0.113089589255758, False, 'time']
+['gopalkrishna64', 202582652, 'impression', '1', 241321836L, datetime.datetime(2013, 5, 26, 11, 31, 29), 0.113089589255758, False, 'time']
+['gopalkrishna64', 202582652, 'impression', '1', 241321836L, datetime.datetime(2013, 5, 26, 11, 33, 6), 0.113089589255758, False, 'time']
+['gopalkrishna64', 202582652, 'impression', '1', 241321836L, datetime.datetime(2013, 5, 26, 11, 33, 7), 0.113089589255758, False, 'time']
+['gopalkrishna64', 202582652, 'impression', '1', 241321836L, datetime.datetime(2013, 5, 26, 11, 34, 11), 0.113089589255758, False, 'time']
+['gopalkrishna64', 202582652, 'impression', '1', 241321836L, datetime.datetime(2013, 5, 26, 11, 46, 2), 0.113089589255758, False, 'time']
+
+['gopalkrishna64', 202582652, 'impression', '1', 241321836L, datetime.datetime(2013, 5, 26, 17, 21, 48), 0.113089589255758, False, 'time']
+['gopalkrishna64', 202582652, 'impression', '1', 241321836L, datetime.datetime(2013, 5, 26, 17, 21, 55), 0.113089589255758, False, 'time']
+
+['gopalkrishna64', 202582652, 'impression', '1', 241342917L, datetime.datetime(2013, 5, 27, 17, 22, 24), 0.0704703180206465, False, 'time']
+['gopalkrishna64', 202582652, 'impression', '2', 241321836L, datetime.datetime(2013, 5, 27, 17, 22, 24), 0.113089589255758, False, 'time']
+['gopalkrishna64', 202582652, 'view_full_application_via_name', '1', 241342917L, datetime.datetime(2013, 5, 27, 17, 22, 51), 0.0704703180206465, False, 'time']
+['gopalkrishna64', 202582652, 'impression', '2', 241321836L, datetime.datetime(2013, 5, 27, 17, 23, 37), 0.113089589255758, False, 'time']
+['gopalkrishna64', 202582652, 'impression', '1', 241342917L, datetime.datetime(2013, 5, 27, 17, 23, 37), 0.0704703180206465, False, 'time']
+

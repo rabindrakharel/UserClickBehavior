@@ -1,0 +1,15 @@
+['navidzah', 202539192, 'impression', '2', 240419096L, datetime.datetime(2013, 5, 15, 19, 9, 23), 0.292616831833801, False, 'time']
+['navidzah', 202539192, 'impression', '1', 240459443L, datetime.datetime(2013, 5, 15, 19, 9, 23), 0.348361096488772, False, 'time']
+['navidzah', 202539192, 'impression', '7', 240407986L, datetime.datetime(2013, 5, 15, 19, 9, 23), 0.126112469478132, False, 'time']
+['navidzah', 202539192, 'impression', '6', 240408555L, datetime.datetime(2013, 5, 15, 19, 9, 23), 0.115210193426243, False, 'time']
+['navidzah', 202539192, 'impression', '5', 240408877L, datetime.datetime(2013, 5, 15, 19, 9, 23), 0.0735758937754332, False, 'time']
+['navidzah', 202539192, 'impression', '3', 240413467L, datetime.datetime(2013, 5, 15, 19, 9, 23), 0.148295722019205, False, 'time']
+['navidzah', 202539192, 'impression', '4', 240409499L, datetime.datetime(2013, 5, 15, 19, 9, 23), 0.302420457777485, True, 'time']
+['navidzah', 202539192, 'view_full_application_via_name', '4', 240409499L, datetime.datetime(2013, 5, 15, 19, 9, 32), 0.302420457777485, True, 'time']
+
+['navidzah', 202539192, 'impression', '2', 240459443L, datetime.datetime(2013, 5, 18, 5, 55, 55), 0.348361096488772, False, 'time']
+['navidzah', 202539192, 'impression', '3', 240413467L, datetime.datetime(2013, 5, 18, 5, 55, 55), 0.148295722019205, False, 'time']
+['navidzah', 202539192, 'impression', '4', 240408877L, datetime.datetime(2013, 5, 18, 5, 55, 55), 0.0735758937754332, False, 'time']
+['navidzah', 202539192, 'impression', '5', 240408555L, datetime.datetime(2013, 5, 18, 5, 55, 55), 0.115210193426243, False, 'time']
+['navidzah', 202539192, 'impression', '1', 240498465L, datetime.datetime(2013, 5, 18, 5, 55, 55), 0.18444638707858, False, 'time']
+

@@ -1,0 +1,10 @@
+['bcahir', 202543617, 'impression', '7', 240499046L, datetime.datetime(2013, 5, 16, 2, 26, 16), 0.242487794882794, False, 'time']
+['bcahir', 202543617, 'impression', '8', 240498950L, datetime.datetime(2013, 5, 16, 2, 26, 16), 0.496420132443889, False, 'time']
+['bcahir', 202543617, 'impression', '1', 240499815L, datetime.datetime(2013, 5, 16, 2, 26, 16), 0.115535961436251, False, 'time']
+['bcahir', 202543617, 'impression', '2', 240499521L, datetime.datetime(2013, 5, 16, 2, 26, 16), 0.579741067537205, False, 'time']
+['bcahir', 202543617, 'impression', '5', 240499328L, datetime.datetime(2013, 5, 16, 2, 26, 16), 0.0452241662079292, False, 'time']
+['bcahir', 202543617, 'impression', '6', 240499296L, datetime.datetime(2013, 5, 16, 2, 26, 16), 0.138238786594485, False, 'time']
+['bcahir', 202543617, 'impression', '3', 240499417L, datetime.datetime(2013, 5, 16, 2, 26, 16), 0.264807550391569, False, 'time']
+['bcahir', 202543617, 'impression', '4', 240499332L, datetime.datetime(2013, 5, 16, 2, 26, 16), 0.182429015955578, False, 'time']
+['bcahir', 202543617, 'view_full_application_via_name', '2', 240499521L, datetime.datetime(2013, 5, 16, 2, 27, 1), 0.579741067537205, False, 'time']
+

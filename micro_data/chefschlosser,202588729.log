@@ -1,0 +1,7 @@
+['chefschlosser', 202588729, 'impression', '1', 241459790L, datetime.datetime(2013, 5, 30, 5, 40, 35), 0.181226400399433, True, 'time']
+['chefschlosser', 202588729, 'expand_tile', '1', 241459790L, datetime.datetime(2013, 5, 30, 5, 40, 48), 0.181226400399433, True, 'time']
+['chefschlosser', 202588729, 'view_full_application_via_name', '1', 241459790L, datetime.datetime(2013, 5, 30, 5, 42, 46), 0.181226400399433, True, 'time']
+['chefschlosser', 202588729, 'impression', '1', 241459790L, datetime.datetime(2013, 5, 30, 5, 44, 10), 0.181226400399433, True, 'time']
+['chefschlosser', 202588729, 'expand_tile', '1', 241459790L, datetime.datetime(2013, 5, 30, 5, 44, 17), 0.181226400399433, True, 'time']
+['chefschlosser', 202588729, 'hire', '1', 241459790L, datetime.datetime(2013, 5, 30, 5, 44, 22), 0.181226400399433, True, 'time']
+

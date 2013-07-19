@@ -1,0 +1,9 @@
+['amber13amber', 202543468, 'impression', '2', 240496958L, datetime.datetime(2013, 5, 20, 1, 49, 25), 0.195421122671228, True, 'best']
+['amber13amber', 202543468, 'impression', '1', 240582048L, datetime.datetime(2013, 5, 20, 1, 49, 25), 0.365611767557926, False, 'best']
+
+['amber13amber', 202543468, 'impression', '2', 240496958L, datetime.datetime(2013, 5, 28, 20, 21, 27), 0.195421122671228, True, 'best']
+['amber13amber', 202543468, 'impression', '1', 240582048L, datetime.datetime(2013, 5, 28, 20, 21, 27), 0.365611767557926, False, 'best']
+['amber13amber', 202543468, 'impression', '2', 240496958L, datetime.datetime(2013, 5, 28, 20, 21, 32), 0.195421122671228, True, 'best']
+['amber13amber', 202543468, 'expand_tile', '2', 240496958L, datetime.datetime(2013, 5, 28, 20, 21, 37), 0.195421122671228, True, 'best']
+['amber13amber', 202543468, 'view_full_application_via_name', '2', 240496958L, datetime.datetime(2013, 5, 28, 20, 21, 44), 0.195421122671228, True, 'best']
+

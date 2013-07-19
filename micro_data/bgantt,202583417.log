@@ -1,0 +1,14 @@
+['bgantt', 202583417, 'impression', '1', 241348208L, datetime.datetime(2013, 5, 26, 23, 38, 35), 0.226647732307951, False, 'best']
+['bgantt', 202583417, 'expand_tile', '1', 241348208L, datetime.datetime(2013, 5, 26, 23, 38, 48), 0.226647732307951, False, 'best']
+['bgantt', 202583417, 'impression', '1', 241348208L, datetime.datetime(2013, 5, 26, 23, 52, 54), 0.226647732307951, False, 'best']
+['bgantt', 202583417, 'impression', '1', 241348208L, datetime.datetime(2013, 5, 26, 23, 56, 56), 0.226647732307951, False, 'best']
+
+['bgantt', 202583417, 'impression', '1', 241348208L, datetime.datetime(2013, 5, 27, 0, 32, 59), 0.226647732307951, False, 'best']
+['bgantt', 202583417, 'hide', '-1', 241348208L, datetime.datetime(2013, 5, 27, 0, 33, 14), 0.226647732307951, False, 'best']
+
+['bgantt', 202583417, 'impression', '4', 241352808L, datetime.datetime(2013, 5, 27, 20, 7, 59), 0.169618758310427, False, 'best']
+['bgantt', 202583417, 'impression', '2', 241354992L, datetime.datetime(2013, 5, 27, 20, 7, 59), 0.222843994573345, False, 'best']
+['bgantt', 202583417, 'impression', '5', 241368939L, datetime.datetime(2013, 5, 27, 20, 7, 59), 0.00870764231398502, False, 'best']
+['bgantt', 202583417, 'impression', '1', 241340742L, datetime.datetime(2013, 5, 27, 20, 7, 59), 0.257935063651011, False, 'best']
+['bgantt', 202583417, 'impression', '3', 241340818L, datetime.datetime(2013, 5, 27, 20, 7, 59), 0.169976464470653, False, 'best']
+

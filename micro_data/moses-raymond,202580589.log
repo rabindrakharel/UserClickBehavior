@@ -1,0 +1,7 @@
+['moses-raymond', 202580589, 'impression', '3', 241273586L, datetime.datetime(2013, 5, 28, 6, 37, 7), 0.269949499993145, False, 'best']
+['moses-raymond', 202580589, 'impression', '2', 241272743L, datetime.datetime(2013, 5, 28, 6, 37, 7), 0.311022432753104, False, 'best']
+['moses-raymond', 202580589, 'impression', '1', 241274409L, datetime.datetime(2013, 5, 28, 6, 37, 7), 0.384545177662032, False, 'best']
+['moses-raymond', 202580589, 'impression', '5', 241274694L, datetime.datetime(2013, 5, 28, 6, 37, 7), 0.0373348640955608, False, 'best']
+['moses-raymond', 202580589, 'impression', '4', 241273215L, datetime.datetime(2013, 5, 28, 6, 37, 7), 0.097349124272314, False, 'best']
+['moses-raymond', 202580589, 'view_full_application_via_name', '4', 241273215L, datetime.datetime(2013, 5, 28, 6, 37, 27), 0.097349124272314, False, 'best']
+

@@ -1,0 +1,10 @@
+['illustratormagi', 202586064, 'impression', '1', 241520577L, datetime.datetime(2013, 5, 29, 5, 18, 1), 0.0662262388864806, False, 'time']
+['illustratormagi', 202586064, 'impression', '3', 241460877L, datetime.datetime(2013, 5, 29, 5, 18, 1), 0.0670464956171933, False, 'time']
+['illustratormagi', 202586064, 'impression', '2', 241482801L, datetime.datetime(2013, 5, 29, 5, 18, 1), 0.174964047387322, True, 'time']
+['illustratormagi', 202586064, 'expand_tile', '2', 241482801L, datetime.datetime(2013, 5, 29, 5, 22, 9), 0.174964047387322, True, 'time']
+['illustratormagi', 202586064, 'expand_tile', '1', 241520577L, datetime.datetime(2013, 5, 29, 5, 22, 25), 0.0662262388864806, False, 'time']
+['illustratormagi', 202586064, 'impression', '1', 241520577L, datetime.datetime(2013, 5, 29, 5, 29, 28), 0.0662262388864806, False, 'time']
+['illustratormagi', 202586064, 'impression', '3', 241460877L, datetime.datetime(2013, 5, 29, 5, 29, 28), 0.0670464956171933, False, 'time']
+['illustratormagi', 202586064, 'impression', '2', 241482801L, datetime.datetime(2013, 5, 29, 5, 29, 28), 0.174964047387322, True, 'time']
+['illustratormagi', 202586064, 'view_full_application_via_name', '2', 241482801L, datetime.datetime(2013, 5, 29, 5, 29, 31), 0.174964047387322, True, 'time']
+

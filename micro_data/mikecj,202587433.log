@@ -1,0 +1,10 @@
+['mikecj', 202587433, 'impression', '4', 241432124L, datetime.datetime(2013, 5, 27, 20, 57, 48), 0.0209434523281405, False, 'time']
+['mikecj', 202587433, 'impression', '3', 241432134L, datetime.datetime(2013, 5, 27, 20, 57, 48), 0.0156908229775057, False, 'time']
+['mikecj', 202587433, 'impression', '1', 241432242L, datetime.datetime(2013, 5, 27, 20, 57, 48), 0.032363118233151, False, 'time']
+['mikecj', 202587433, 'impression', '2', 241432201L, datetime.datetime(2013, 5, 27, 20, 57, 48), 0.0547206715594507, False, 'time']
+['mikecj', 202587433, 'impression', '5', 241432079L, datetime.datetime(2013, 5, 27, 20, 57, 48), 0.0283904663946234, False, 'time']
+['mikecj', 202587433, 'expand_tile', '1', 241432242L, datetime.datetime(2013, 5, 27, 20, 58, 16), 0.032363118233151, False, 'time']
+['mikecj', 202587433, 'expand_tile', '5', 241432079L, datetime.datetime(2013, 5, 27, 20, 58, 44), 0.0283904663946234, False, 'time']
+['mikecj', 202587433, 'expand_tile', '2', 241432201L, datetime.datetime(2013, 5, 27, 20, 59, 1), 0.0547206715594507, False, 'time']
+['mikecj', 202587433, 'view_full_application', '1', 241432242L, datetime.datetime(2013, 5, 27, 20, 59, 4), 0.032363118233151, False, 'time']
+

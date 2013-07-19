@@ -1,0 +1,7 @@
+['gbrent', 202580118, 'impression', '1', 241261911L, datetime.datetime(2013, 5, 25, 20, 41, 27), 0.477359071770833, False, 'best']
+['gbrent', 202580118, 'impression', '3', 241261988L, datetime.datetime(2013, 5, 25, 20, 41, 27), 0.227635399067175, False, 'best']
+['gbrent', 202580118, 'impression', '2', 241262061L, datetime.datetime(2013, 5, 25, 20, 41, 27), 0.470475097797946, False, 'best']
+['gbrent', 202580118, 'view_full_application_via_name', '1', 241261911L, datetime.datetime(2013, 5, 25, 20, 41, 32), 0.477359071770833, False, 'best']
+['gbrent', 202580118, 'expand_tile', '2', 241262061L, datetime.datetime(2013, 5, 25, 20, 43, 42), 0.470475097797946, False, 'best']
+['gbrent', 202580118, 'view_full_application_via_name', '2', 241262061L, datetime.datetime(2013, 5, 25, 20, 43, 54), 0.470475097797946, False, 'best']
+

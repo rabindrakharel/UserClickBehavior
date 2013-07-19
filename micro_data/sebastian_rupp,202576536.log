@@ -1,0 +1,21 @@
+['sebastian_rupp', 202576536, 'impression', '2', 241177334L, datetime.datetime(2013, 5, 24, 9, 57), 0.115585048493071, False, 'time']
+['sebastian_rupp', 202576536, 'impression', '1', 241180198L, datetime.datetime(2013, 5, 24, 9, 57), 0.0320009903024599, True, 'time']
+['sebastian_rupp', 202576536, 'impression', '1', 241180198L, datetime.datetime(2013, 5, 24, 10, 16, 42), 0.0320009903024599, True, 'time']
+['sebastian_rupp', 202576536, 'impression', '2', 241177334L, datetime.datetime(2013, 5, 24, 10, 16, 42), 0.115585048493071, False, 'time']
+
+['sebastian_rupp', 202576536, 'impression', '3', 241180198L, datetime.datetime(2013, 5, 26, 13, 4, 15), 0.0320009903024599, True, 'time']
+['sebastian_rupp', 202576536, 'impression', '4', 241177334L, datetime.datetime(2013, 5, 26, 13, 4, 15), 0.115585048493071, False, 'time']
+['sebastian_rupp', 202576536, 'impression', '2', 241219488L, datetime.datetime(2013, 5, 26, 13, 4, 15), 0.0216483476175899, False, 'time']
+['sebastian_rupp', 202576536, 'impression', '1', 241243136L, datetime.datetime(2013, 5, 26, 13, 4, 15), 0.192777396034047, False, 'time']
+
+['sebastian_rupp', 202576536, 'impression', '2', 241219488L, datetime.datetime(2013, 5, 27, 14, 8, 32), 0.0216483476175899, False, 'time']
+['sebastian_rupp', 202576536, 'impression', '4', 241177334L, datetime.datetime(2013, 5, 27, 14, 8, 32), 0.115585048493071, False, 'time']
+['sebastian_rupp', 202576536, 'impression', '3', 241180198L, datetime.datetime(2013, 5, 27, 14, 8, 32), 0.0320009903024599, True, 'time']
+['sebastian_rupp', 202576536, 'impression', '1', 241243136L, datetime.datetime(2013, 5, 27, 14, 8, 32), 0.192777396034047, False, 'time']
+['sebastian_rupp', 202576536, 'view_full_application_via_name', '3', 241180198L, datetime.datetime(2013, 5, 27, 14, 8, 37), 0.0320009903024599, True, 'time']
+['sebastian_rupp', 202576536, 'impression', '2', 241219488L, datetime.datetime(2013, 5, 27, 14, 10, 41), 0.0216483476175899, False, 'time']
+['sebastian_rupp', 202576536, 'impression', '3', 241180198L, datetime.datetime(2013, 5, 27, 14, 10, 41), 0.0320009903024599, True, 'time']
+['sebastian_rupp', 202576536, 'impression', '1', 241243136L, datetime.datetime(2013, 5, 27, 14, 10, 41), 0.192777396034047, False, 'time']
+['sebastian_rupp', 202576536, 'impression', '4', 241177334L, datetime.datetime(2013, 5, 27, 14, 10, 41), 0.115585048493071, False, 'time']
+['sebastian_rupp', 202576536, 'view_full_application_via_name', '3', 241180198L, datetime.datetime(2013, 5, 27, 14, 10, 43), 0.0320009903024599, True, 'time']
+

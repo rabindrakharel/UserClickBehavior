@@ -1,0 +1,9 @@
+['tj7783', 202573500, 'impression', '3', 241126255L, datetime.datetime(2013, 5, 23, 19, 8, 19), 0.0435926265676182, False, 'time']
+['tj7783', 202573500, 'impression', '4', 241126215L, datetime.datetime(2013, 5, 23, 19, 8, 19), 0.113351200307414, False, 'time']
+['tj7783', 202573500, 'impression', '6', 241123984L, datetime.datetime(2013, 5, 23, 19, 8, 19), 0.0309041920750625, False, 'time']
+['tj7783', 202573500, 'impression', '2', 241131888L, datetime.datetime(2013, 5, 23, 19, 8, 19), 0.030857406526314, False, 'time']
+['tj7783', 202573500, 'impression', '1', 241133566L, datetime.datetime(2013, 5, 23, 19, 8, 19), 0.052653622821776, False, 'time']
+['tj7783', 202573500, 'impression', '5', 241125379L, datetime.datetime(2013, 5, 23, 19, 8, 19), 0.196175548324869, False, 'time']
+['tj7783', 202573500, 'view_full_application_via_name', '1', 241133566L, datetime.datetime(2013, 5, 23, 19, 9, 38), 0.052653622821776, False, 'time']
+['tj7783', 202573500, 'view_full_application_via_name', '1', 241133566L, datetime.datetime(2013, 5, 23, 19, 9, 38), 0.052653622821776, False, 'time']
+
